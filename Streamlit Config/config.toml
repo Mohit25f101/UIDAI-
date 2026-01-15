@@ -1,0 +1,18 @@
+[theme]
+# The Official Aadhaar/UIDAI Yellow-Gold
+primaryColor = "#34c819"
+
+# Clean White Background for government professionalism
+backgroundColor = "#FFFFFF"
+
+# Light Gray for sidebars (standard government portal look)
+secondaryBackgroundColor = "#F8F9FA"
+
+# Dark Charcoal for text (high readability)
+textColor = "#262730"
+
+# Font family
+font = "sans serif"
+
+[server]
+runOnSave = true
