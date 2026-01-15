@@ -1,0 +1,19 @@
+# UIDAI-
+The transforms Aadhaar enrolment data into actionable insights for monitoring operational health, detecting anomalies, and predicting future demand.
+UIDAI_Dashboard/
+├── .streamlit/
+│   └── config.toml       <-- (Crucial for UIDAI branding)
+├── data/
+│   ├── processed_data.csv  <-- (We will create this fake file today)
+├── modules/
+│   ├── __init__.py
+│   ├── ui_components.py  <-- (For reusable cards/headers)
+│   └── data_loader.py    <-- (To load data efficiently)
+├── pages/
+│   ├── 1_📊_Overview.py
+│   ├── 2_📍_Inclusion_Map.py
+│   ├── 3_⚠️_Anomaly_Detection.py
+│   └── 4_📈_Forecasting.py
+├── assets/
+│   └── uidai_logo.png    <-- (Download a transparent UIDAI logo)
+└── Home.py               <-- (The entry point)
