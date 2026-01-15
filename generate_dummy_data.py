@@ -81,5 +81,5 @@ df = pd.DataFrame(data_list, columns=cols)
 file_path = 'data/processed_data.csv'
 df.to_csv(file_path, index=False)
 
-print(f"Done bhai! File save ho gayi hai yaha: {file_path}")
+print(f"Done Save File!  {file_path}")
 print(f"Total {len(df)} rows ban gayi hain.")

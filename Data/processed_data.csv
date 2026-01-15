@@ -1,0 +1,2556 @@
+Date,State,District,Enrolments,Updates,Child_Enrolments,Is_Anomaly,Forecast
+2025-01-01,Uttar Pradesh,Lucknow,544,1289,147,No,598
+2025-01-02,Uttar Pradesh,Lucknow,218,485,69,No,239
+2025-01-03,Uttar Pradesh,Lucknow,509,777,149,No,559
+2025-01-04,Uttar Pradesh,Lucknow,52,119,15,No,57
+2025-01-05,Uttar Pradesh,Lucknow,76,179,13,No,83
+2025-01-06,Uttar Pradesh,Lucknow,434,605,105,No,477
+2025-01-07,Uttar Pradesh,Lucknow,406,893,72,No,446
+2025-01-08,Uttar Pradesh,Lucknow,159,235,46,No,174
+2025-01-09,Uttar Pradesh,Lucknow,235,581,46,No,258
+2025-01-10,Uttar Pradesh,Lucknow,222,538,42,No,244
+2025-01-11,Uttar Pradesh,Lucknow,55,79,17,No,60
+2025-01-12,Uttar Pradesh,Lucknow,22,36,3,No,24
+2025-01-13,Uttar Pradesh,Lucknow,151,297,30,No,166
+2025-01-14,Uttar Pradesh,Lucknow,307,497,49,No,337
+2025-01-15,Uttar Pradesh,Lucknow,565,1005,166,No,621
+2025-01-16,Uttar Pradesh,Lucknow,214,318,43,No,235
+2025-01-17,Uttar Pradesh,Lucknow,241,371,59,No,265
+2025-01-18,Uttar Pradesh,Lucknow,84,169,26,No,92
+2025-01-19,Uttar Pradesh,Lucknow,66,130,20,No,72
+2025-01-20,Uttar Pradesh,Lucknow,372,709,117,No,409
+2025-01-21,Uttar Pradesh,Lucknow,439,793,99,No,482
+2025-01-22,Uttar Pradesh,Lucknow,238,332,63,No,261
+2025-01-23,Uttar Pradesh,Lucknow,558,1111,95,No,613
+2025-01-24,Uttar Pradesh,Lucknow,169,352,48,No,185
+2025-01-25,Uttar Pradesh,Lucknow,81,154,27,No,89
+2025-01-26,Uttar Pradesh,Lucknow,48,103,8,No,52
+2025-01-27,Uttar Pradesh,Lucknow,433,821,99,No,476
+2025-01-28,Uttar Pradesh,Lucknow,368,848,88,No,404
+2025-01-29,Uttar Pradesh,Lucknow,417,736,90,No,458
+2025-01-30,Uttar Pradesh,Lucknow,496,913,152,No,545
+2025-01-31,Uttar Pradesh,Lucknow,257,479,72,No,282
+2025-02-01,Uttar Pradesh,Lucknow,88,144,21,No,96
+2025-02-02,Uttar Pradesh,Lucknow,43,65,9,No,47
+2025-02-03,Uttar Pradesh,Lucknow,379,850,63,No,416
+2025-02-04,Uttar Pradesh,Lucknow,219,390,64,No,240
+2025-02-05,Uttar Pradesh,Lucknow,214,408,57,No,235
+2025-02-06,Uttar Pradesh,Lucknow,212,296,55,No,233
+2025-02-07,Uttar Pradesh,Lucknow,484,772,168,No,532
+2025-02-08,Uttar Pradesh,Lucknow,65,124,11,No,71
+2025-02-09,Uttar Pradesh,Lucknow,83,154,25,No,91
+2025-02-10,Uttar Pradesh,Lucknow,446,808,130,No,490
+2025-02-11,Uttar Pradesh,Lucknow,530,821,92,No,583
+2025-02-12,Uttar Pradesh,Lucknow,176,374,57,No,193
+2025-02-13,Uttar Pradesh,Lucknow,336,815,75,No,369
+2025-02-14,Uttar Pradesh,Lucknow,578,1016,134,No,635
+2025-02-15,Uttar Pradesh,Lucknow,21,46,4,No,23
+2025-02-16,Uttar Pradesh,Lucknow,75,169,19,No,82
+2025-02-17,Uttar Pradesh,Lucknow,410,949,126,No,451
+2025-02-18,Uttar Pradesh,Lucknow,294,731,62,No,323
+2025-02-19,Uttar Pradesh,Lucknow,541,1206,184,No,595
+2025-02-20,Uttar Pradesh,Lucknow,294,437,44,No,323
+2025-02-21,Uttar Pradesh,Lucknow,541,693,107,No,595
+2025-02-22,Uttar Pradesh,Lucknow,82,141,16,No,90
+2025-02-23,Uttar Pradesh,Lucknow,86,125,27,No,94
+2025-02-24,Uttar Pradesh,Lucknow,201,442,69,No,221
+2025-02-25,Uttar Pradesh,Lucknow,373,751,125,No,410
+2025-02-26,Uttar Pradesh,Lucknow,380,461,122,No,418
+2025-02-27,Uttar Pradesh,Lucknow,158,218,44,No,173
+2025-02-28,Uttar Pradesh,Lucknow,590,1425,165,No,649
+2025-03-01,Uttar Pradesh,Lucknow,75,182,18,No,82
+2025-03-02,Uttar Pradesh,Lucknow,57,103,9,No,62
+2025-03-03,Uttar Pradesh,Lucknow,496,1186,148,No,545
+2025-03-04,Uttar Pradesh,Lucknow,244,304,75,No,268
+2025-03-05,Uttar Pradesh,Lucknow,509,1150,144,No,559
+2025-03-06,Uttar Pradesh,Lucknow,223,420,36,No,245
+2025-03-07,Uttar Pradesh,Lucknow,555,1176,114,No,610
+2025-03-08,Uttar Pradesh,Lucknow,81,159,15,No,89
+2025-03-09,Uttar Pradesh,Lucknow,82,121,15,No,90
+2025-03-10,Uttar Pradesh,Lucknow,417,816,121,No,458
+2025-03-11,Uttar Pradesh,Lucknow,347,428,86,No,381
+2025-03-12,Uttar Pradesh,Lucknow,169,297,38,No,185
+2025-03-13,Uttar Pradesh,Lucknow,186,266,31,No,204
+2025-03-14,Uttar Pradesh,Lucknow,182,246,49,No,200
+2025-03-15,Uttar Pradesh,Lucknow,58,109,18,No,63
+2025-03-16,Uttar Pradesh,Lucknow,66,124,11,No,72
+2025-03-17,Uttar Pradesh,Lucknow,449,1110,78,No,493
+2025-03-18,Uttar Pradesh,Lucknow,412,712,117,No,453
+2025-03-19,Uttar Pradesh,Lucknow,508,1240,169,No,558
+2025-03-20,Uttar Pradesh,Lucknow,368,702,83,No,404
+2025-03-21,Uttar Pradesh,Lucknow,235,415,61,No,258
+2025-03-22,Uttar Pradesh,Lucknow,42,60,8,No,46
+2025-03-23,Uttar Pradesh,Lucknow,79,169,24,No,86
+2025-03-24,Uttar Pradesh,Lucknow,512,1097,172,No,563
+2025-03-25,Uttar Pradesh,Lucknow,239,552,45,No,262
+2025-03-26,Uttar Pradesh,Lucknow,232,440,54,No,255
+2025-03-27,Uttar Pradesh,Lucknow,462,746,124,No,508
+2025-03-28,Uttar Pradesh,Lucknow,213,506,55,No,234
+2025-03-29,Uttar Pradesh,Lucknow,97,201,19,No,106
+2025-03-30,Uttar Pradesh,Lucknow,32,47,10,No,35
+2025-03-31,Uttar Pradesh,Lucknow,553,830,119,No,608
+2025-04-01,Uttar Pradesh,Lucknow,505,688,115,No,555
+2025-04-02,Uttar Pradesh,Lucknow,300,383,58,No,330
+2025-04-03,Uttar Pradesh,Lucknow,157,250,23,No,172
+2025-04-04,Uttar Pradesh,Lucknow,463,1116,85,No,509
+2025-04-05,Uttar Pradesh,Lucknow,96,234,32,No,105
+2025-04-06,Uttar Pradesh,Lucknow,63,103,21,No,69
+2025-04-07,Uttar Pradesh,Lucknow,499,1173,173,No,548
+2025-04-08,Uttar Pradesh,Lucknow,470,1078,140,No,517
+2025-04-09,Uttar Pradesh,Lucknow,204,415,66,No,224
+2025-04-10,Uttar Pradesh,Lucknow,485,926,93,No,533
+2025-04-11,Uttar Pradesh,Lucknow,525,913,109,No,577
+2025-04-12,Uttar Pradesh,Lucknow,65,144,18,No,71
+2025-04-13,Uttar Pradesh,Lucknow,57,77,9,No,62
+2025-04-14,Uttar Pradesh,Lucknow,153,290,40,No,168
+2025-04-15,Uttar Pradesh,Lucknow,285,342,46,No,313
+2025-04-16,Uttar Pradesh,Lucknow,582,700,177,No,640
+2025-04-17,Uttar Pradesh,Lucknow,191,292,54,No,210
+2025-04-18,Uttar Pradesh,Lucknow,162,199,30,No,178
+2025-04-19,Uttar Pradesh,Lucknow,64,95,19,No,70
+2025-04-20,Uttar Pradesh,Lucknow,76,153,23,No,83
+2025-04-21,Uttar Pradesh,Lucknow,289,438,74,No,317
+2025-04-22,Uttar Pradesh,Lucknow,462,811,155,No,508
+2025-04-23,Uttar Pradesh,Lucknow,599,1463,106,No,658
+2025-04-24,Uttar Pradesh,Lucknow,481,834,100,No,529
+2025-04-25,Uttar Pradesh,Lucknow,407,713,78,No,447
+2025-04-26,Uttar Pradesh,Lucknow,48,111,13,No,52
+2025-04-27,Uttar Pradesh,Lucknow,77,138,26,No,84
+2025-04-28,Uttar Pradesh,Lucknow,528,940,136,No,580
+2025-04-29,Uttar Pradesh,Lucknow,348,473,121,No,382
+2025-04-30,Uttar Pradesh,Lucknow,283,458,56,No,311
+2025-05-01,Uttar Pradesh,Lucknow,388,675,62,No,426
+2025-05-02,Uttar Pradesh,Lucknow,234,465,56,No,257
+2025-05-03,Uttar Pradesh,Lucknow,99,141,30,No,108
+2025-05-04,Uttar Pradesh,Lucknow,94,133,28,No,103
+2025-05-05,Uttar Pradesh,Lucknow,316,487,99,No,347
+2025-05-06,Uttar Pradesh,Lucknow,536,1205,123,No,589
+2025-05-07,Uttar Pradesh,Lucknow,522,966,100,No,574
+2025-05-08,Uttar Pradesh,Lucknow,478,1055,161,No,525
+2025-05-09,Uttar Pradesh,Lucknow,385,884,109,No,423
+2025-05-10,Uttar Pradesh,Lucknow,90,113,16,No,99
+2025-05-11,Uttar Pradesh,Lucknow,29,72,9,No,31
+2025-05-12,Uttar Pradesh,Lucknow,281,617,44,No,309
+2025-05-13,Uttar Pradesh,Lucknow,220,538,66,No,242
+2025-05-14,Uttar Pradesh,Lucknow,273,668,94,No,300
+2025-05-15,Uttar Pradesh,Lucknow,247,328,60,No,271
+2025-05-16,Uttar Pradesh,Lucknow,197,269,56,No,216
+2025-05-17,Uttar Pradesh,Lucknow,34,83,9,No,37
+2025-05-18,Uttar Pradesh,Lucknow,90,185,20,No,99
+2025-05-19,Uttar Pradesh,Lucknow,301,668,52,No,331
+2025-05-20,Uttar Pradesh,Lucknow,495,970,129,No,544
+2025-05-21,Uttar Pradesh,Lucknow,315,576,62,No,346
+2025-05-22,Uttar Pradesh,Lucknow,482,800,141,No,530
+2025-05-23,Uttar Pradesh,Lucknow,235,342,35,No,258
+2025-05-24,Uttar Pradesh,Lucknow,25,30,6,No,27
+2025-05-25,Uttar Pradesh,Lucknow,23,33,4,No,25
+2025-05-26,Uttar Pradesh,Lucknow,278,486,60,No,305
+2025-05-27,Uttar Pradesh,Lucknow,505,1213,140,No,555
+2025-05-28,Uttar Pradesh,Lucknow,279,658,68,No,306
+2025-05-29,Uttar Pradesh,Lucknow,258,392,65,No,283
+2025-05-30,Uttar Pradesh,Lucknow,442,851,84,No,486
+2025-05-31,Uttar Pradesh,Lucknow,25,32,7,No,27
+2025-06-01,Uttar Pradesh,Lucknow,26,49,6,No,28
+2025-06-02,Uttar Pradesh,Lucknow,236,525,82,No,259
+2025-06-03,Uttar Pradesh,Lucknow,162,363,45,No,178
+2025-06-04,Uttar Pradesh,Lucknow,466,712,136,No,512
+2025-06-05,Uttar Pradesh,Lucknow,228,336,63,No,250
+2025-06-06,Uttar Pradesh,Lucknow,184,270,32,No,202
+2025-06-07,Uttar Pradesh,Lucknow,38,54,11,No,41
+2025-06-08,Uttar Pradesh,Lucknow,41,49,9,No,45
+2025-06-09,Uttar Pradesh,Lucknow,386,541,121,No,424
+2025-06-10,Uttar Pradesh,Lucknow,490,1028,99,No,539
+2025-06-11,Uttar Pradesh,Lucknow,301,592,71,No,331
+2025-06-12,Uttar Pradesh,Lucknow,352,519,121,No,387
+2025-06-13,Uttar Pradesh,Lucknow,539,1039,97,No,592
+2025-06-14,Uttar Pradesh,Lucknow,95,184,20,No,104
+2025-06-15,Uttar Pradesh,Lucknow,41,72,10,No,45
+2025-06-16,Uttar Pradesh,Lucknow,336,807,56,No,369
+2025-06-17,Uttar Pradesh,Lucknow,267,364,51,No,293
+2025-06-18,Uttar Pradesh,Lucknow,234,388,62,No,257
+2025-06-19,Uttar Pradesh,Lucknow,583,1083,140,No,641
+2025-06-20,Uttar Pradesh,Lucknow,204,356,64,No,224
+2025-06-21,Uttar Pradesh,Lucknow,99,173,16,No,108
+2025-06-22,Uttar Pradesh,Lucknow,70,86,21,No,77
+2025-06-23,Uttar Pradesh,Lucknow,194,397,58,No,213
+2025-06-24,Uttar Pradesh,Lucknow,443,1097,129,No,487
+2025-06-25,Uttar Pradesh,Lucknow,401,500,71,No,441
+2025-06-26,Uttar Pradesh,Lucknow,529,882,180,No,581
+2025-06-27,Uttar Pradesh,Lucknow,372,828,60,No,409
+2025-06-28,Uttar Pradesh,Lucknow,81,133,19,No,89
+2025-06-29,Uttar Pradesh,Lucknow,79,155,13,No,86
+2025-06-30,Uttar Pradesh,Lucknow,195,477,61,No,214
+2025-07-01,Uttar Pradesh,Lucknow,342,764,63,No,376
+2025-07-02,Uttar Pradesh,Lucknow,371,604,92,No,408
+2025-07-03,Uttar Pradesh,Lucknow,405,702,112,No,445
+2025-07-04,Uttar Pradesh,Lucknow,299,590,100,No,328
+2025-07-05,Uttar Pradesh,Lucknow,53,125,15,No,58
+2025-07-06,Uttar Pradesh,Lucknow,90,193,27,No,99
+2025-07-07,Uttar Pradesh,Lucknow,460,859,135,No,506
+2025-07-08,Uttar Pradesh,Lucknow,338,827,65,No,371
+2025-07-09,Uttar Pradesh,Lucknow,495,828,155,No,544
+2025-07-10,Uttar Pradesh,Lucknow,311,396,79,No,342
+2025-07-11,Uttar Pradesh,Lucknow,164,205,41,No,180
+2025-07-12,Uttar Pradesh,Lucknow,67,140,13,No,73
+2025-07-13,Uttar Pradesh,Lucknow,61,75,18,No,67
+2025-07-14,Uttar Pradesh,Lucknow,311,675,67,No,342
+2025-07-15,Uttar Pradesh,Lucknow,472,1022,85,No,519
+2025-07-16,Uttar Pradesh,Lucknow,402,533,107,No,442
+2025-07-17,Uttar Pradesh,Lucknow,532,1277,185,No,585
+2025-07-18,Uttar Pradesh,Lucknow,212,350,63,No,233
+2025-07-19,Uttar Pradesh,Lucknow,30,70,7,No,33
+2025-07-20,Uttar Pradesh,Lucknow,82,142,22,No,90
+2025-07-21,Uttar Pradesh,Lucknow,462,1002,98,No,508
+2025-07-22,Uttar Pradesh,Lucknow,447,594,114,No,491
+2025-07-23,Uttar Pradesh,Lucknow,388,617,119,No,426
+2025-07-24,Uttar Pradesh,Lucknow,316,391,69,No,347
+2025-07-25,Uttar Pradesh,Lucknow,207,391,49,No,227
+2025-07-26,Uttar Pradesh,Lucknow,53,105,10,No,58
+2025-07-27,Uttar Pradesh,Lucknow,58,122,17,No,63
+2025-07-28,Uttar Pradesh,Lucknow,462,576,94,No,508
+2025-07-29,Uttar Pradesh,Lucknow,399,697,73,No,438
+2025-07-30,Uttar Pradesh,Lucknow,502,662,103,No,552
+2025-07-31,Uttar Pradesh,Lucknow,592,993,155,No,651
+2025-08-01,Uttar Pradesh,Lucknow,169,296,35,No,185
+2025-08-02,Uttar Pradesh,Lucknow,21,25,6,No,23
+2025-08-03,Uttar Pradesh,Lucknow,95,171,26,No,104
+2025-08-04,Uttar Pradesh,Lucknow,417,948,85,No,458
+2025-08-05,Uttar Pradesh,Lucknow,334,663,97,No,367
+2025-08-06,Uttar Pradesh,Lucknow,301,693,94,No,331
+2025-08-07,Uttar Pradesh,Lucknow,358,519,61,No,393
+2025-08-08,Uttar Pradesh,Lucknow,196,329,45,No,215
+2025-08-09,Uttar Pradesh,Lucknow,98,222,16,No,107
+2025-08-10,Uttar Pradesh,Lucknow,55,119,9,No,60
+2025-08-11,Uttar Pradesh,Lucknow,312,634,78,No,343
+2025-08-12,Uttar Pradesh,Lucknow,345,602,54,No,379
+2025-08-13,Uttar Pradesh,Lucknow,598,758,127,No,657
+2025-08-14,Uttar Pradesh,Lucknow,278,379,86,No,305
+2025-08-15,Uttar Pradesh,Lucknow,532,1124,175,No,585
+2025-08-16,Uttar Pradesh,Lucknow,93,127,19,No,102
+2025-08-17,Uttar Pradesh,Lucknow,59,111,14,No,64
+2025-08-18,Uttar Pradesh,Lucknow,177,420,45,No,194
+2025-08-19,Uttar Pradesh,Lucknow,251,388,44,No,276
+2025-08-20,Uttar Pradesh,Lucknow,412,699,95,No,453
+2025-08-21,Uttar Pradesh,Lucknow,519,997,179,No,570
+2025-08-22,Uttar Pradesh,Lucknow,266,345,81,No,292
+2025-08-23,Uttar Pradesh,Lucknow,27,50,7,No,29
+2025-08-24,Uttar Pradesh,Lucknow,93,189,23,No,102
+2025-08-25,Uttar Pradesh,Lucknow,184,263,33,No,202
+2025-08-26,Uttar Pradesh,Lucknow,248,465,73,No,272
+2025-08-27,Uttar Pradesh,Lucknow,569,772,169,No,625
+2025-08-28,Uttar Pradesh,Lucknow,225,408,62,No,247
+2025-08-29,Uttar Pradesh,Lucknow,211,482,63,No,232
+2025-08-30,Uttar Pradesh,Lucknow,81,179,25,No,89
+2025-08-31,Uttar Pradesh,Lucknow,74,140,25,No,81
+2025-09-01,Uttar Pradesh,Lucknow,345,854,53,No,379
+2025-09-02,Uttar Pradesh,Lucknow,481,1027,157,No,529
+2025-09-03,Uttar Pradesh,Lucknow,519,941,100,No,570
+2025-09-04,Uttar Pradesh,Lucknow,181,241,33,No,199
+2025-09-05,Uttar Pradesh,Lucknow,374,905,114,No,411
+2025-09-06,Uttar Pradesh,Lucknow,87,110,21,No,95
+2025-09-07,Uttar Pradesh,Lucknow,21,48,4,No,23
+2025-09-08,Uttar Pradesh,Lucknow,520,656,150,No,572
+2025-09-09,Uttar Pradesh,Lucknow,301,482,83,No,331
+2025-09-10,Uttar Pradesh,Lucknow,249,565,57,No,273
+2025-09-11,Uttar Pradesh,Lucknow,368,718,66,No,404
+2025-09-12,Uttar Pradesh,Lucknow,201,489,56,No,221
+2025-09-13,Uttar Pradesh,Lucknow,37,48,11,No,40
+2025-09-14,Uttar Pradesh,Lucknow,41,92,8,No,45
+2025-09-15,Uttar Pradesh,Lucknow,520,1039,99,No,572
+2025-09-16,Uttar Pradesh,Lucknow,436,629,150,No,479
+2025-09-17,Uttar Pradesh,Lucknow,383,782,70,No,421
+2025-09-18,Uttar Pradesh,Lucknow,530,893,172,No,583
+2025-09-19,Uttar Pradesh,Lucknow,313,505,95,No,344
+2025-09-20,Uttar Pradesh,Lucknow,32,65,5,No,35
+2025-09-21,Uttar Pradesh,Lucknow,26,64,5,No,28
+2025-09-22,Uttar Pradesh,Lucknow,499,836,173,No,548
+2025-09-23,Uttar Pradesh,Lucknow,517,1189,79,No,568
+2025-09-24,Uttar Pradesh,Lucknow,186,362,29,No,204
+2025-09-25,Uttar Pradesh,Lucknow,499,1067,156,No,548
+2025-09-26,Uttar Pradesh,Lucknow,533,1162,155,No,586
+2025-09-27,Uttar Pradesh,Lucknow,22,48,3,No,24
+2025-09-28,Uttar Pradesh,Lucknow,20,34,5,No,22
+2025-09-29,Uttar Pradesh,Lucknow,254,410,68,No,279
+2025-09-30,Uttar Pradesh,Lucknow,533,836,107,No,586
+2025-10-01,Uttar Pradesh,Lucknow,518,780,81,No,569
+2025-10-02,Uttar Pradesh,Lucknow,229,542,64,No,251
+2025-10-03,Uttar Pradesh,Lucknow,430,791,146,No,473
+2025-10-04,Uttar Pradesh,Lucknow,88,117,19,No,96
+2025-10-05,Uttar Pradesh,Lucknow,80,184,19,No,88
+2025-10-06,Uttar Pradesh,Lucknow,281,621,43,No,309
+2025-10-07,Uttar Pradesh,Lucknow,334,607,80,No,367
+2025-10-08,Uttar Pradesh,Lucknow,532,647,153,No,585
+2025-10-09,Uttar Pradesh,Lucknow,235,385,74,No,258
+2025-10-10,Uttar Pradesh,Lucknow,595,980,123,No,654
+2025-10-11,Uttar Pradesh,Lucknow,46,112,10,No,50
+2025-10-12,Uttar Pradesh,Lucknow,83,120,21,No,91
+2025-10-13,Uttar Pradesh,Lucknow,403,517,118,No,443
+2025-10-14,Uttar Pradesh,Lucknow,358,651,77,No,393
+2025-10-15,Uttar Pradesh,Lucknow,249,428,50,No,273
+2025-10-16,Uttar Pradesh,Lucknow,438,809,136,No,481
+2025-10-17,Uttar Pradesh,Lucknow,316,617,92,No,347
+2025-10-18,Uttar Pradesh,Lucknow,20,37,4,No,22
+2025-10-19,Uttar Pradesh,Lucknow,36,85,9,No,39
+2025-10-20,Uttar Pradesh,Lucknow,471,597,134,No,518
+2025-10-21,Uttar Pradesh,Lucknow,492,982,145,No,541
+2025-10-22,Uttar Pradesh,Lucknow,298,629,46,No,327
+2025-10-23,Uttar Pradesh,Lucknow,405,940,88,No,445
+2025-10-24,Uttar Pradesh,Lucknow,237,481,50,No,260
+2025-10-25,Uttar Pradesh,Lucknow,95,197,19,No,104
+2025-10-26,Uttar Pradesh,Lucknow,75,96,23,No,82
+2025-10-27,Uttar Pradesh,Lucknow,412,1020,120,No,453
+2025-10-28,Uttar Pradesh,Lucknow,260,502,90,No,286
+2025-10-29,Uttar Pradesh,Lucknow,465,928,153,No,511
+2025-10-30,Uttar Pradesh,Lucknow,453,1102,148,No,498
+2025-10-31,Uttar Pradesh,Lucknow,204,288,49,No,224
+2025-11-01,Uttar Pradesh,Lucknow,34,74,7,No,37
+2025-11-02,Uttar Pradesh,Lucknow,88,219,17,No,96
+2025-11-03,Uttar Pradesh,Lucknow,426,709,103,No,468
+2025-11-04,Uttar Pradesh,Lucknow,298,467,61,No,327
+2025-11-05,Uttar Pradesh,Lucknow,384,519,83,No,422
+2025-11-06,Uttar Pradesh,Lucknow,311,545,71,No,342
+2025-11-07,Uttar Pradesh,Lucknow,472,567,110,Yes,519
+2025-11-08,Uttar Pradesh,Lucknow,87,149,19,No,95
+2025-11-09,Uttar Pradesh,Lucknow,36,87,8,No,39
+2025-11-10,Uttar Pradesh,Lucknow,341,437,118,No,375
+2025-11-11,Uttar Pradesh,Lucknow,591,1074,200,No,650
+2025-11-12,Uttar Pradesh,Lucknow,192,268,49,No,211
+2025-11-13,Uttar Pradesh,Lucknow,210,435,48,No,231
+2025-11-14,Uttar Pradesh,Lucknow,156,229,26,No,171
+2025-11-15,Uttar Pradesh,Lucknow,41,64,11,No,45
+2025-11-16,Uttar Pradesh,Lucknow,42,74,10,No,46
+2025-11-17,Uttar Pradesh,Lucknow,361,762,84,No,397
+2025-11-18,Uttar Pradesh,Lucknow,522,1266,91,No,574
+2025-11-19,Uttar Pradesh,Lucknow,178,322,42,No,195
+2025-11-20,Uttar Pradesh,Lucknow,323,480,91,No,355
+2025-11-21,Uttar Pradesh,Lucknow,528,721,154,No,580
+2025-11-22,Uttar Pradesh,Lucknow,34,58,8,No,37
+2025-11-23,Uttar Pradesh,Lucknow,29,36,7,No,31
+2025-11-24,Uttar Pradesh,Lucknow,486,881,114,No,534
+2025-11-25,Uttar Pradesh,Lucknow,248,597,39,No,272
+2025-11-26,Uttar Pradesh,Lucknow,214,377,58,No,235
+2025-11-27,Uttar Pradesh,Lucknow,176,412,38,No,193
+2025-11-28,Uttar Pradesh,Lucknow,244,584,63,No,268
+2025-11-29,Uttar Pradesh,Lucknow,64,96,20,No,70
+2025-11-30,Uttar Pradesh,Lucknow,23,29,7,No,25
+2025-12-01,Uttar Pradesh,Lucknow,174,271,43,No,191
+2025-12-02,Uttar Pradesh,Lucknow,589,1267,157,No,647
+2025-12-03,Uttar Pradesh,Lucknow,534,972,117,No,587
+2025-12-04,Uttar Pradesh,Lucknow,279,418,47,No,306
+2025-12-05,Uttar Pradesh,Lucknow,358,707,97,No,393
+2025-12-06,Uttar Pradesh,Lucknow,78,154,18,No,85
+2025-12-07,Uttar Pradesh,Lucknow,28,53,8,No,30
+2025-12-08,Uttar Pradesh,Lucknow,223,268,45,No,245
+2025-12-09,Uttar Pradesh,Lucknow,447,582,149,No,491
+2025-12-10,Uttar Pradesh,Lucknow,508,820,97,No,558
+2025-12-11,Uttar Pradesh,Lucknow,491,750,161,No,540
+2025-12-12,Uttar Pradesh,Lucknow,395,863,78,No,434
+2025-12-13,Uttar Pradesh,Lucknow,72,90,16,No,79
+2025-12-14,Uttar Pradesh,Lucknow,66,163,22,No,72
+2025-12-15,Uttar Pradesh,Lucknow,292,519,58,No,321
+2025-12-16,Uttar Pradesh,Lucknow,414,632,69,No,455
+2025-12-17,Uttar Pradesh,Lucknow,155,334,37,No,170
+2025-12-18,Uttar Pradesh,Lucknow,537,991,179,No,590
+2025-12-19,Uttar Pradesh,Lucknow,225,387,34,No,247
+2025-12-20,Uttar Pradesh,Lucknow,90,163,29,No,99
+2025-12-21,Uttar Pradesh,Lucknow,26,61,8,No,28
+2025-12-22,Uttar Pradesh,Lucknow,343,801,69,No,377
+2025-12-23,Uttar Pradesh,Lucknow,408,973,68,No,448
+2025-12-24,Uttar Pradesh,Lucknow,551,703,130,No,606
+2025-12-25,Uttar Pradesh,Lucknow,161,319,49,No,177
+2025-12-26,Uttar Pradesh,Lucknow,207,477,44,No,227
+2025-12-27,Uttar Pradesh,Lucknow,43,56,11,No,47
+2025-12-28,Uttar Pradesh,Lucknow,41,83,6,No,45
+2025-12-29,Uttar Pradesh,Lucknow,344,495,115,No,378
+2025-12-30,Uttar Pradesh,Lucknow,303,739,68,No,333
+2025-12-31,Uttar Pradesh,Lucknow,527,680,156,No,579
+2025-01-01,Uttar Pradesh,Varanasi,258,378,69,No,283
+2025-01-02,Uttar Pradesh,Varanasi,439,966,126,No,482
+2025-01-03,Uttar Pradesh,Varanasi,566,904,131,No,622
+2025-01-04,Uttar Pradesh,Varanasi,54,123,8,No,59
+2025-01-05,Uttar Pradesh,Varanasi,44,55,8,No,48
+2025-01-06,Uttar Pradesh,Varanasi,221,465,60,No,243
+2025-01-07,Uttar Pradesh,Varanasi,197,336,52,No,216
+2025-01-08,Uttar Pradesh,Varanasi,171,208,29,No,188
+2025-01-09,Uttar Pradesh,Varanasi,199,434,49,No,218
+2025-01-10,Uttar Pradesh,Varanasi,354,542,66,No,389
+2025-01-11,Uttar Pradesh,Varanasi,45,73,12,No,49
+2025-01-12,Uttar Pradesh,Varanasi,49,62,9,No,53
+2025-01-13,Uttar Pradesh,Varanasi,343,738,75,No,377
+2025-01-14,Uttar Pradesh,Varanasi,198,433,41,No,217
+2025-01-15,Uttar Pradesh,Varanasi,541,873,132,No,595
+2025-01-16,Uttar Pradesh,Varanasi,471,974,74,No,518
+2025-01-17,Uttar Pradesh,Varanasi,238,564,78,No,261
+2025-01-18,Uttar Pradesh,Varanasi,60,88,11,Yes,66
+2025-01-19,Uttar Pradesh,Varanasi,51,82,11,No,56
+2025-01-20,Uttar Pradesh,Varanasi,275,584,49,No,302
+2025-01-21,Uttar Pradesh,Varanasi,509,968,168,No,559
+2025-01-22,Uttar Pradesh,Varanasi,495,1176,105,No,544
+2025-01-23,Uttar Pradesh,Varanasi,481,1187,105,No,529
+2025-01-24,Uttar Pradesh,Varanasi,556,1373,154,No,611
+2025-01-25,Uttar Pradesh,Varanasi,47,72,13,No,51
+2025-01-26,Uttar Pradesh,Varanasi,24,55,4,No,26
+2025-01-27,Uttar Pradesh,Varanasi,479,996,77,No,526
+2025-01-28,Uttar Pradesh,Varanasi,483,675,98,No,531
+2025-01-29,Uttar Pradesh,Varanasi,213,452,72,No,234
+2025-01-30,Uttar Pradesh,Varanasi,492,1000,144,No,541
+2025-01-31,Uttar Pradesh,Varanasi,288,362,84,No,316
+2025-02-01,Uttar Pradesh,Varanasi,47,102,8,No,51
+2025-02-02,Uttar Pradesh,Varanasi,25,55,7,No,27
+2025-02-03,Uttar Pradesh,Varanasi,542,1117,104,No,596
+2025-02-04,Uttar Pradesh,Varanasi,492,750,76,No,541
+2025-02-05,Uttar Pradesh,Varanasi,431,1012,73,No,474
+2025-02-06,Uttar Pradesh,Varanasi,484,798,166,No,532
+2025-02-07,Uttar Pradesh,Varanasi,198,448,52,No,217
+2025-02-08,Uttar Pradesh,Varanasi,71,130,14,No,78
+2025-02-09,Uttar Pradesh,Varanasi,47,112,8,No,51
+2025-02-10,Uttar Pradesh,Varanasi,213,316,51,No,234
+2025-02-11,Uttar Pradesh,Varanasi,465,840,120,No,511
+2025-02-12,Uttar Pradesh,Varanasi,184,428,56,No,202
+2025-02-13,Uttar Pradesh,Varanasi,295,451,82,No,324
+2025-02-14,Uttar Pradesh,Varanasi,260,564,46,No,286
+2025-02-15,Uttar Pradesh,Varanasi,99,210,33,No,108
+2025-02-16,Uttar Pradesh,Varanasi,67,115,20,No,73
+2025-02-17,Uttar Pradesh,Varanasi,251,615,51,No,276
+2025-02-18,Uttar Pradesh,Varanasi,488,1006,140,No,536
+2025-02-19,Uttar Pradesh,Varanasi,422,713,101,No,464
+2025-02-20,Uttar Pradesh,Varanasi,456,863,71,No,501
+2025-02-21,Uttar Pradesh,Varanasi,221,438,43,No,243
+2025-02-22,Uttar Pradesh,Varanasi,44,86,7,No,48
+2025-02-23,Uttar Pradesh,Varanasi,54,72,15,No,59
+2025-02-24,Uttar Pradesh,Varanasi,536,754,87,Yes,589
+2025-02-25,Uttar Pradesh,Varanasi,184,302,45,No,202
+2025-02-26,Uttar Pradesh,Varanasi,431,964,78,No,474
+2025-02-27,Uttar Pradesh,Varanasi,463,581,99,No,509
+2025-02-28,Uttar Pradesh,Varanasi,474,1033,110,No,521
+2025-03-01,Uttar Pradesh,Varanasi,24,33,5,No,26
+2025-03-02,Uttar Pradesh,Varanasi,87,177,22,No,95
+2025-03-03,Uttar Pradesh,Varanasi,243,482,39,No,267
+2025-03-04,Uttar Pradesh,Varanasi,479,660,83,No,526
+2025-03-05,Uttar Pradesh,Varanasi,461,590,102,No,507
+2025-03-06,Uttar Pradesh,Varanasi,274,510,83,No,301
+2025-03-07,Uttar Pradesh,Varanasi,158,345,44,No,173
+2025-03-08,Uttar Pradesh,Varanasi,73,122,22,No,80
+2025-03-09,Uttar Pradesh,Varanasi,20,44,4,No,22
+2025-03-10,Uttar Pradesh,Varanasi,301,668,58,No,331
+2025-03-11,Uttar Pradesh,Varanasi,180,332,45,No,198
+2025-03-12,Uttar Pradesh,Varanasi,244,430,65,No,268
+2025-03-13,Uttar Pradesh,Varanasi,284,454,93,No,312
+2025-03-14,Uttar Pradesh,Varanasi,223,502,50,No,245
+2025-03-15,Uttar Pradesh,Varanasi,94,142,20,No,103
+2025-03-16,Uttar Pradesh,Varanasi,25,50,4,No,27
+2025-03-17,Uttar Pradesh,Varanasi,505,860,104,No,555
+2025-03-18,Uttar Pradesh,Varanasi,382,826,111,No,420
+2025-03-19,Uttar Pradesh,Varanasi,577,933,128,No,634
+2025-03-20,Uttar Pradesh,Varanasi,297,631,64,No,326
+2025-03-21,Uttar Pradesh,Varanasi,513,1087,102,No,564
+2025-03-22,Uttar Pradesh,Varanasi,33,71,6,No,36
+2025-03-23,Uttar Pradesh,Varanasi,65,88,12,No,71
+2025-03-24,Uttar Pradesh,Varanasi,524,1059,117,No,576
+2025-03-25,Uttar Pradesh,Varanasi,566,1296,101,No,622
+2025-03-26,Uttar Pradesh,Varanasi,314,529,67,No,345
+2025-03-27,Uttar Pradesh,Varanasi,492,885,154,No,541
+2025-03-28,Uttar Pradesh,Varanasi,590,734,204,No,649
+2025-03-29,Uttar Pradesh,Varanasi,93,205,32,No,102
+2025-03-30,Uttar Pradesh,Varanasi,21,40,3,No,23
+2025-03-31,Uttar Pradesh,Varanasi,186,421,52,No,204
+2025-04-01,Uttar Pradesh,Varanasi,330,686,61,No,363
+2025-04-02,Uttar Pradesh,Varanasi,319,438,87,No,350
+2025-04-03,Uttar Pradesh,Varanasi,285,707,54,No,313
+2025-04-04,Uttar Pradesh,Varanasi,174,217,58,No,191
+2025-04-05,Uttar Pradesh,Varanasi,91,195,27,No,100
+2025-04-06,Uttar Pradesh,Varanasi,48,86,7,No,52
+2025-04-07,Uttar Pradesh,Varanasi,449,1040,152,No,493
+2025-04-08,Uttar Pradesh,Varanasi,508,1077,109,No,558
+2025-04-09,Uttar Pradesh,Varanasi,462,1136,102,No,508
+2025-04-10,Uttar Pradesh,Varanasi,587,1280,166,No,645
+2025-04-11,Uttar Pradesh,Varanasi,511,1041,100,No,562
+2025-04-12,Uttar Pradesh,Varanasi,71,117,22,No,78
+2025-04-13,Uttar Pradesh,Varanasi,98,168,27,No,107
+2025-04-14,Uttar Pradesh,Varanasi,437,849,88,No,480
+2025-04-15,Uttar Pradesh,Varanasi,187,408,51,No,205
+2025-04-16,Uttar Pradesh,Varanasi,320,471,62,No,352
+2025-04-17,Uttar Pradesh,Varanasi,226,531,42,No,248
+2025-04-18,Uttar Pradesh,Varanasi,240,294,52,No,264
+2025-04-19,Uttar Pradesh,Varanasi,73,159,12,No,80
+2025-04-20,Uttar Pradesh,Varanasi,75,90,12,No,82
+2025-04-21,Uttar Pradesh,Varanasi,193,373,40,No,212
+2025-04-22,Uttar Pradesh,Varanasi,174,427,58,No,191
+2025-04-23,Uttar Pradesh,Varanasi,480,681,95,No,528
+2025-04-24,Uttar Pradesh,Varanasi,409,493,78,No,449
+2025-04-25,Uttar Pradesh,Varanasi,405,938,97,Yes,445
+2025-04-26,Uttar Pradesh,Varanasi,93,135,26,No,102
+2025-04-27,Uttar Pradesh,Varanasi,34,55,8,No,37
+2025-04-28,Uttar Pradesh,Varanasi,293,531,76,No,322
+2025-04-29,Uttar Pradesh,Varanasi,221,522,52,No,243
+2025-04-30,Uttar Pradesh,Varanasi,366,793,76,No,402
+2025-05-01,Uttar Pradesh,Varanasi,198,478,55,No,217
+2025-05-02,Uttar Pradesh,Varanasi,363,517,112,No,399
+2025-05-03,Uttar Pradesh,Varanasi,40,48,13,No,44
+2025-05-04,Uttar Pradesh,Varanasi,39,91,12,No,42
+2025-05-05,Uttar Pradesh,Varanasi,552,935,89,No,607
+2025-05-06,Uttar Pradesh,Varanasi,351,668,86,No,386
+2025-05-07,Uttar Pradesh,Varanasi,256,387,58,No,281
+2025-05-08,Uttar Pradesh,Varanasi,447,617,142,No,491
+2025-05-09,Uttar Pradesh,Varanasi,412,797,140,No,453
+2025-05-10,Uttar Pradesh,Varanasi,53,70,14,No,58
+2025-05-11,Uttar Pradesh,Varanasi,34,50,10,No,37
+2025-05-12,Uttar Pradesh,Varanasi,307,485,83,No,337
+2025-05-13,Uttar Pradesh,Varanasi,250,574,79,No,275
+2025-05-14,Uttar Pradesh,Varanasi,311,577,84,No,342
+2025-05-15,Uttar Pradesh,Varanasi,557,1269,166,No,612
+2025-05-16,Uttar Pradesh,Varanasi,417,561,98,No,458
+2025-05-17,Uttar Pradesh,Varanasi,61,107,14,No,67
+2025-05-18,Uttar Pradesh,Varanasi,30,41,6,No,33
+2025-05-19,Uttar Pradesh,Varanasi,533,981,100,No,586
+2025-05-20,Uttar Pradesh,Varanasi,475,1096,122,No,522
+2025-05-21,Uttar Pradesh,Varanasi,488,1009,121,No,536
+2025-05-22,Uttar Pradesh,Varanasi,440,1013,132,No,484
+2025-05-23,Uttar Pradesh,Varanasi,591,1279,157,No,650
+2025-05-24,Uttar Pradesh,Varanasi,31,63,8,No,34
+2025-05-25,Uttar Pradesh,Varanasi,82,117,17,No,90
+2025-05-26,Uttar Pradesh,Varanasi,445,905,111,No,489
+2025-05-27,Uttar Pradesh,Varanasi,550,874,124,No,605
+2025-05-28,Uttar Pradesh,Varanasi,393,566,106,No,432
+2025-05-29,Uttar Pradesh,Varanasi,155,307,35,No,170
+2025-05-30,Uttar Pradesh,Varanasi,460,1000,154,No,506
+2025-05-31,Uttar Pradesh,Varanasi,45,58,8,No,49
+2025-06-01,Uttar Pradesh,Varanasi,60,81,14,No,66
+2025-06-02,Uttar Pradesh,Varanasi,340,421,58,No,374
+2025-06-03,Uttar Pradesh,Varanasi,166,351,55,No,182
+2025-06-04,Uttar Pradesh,Varanasi,441,1029,130,No,485
+2025-06-05,Uttar Pradesh,Varanasi,515,723,83,No,566
+2025-06-06,Uttar Pradesh,Varanasi,283,455,65,No,311
+2025-06-07,Uttar Pradesh,Varanasi,43,57,13,No,47
+2025-06-08,Uttar Pradesh,Varanasi,89,108,14,No,97
+2025-06-09,Uttar Pradesh,Varanasi,503,1079,133,No,553
+2025-06-10,Uttar Pradesh,Varanasi,153,361,31,No,168
+2025-06-11,Uttar Pradesh,Varanasi,524,833,174,No,576
+2025-06-12,Uttar Pradesh,Varanasi,398,671,88,No,437
+2025-06-13,Uttar Pradesh,Varanasi,516,1273,140,No,567
+2025-06-14,Uttar Pradesh,Varanasi,71,124,22,No,78
+2025-06-15,Uttar Pradesh,Varanasi,23,47,5,No,25
+2025-06-16,Uttar Pradesh,Varanasi,360,621,119,No,396
+2025-06-17,Uttar Pradesh,Varanasi,467,634,93,No,513
+2025-06-18,Uttar Pradesh,Varanasi,235,479,82,No,258
+2025-06-19,Uttar Pradesh,Varanasi,299,484,82,No,328
+2025-06-20,Uttar Pradesh,Varanasi,455,767,134,No,500
+2025-06-21,Uttar Pradesh,Varanasi,86,197,21,No,94
+2025-06-22,Uttar Pradesh,Varanasi,68,109,21,No,74
+2025-06-23,Uttar Pradesh,Varanasi,203,279,69,No,223
+2025-06-24,Uttar Pradesh,Varanasi,276,524,57,No,303
+2025-06-25,Uttar Pradesh,Varanasi,347,585,116,No,381
+2025-06-26,Uttar Pradesh,Varanasi,155,337,31,No,170
+2025-06-27,Uttar Pradesh,Varanasi,521,1161,85,No,573
+2025-06-28,Uttar Pradesh,Varanasi,71,171,13,Yes,78
+2025-06-29,Uttar Pradesh,Varanasi,23,37,4,No,25
+2025-06-30,Uttar Pradesh,Varanasi,399,794,112,No,438
+2025-07-01,Uttar Pradesh,Varanasi,362,768,100,No,398
+2025-07-02,Uttar Pradesh,Varanasi,542,1255,93,No,596
+2025-07-03,Uttar Pradesh,Varanasi,316,600,110,No,347
+2025-07-04,Uttar Pradesh,Varanasi,206,354,52,No,226
+2025-07-05,Uttar Pradesh,Varanasi,84,190,27,No,92
+2025-07-06,Uttar Pradesh,Varanasi,63,154,15,No,69
+2025-07-07,Uttar Pradesh,Varanasi,590,739,133,No,649
+2025-07-08,Uttar Pradesh,Varanasi,434,823,112,No,477
+2025-07-09,Uttar Pradesh,Varanasi,443,664,143,No,487
+2025-07-10,Uttar Pradesh,Varanasi,180,409,31,No,198
+2025-07-11,Uttar Pradesh,Varanasi,393,474,105,No,432
+2025-07-12,Uttar Pradesh,Varanasi,80,186,19,No,88
+2025-07-13,Uttar Pradesh,Varanasi,20,29,4,No,22
+2025-07-14,Uttar Pradesh,Varanasi,393,520,125,No,432
+2025-07-15,Uttar Pradesh,Varanasi,325,746,107,No,357
+2025-07-16,Uttar Pradesh,Varanasi,545,1161,152,No,599
+2025-07-17,Uttar Pradesh,Varanasi,204,459,33,No,224
+2025-07-18,Uttar Pradesh,Varanasi,444,987,101,No,488
+2025-07-19,Uttar Pradesh,Varanasi,87,144,22,No,95
+2025-07-20,Uttar Pradesh,Varanasi,73,154,20,No,80
+2025-07-21,Uttar Pradesh,Varanasi,497,867,127,No,546
+2025-07-22,Uttar Pradesh,Varanasi,518,829,164,No,569
+2025-07-23,Uttar Pradesh,Varanasi,274,576,88,No,301
+2025-07-24,Uttar Pradesh,Varanasi,229,331,77,No,251
+2025-07-25,Uttar Pradesh,Varanasi,468,827,132,No,514
+2025-07-26,Uttar Pradesh,Varanasi,58,98,10,No,63
+2025-07-27,Uttar Pradesh,Varanasi,63,100,10,No,69
+2025-07-28,Uttar Pradesh,Varanasi,433,666,101,No,476
+2025-07-29,Uttar Pradesh,Varanasi,527,1272,84,No,579
+2025-07-30,Uttar Pradesh,Varanasi,344,463,59,No,378
+2025-07-31,Uttar Pradesh,Varanasi,173,327,47,No,190
+2025-08-01,Uttar Pradesh,Varanasi,441,554,127,No,485
+2025-08-02,Uttar Pradesh,Varanasi,58,80,10,No,63
+2025-08-03,Uttar Pradesh,Varanasi,88,122,22,No,96
+2025-08-04,Uttar Pradesh,Varanasi,151,287,28,No,166
+2025-08-05,Uttar Pradesh,Varanasi,503,942,153,No,553
+2025-08-06,Uttar Pradesh,Varanasi,444,908,121,No,488
+2025-08-07,Uttar Pradesh,Varanasi,454,677,89,No,499
+2025-08-08,Uttar Pradesh,Varanasi,565,910,195,No,621
+2025-08-09,Uttar Pradesh,Varanasi,62,148,20,No,68
+2025-08-10,Uttar Pradesh,Varanasi,85,206,17,No,93
+2025-08-11,Uttar Pradesh,Varanasi,339,495,104,No,372
+2025-08-12,Uttar Pradesh,Varanasi,171,256,48,No,188
+2025-08-13,Uttar Pradesh,Varanasi,479,837,126,No,526
+2025-08-14,Uttar Pradesh,Varanasi,556,990,101,No,611
+2025-08-15,Uttar Pradesh,Varanasi,338,792,105,No,371
+2025-08-16,Uttar Pradesh,Varanasi,72,164,17,No,79
+2025-08-17,Uttar Pradesh,Varanasi,69,169,14,No,75
+2025-08-18,Uttar Pradesh,Varanasi,295,478,82,No,324
+2025-08-19,Uttar Pradesh,Varanasi,213,265,49,No,234
+2025-08-20,Uttar Pradesh,Varanasi,304,654,105,No,334
+2025-08-21,Uttar Pradesh,Varanasi,494,766,105,No,543
+2025-08-22,Uttar Pradesh,Varanasi,284,476,45,No,312
+2025-08-23,Uttar Pradesh,Varanasi,82,152,24,No,90
+2025-08-24,Uttar Pradesh,Varanasi,40,56,8,No,44
+2025-08-25,Uttar Pradesh,Varanasi,543,1261,163,No,597
+2025-08-26,Uttar Pradesh,Varanasi,372,453,68,No,409
+2025-08-27,Uttar Pradesh,Varanasi,419,946,103,No,460
+2025-08-28,Uttar Pradesh,Varanasi,265,444,63,No,291
+2025-08-29,Uttar Pradesh,Varanasi,354,485,54,No,389
+2025-08-30,Uttar Pradesh,Varanasi,29,65,5,No,31
+2025-08-31,Uttar Pradesh,Varanasi,82,169,22,No,90
+2025-09-01,Uttar Pradesh,Varanasi,571,1219,119,No,628
+2025-09-02,Uttar Pradesh,Varanasi,229,362,60,No,251
+2025-09-03,Uttar Pradesh,Varanasi,521,964,82,No,573
+2025-09-04,Uttar Pradesh,Varanasi,510,1147,170,No,561
+2025-09-05,Uttar Pradesh,Varanasi,494,595,94,No,543
+2025-09-06,Uttar Pradesh,Varanasi,85,201,19,No,93
+2025-09-07,Uttar Pradesh,Varanasi,26,42,4,No,28
+2025-09-08,Uttar Pradesh,Varanasi,290,448,82,No,319
+2025-09-09,Uttar Pradesh,Varanasi,259,631,62,No,284
+2025-09-10,Uttar Pradesh,Varanasi,202,396,44,No,222
+2025-09-11,Uttar Pradesh,Varanasi,216,433,74,No,237
+2025-09-12,Uttar Pradesh,Varanasi,466,1150,133,No,512
+2025-09-13,Uttar Pradesh,Varanasi,81,155,19,No,89
+2025-09-14,Uttar Pradesh,Varanasi,64,134,13,No,70
+2025-09-15,Uttar Pradesh,Varanasi,507,666,94,No,557
+2025-09-16,Uttar Pradesh,Varanasi,164,236,32,No,180
+2025-09-17,Uttar Pradesh,Varanasi,558,1327,150,No,613
+2025-09-18,Uttar Pradesh,Varanasi,598,1478,145,No,657
+2025-09-19,Uttar Pradesh,Varanasi,454,830,101,No,499
+2025-09-20,Uttar Pradesh,Varanasi,62,119,13,No,68
+2025-09-21,Uttar Pradesh,Varanasi,21,40,3,No,23
+2025-09-22,Uttar Pradesh,Varanasi,431,982,137,No,474
+2025-09-23,Uttar Pradesh,Varanasi,290,531,56,No,319
+2025-09-24,Uttar Pradesh,Varanasi,522,644,168,No,574
+2025-09-25,Uttar Pradesh,Varanasi,322,738,65,No,354
+2025-09-26,Uttar Pradesh,Varanasi,410,694,134,No,451
+2025-09-27,Uttar Pradesh,Varanasi,46,112,8,No,50
+2025-09-28,Uttar Pradesh,Varanasi,49,111,11,No,53
+2025-09-29,Uttar Pradesh,Varanasi,448,753,93,No,492
+2025-09-30,Uttar Pradesh,Varanasi,501,770,163,No,551
+2025-10-01,Uttar Pradesh,Varanasi,517,789,149,No,568
+2025-10-02,Uttar Pradesh,Varanasi,336,524,113,No,369
+2025-10-03,Uttar Pradesh,Varanasi,216,341,70,No,237
+2025-10-04,Uttar Pradesh,Varanasi,66,152,13,No,72
+2025-10-05,Uttar Pradesh,Varanasi,90,114,25,No,99
+2025-10-06,Uttar Pradesh,Varanasi,371,689,97,No,408
+2025-10-07,Uttar Pradesh,Varanasi,439,971,137,No,482
+2025-10-08,Uttar Pradesh,Varanasi,179,282,62,No,196
+2025-10-09,Uttar Pradesh,Varanasi,232,400,44,No,255
+2025-10-10,Uttar Pradesh,Varanasi,178,416,47,No,195
+2025-10-11,Uttar Pradesh,Varanasi,64,102,15,No,70
+2025-10-12,Uttar Pradesh,Varanasi,66,140,17,No,72
+2025-10-13,Uttar Pradesh,Varanasi,261,634,85,No,287
+2025-10-14,Uttar Pradesh,Varanasi,556,755,83,No,611
+2025-10-15,Uttar Pradesh,Varanasi,581,1054,88,No,639
+2025-10-16,Uttar Pradesh,Varanasi,598,1095,137,No,657
+2025-10-17,Uttar Pradesh,Varanasi,300,688,51,No,330
+2025-10-18,Uttar Pradesh,Varanasi,88,139,27,No,96
+2025-10-19,Uttar Pradesh,Varanasi,49,90,13,No,53
+2025-10-20,Uttar Pradesh,Varanasi,306,731,88,No,336
+2025-10-21,Uttar Pradesh,Varanasi,570,1341,98,No,627
+2025-10-22,Uttar Pradesh,Varanasi,319,683,109,No,350
+2025-10-23,Uttar Pradesh,Varanasi,410,760,143,No,451
+2025-10-24,Uttar Pradesh,Varanasi,513,1056,171,No,564
+2025-10-25,Uttar Pradesh,Varanasi,56,108,18,No,61
+2025-10-26,Uttar Pradesh,Varanasi,85,124,21,No,93
+2025-10-27,Uttar Pradesh,Varanasi,449,570,78,No,493
+2025-10-28,Uttar Pradesh,Varanasi,573,764,177,No,630
+2025-10-29,Uttar Pradesh,Varanasi,336,489,91,No,369
+2025-10-30,Uttar Pradesh,Varanasi,559,1343,89,No,614
+2025-10-31,Uttar Pradesh,Varanasi,203,494,70,No,223
+2025-11-01,Uttar Pradesh,Varanasi,50,67,11,No,55
+2025-11-02,Uttar Pradesh,Varanasi,20,43,6,No,22
+2025-11-03,Uttar Pradesh,Varanasi,331,570,53,No,364
+2025-11-04,Uttar Pradesh,Varanasi,496,685,128,No,545
+2025-11-05,Uttar Pradesh,Varanasi,481,1118,105,No,529
+2025-11-06,Uttar Pradesh,Varanasi,427,816,139,No,469
+2025-11-07,Uttar Pradesh,Varanasi,330,699,68,No,363
+2025-11-08,Uttar Pradesh,Varanasi,27,42,4,No,29
+2025-11-09,Uttar Pradesh,Varanasi,54,126,11,No,59
+2025-11-10,Uttar Pradesh,Varanasi,321,526,54,No,353
+2025-11-11,Uttar Pradesh,Varanasi,335,618,73,No,368
+2025-11-12,Uttar Pradesh,Varanasi,199,464,55,No,218
+2025-11-13,Uttar Pradesh,Varanasi,540,937,107,No,594
+2025-11-14,Uttar Pradesh,Varanasi,369,636,79,No,405
+2025-11-15,Uttar Pradesh,Varanasi,65,112,15,No,71
+2025-11-16,Uttar Pradesh,Varanasi,78,112,13,No,85
+2025-11-17,Uttar Pradesh,Varanasi,330,686,108,No,363
+2025-11-18,Uttar Pradesh,Varanasi,254,422,82,No,279
+2025-11-19,Uttar Pradesh,Varanasi,498,624,119,No,547
+2025-11-20,Uttar Pradesh,Varanasi,336,598,87,No,369
+2025-11-21,Uttar Pradesh,Varanasi,490,1051,162,No,539
+2025-11-22,Uttar Pradesh,Varanasi,38,59,8,No,41
+2025-11-23,Uttar Pradesh,Varanasi,29,54,8,No,31
+2025-11-24,Uttar Pradesh,Varanasi,196,442,63,No,215
+2025-11-25,Uttar Pradesh,Varanasi,567,962,181,No,623
+2025-11-26,Uttar Pradesh,Varanasi,585,1126,147,No,643
+2025-11-27,Uttar Pradesh,Varanasi,570,1213,166,No,627
+2025-11-28,Uttar Pradesh,Varanasi,344,623,75,No,378
+2025-11-29,Uttar Pradesh,Varanasi,67,104,11,No,73
+2025-11-30,Uttar Pradesh,Varanasi,54,120,9,No,59
+2025-12-01,Uttar Pradesh,Varanasi,566,1018,97,No,622
+2025-12-02,Uttar Pradesh,Varanasi,553,1080,125,No,608
+2025-12-03,Uttar Pradesh,Varanasi,326,577,67,No,358
+2025-12-04,Uttar Pradesh,Varanasi,527,813,130,No,579
+2025-12-05,Uttar Pradesh,Varanasi,390,715,82,No,429
+2025-12-06,Uttar Pradesh,Varanasi,84,200,13,No,92
+2025-12-07,Uttar Pradesh,Varanasi,56,117,13,No,61
+2025-12-08,Uttar Pradesh,Varanasi,571,694,185,No,628
+2025-12-09,Uttar Pradesh,Varanasi,475,962,163,No,522
+2025-12-10,Uttar Pradesh,Varanasi,493,1042,75,No,542
+2025-12-11,Uttar Pradesh,Varanasi,508,747,87,No,558
+2025-12-12,Uttar Pradesh,Varanasi,512,808,144,No,563
+2025-12-13,Uttar Pradesh,Varanasi,83,186,15,No,91
+2025-12-14,Uttar Pradesh,Varanasi,69,102,12,No,75
+2025-12-15,Uttar Pradesh,Varanasi,380,463,75,No,418
+2025-12-16,Uttar Pradesh,Varanasi,345,825,77,No,379
+2025-12-17,Uttar Pradesh,Varanasi,399,806,77,No,438
+2025-12-18,Uttar Pradesh,Varanasi,207,478,38,No,227
+2025-12-19,Uttar Pradesh,Varanasi,365,841,89,No,401
+2025-12-20,Uttar Pradesh,Varanasi,63,119,9,No,69
+2025-12-21,Uttar Pradesh,Varanasi,28,66,5,No,30
+2025-12-22,Uttar Pradesh,Varanasi,173,370,39,No,190
+2025-12-23,Uttar Pradesh,Varanasi,167,365,55,No,183
+2025-12-24,Uttar Pradesh,Varanasi,558,1160,175,No,613
+2025-12-25,Uttar Pradesh,Varanasi,277,620,82,No,304
+2025-12-26,Uttar Pradesh,Varanasi,227,427,69,No,249
+2025-12-27,Uttar Pradesh,Varanasi,44,75,7,No,48
+2025-12-28,Uttar Pradesh,Varanasi,74,157,12,No,81
+2025-12-29,Uttar Pradesh,Varanasi,267,417,58,No,293
+2025-12-30,Uttar Pradesh,Varanasi,281,493,94,No,309
+2025-12-31,Uttar Pradesh,Varanasi,332,525,93,No,365
+2025-01-01,Uttar Pradesh,Kanpur Nagar,373,850,98,No,410
+2025-01-02,Uttar Pradesh,Kanpur Nagar,191,280,60,No,210
+2025-01-03,Uttar Pradesh,Kanpur Nagar,211,374,56,No,232
+2025-01-04,Uttar Pradesh,Kanpur Nagar,36,45,9,No,39
+2025-01-05,Uttar Pradesh,Kanpur Nagar,34,51,7,No,37
+2025-01-06,Uttar Pradesh,Kanpur Nagar,422,877,71,No,464
+2025-01-07,Uttar Pradesh,Kanpur Nagar,527,1316,141,No,579
+2025-01-08,Uttar Pradesh,Kanpur Nagar,463,941,159,No,509
+2025-01-09,Uttar Pradesh,Kanpur Nagar,362,438,75,No,398
+2025-01-10,Uttar Pradesh,Kanpur Nagar,229,500,66,No,251
+2025-01-11,Uttar Pradesh,Kanpur Nagar,47,77,15,No,51
+2025-01-12,Uttar Pradesh,Kanpur Nagar,75,161,17,No,82
+2025-01-13,Uttar Pradesh,Kanpur Nagar,230,417,77,No,253
+2025-01-14,Uttar Pradesh,Kanpur Nagar,350,528,87,No,385
+2025-01-15,Uttar Pradesh,Kanpur Nagar,305,579,57,No,335
+2025-01-16,Uttar Pradesh,Kanpur Nagar,443,907,148,No,487
+2025-01-17,Uttar Pradesh,Kanpur Nagar,203,436,43,No,223
+2025-01-18,Uttar Pradesh,Kanpur Nagar,91,130,30,Yes,100
+2025-01-19,Uttar Pradesh,Kanpur Nagar,58,107,17,No,63
+2025-01-20,Uttar Pradesh,Kanpur Nagar,151,347,39,No,166
+2025-01-21,Uttar Pradesh,Kanpur Nagar,294,721,63,Yes,323
+2025-01-22,Uttar Pradesh,Kanpur Nagar,432,809,135,No,475
+2025-01-23,Uttar Pradesh,Kanpur Nagar,287,364,45,No,315
+2025-01-24,Uttar Pradesh,Kanpur Nagar,425,827,141,No,467
+2025-01-25,Uttar Pradesh,Kanpur Nagar,44,85,8,No,48
+2025-01-26,Uttar Pradesh,Kanpur Nagar,51,121,11,No,56
+2025-01-27,Uttar Pradesh,Kanpur Nagar,187,319,58,No,205
+2025-01-28,Uttar Pradesh,Kanpur Nagar,547,1143,113,No,601
+2025-01-29,Uttar Pradesh,Kanpur Nagar,177,241,42,No,194
+2025-01-30,Uttar Pradesh,Kanpur Nagar,153,270,41,No,168
+2025-01-31,Uttar Pradesh,Kanpur Nagar,289,695,83,No,317
+2025-02-01,Uttar Pradesh,Kanpur Nagar,80,180,24,No,88
+2025-02-02,Uttar Pradesh,Kanpur Nagar,77,111,22,No,84
+2025-02-03,Uttar Pradesh,Kanpur Nagar,386,765,65,No,424
+2025-02-04,Uttar Pradesh,Kanpur Nagar,337,800,108,No,370
+2025-02-05,Uttar Pradesh,Kanpur Nagar,444,1063,105,No,488
+2025-02-06,Uttar Pradesh,Kanpur Nagar,593,1002,168,No,652
+2025-02-07,Uttar Pradesh,Kanpur Nagar,543,1353,81,No,597
+2025-02-08,Uttar Pradesh,Kanpur Nagar,73,181,19,No,80
+2025-02-09,Uttar Pradesh,Kanpur Nagar,20,40,3,No,22
+2025-02-10,Uttar Pradesh,Kanpur Nagar,336,808,76,No,369
+2025-02-11,Uttar Pradesh,Kanpur Nagar,352,520,100,No,387
+2025-02-12,Uttar Pradesh,Kanpur Nagar,429,657,131,No,471
+2025-02-13,Uttar Pradesh,Kanpur Nagar,448,934,128,No,492
+2025-02-14,Uttar Pradesh,Kanpur Nagar,172,349,35,No,189
+2025-02-15,Uttar Pradesh,Kanpur Nagar,58,137,19,No,63
+2025-02-16,Uttar Pradesh,Kanpur Nagar,65,159,19,No,71
+2025-02-17,Uttar Pradesh,Kanpur Nagar,593,1118,145,No,652
+2025-02-18,Uttar Pradesh,Kanpur Nagar,457,852,69,No,502
+2025-02-19,Uttar Pradesh,Kanpur Nagar,349,813,57,No,383
+2025-02-20,Uttar Pradesh,Kanpur Nagar,430,855,134,No,473
+2025-02-21,Uttar Pradesh,Kanpur Nagar,283,523,83,No,311
+2025-02-22,Uttar Pradesh,Kanpur Nagar,90,205,15,No,99
+2025-02-23,Uttar Pradesh,Kanpur Nagar,83,125,16,No,91
+2025-02-24,Uttar Pradesh,Kanpur Nagar,403,725,111,No,443
+2025-02-25,Uttar Pradesh,Kanpur Nagar,385,868,80,Yes,423
+2025-02-26,Uttar Pradesh,Kanpur Nagar,389,622,105,No,427
+2025-02-27,Uttar Pradesh,Kanpur Nagar,514,1082,168,No,565
+2025-02-28,Uttar Pradesh,Kanpur Nagar,274,447,87,No,301
+2025-03-01,Uttar Pradesh,Kanpur Nagar,69,133,14,No,75
+2025-03-02,Uttar Pradesh,Kanpur Nagar,98,151,23,No,107
+2025-03-03,Uttar Pradesh,Kanpur Nagar,556,1025,186,No,611
+2025-03-04,Uttar Pradesh,Kanpur Nagar,210,349,55,No,231
+2025-03-05,Uttar Pradesh,Kanpur Nagar,436,683,100,No,479
+2025-03-06,Uttar Pradesh,Kanpur Nagar,541,715,117,No,595
+2025-03-07,Uttar Pradesh,Kanpur Nagar,525,1011,174,No,577
+2025-03-08,Uttar Pradesh,Kanpur Nagar,68,146,18,No,74
+2025-03-09,Uttar Pradesh,Kanpur Nagar,39,63,10,No,42
+2025-03-10,Uttar Pradesh,Kanpur Nagar,302,450,78,No,332
+2025-03-11,Uttar Pradesh,Kanpur Nagar,501,825,79,No,551
+2025-03-12,Uttar Pradesh,Kanpur Nagar,375,897,119,No,412
+2025-03-13,Uttar Pradesh,Kanpur Nagar,308,492,98,No,338
+2025-03-14,Uttar Pradesh,Kanpur Nagar,233,422,47,No,256
+2025-03-15,Uttar Pradesh,Kanpur Nagar,83,172,28,No,91
+2025-03-16,Uttar Pradesh,Kanpur Nagar,28,42,7,No,30
+2025-03-17,Uttar Pradesh,Kanpur Nagar,387,737,94,No,425
+2025-03-18,Uttar Pradesh,Kanpur Nagar,560,1198,149,No,616
+2025-03-19,Uttar Pradesh,Kanpur Nagar,580,1343,190,No,638
+2025-03-20,Uttar Pradesh,Kanpur Nagar,487,798,89,No,535
+2025-03-21,Uttar Pradesh,Kanpur Nagar,217,314,39,No,238
+2025-03-22,Uttar Pradesh,Kanpur Nagar,74,103,23,No,81
+2025-03-23,Uttar Pradesh,Kanpur Nagar,41,51,8,No,45
+2025-03-24,Uttar Pradesh,Kanpur Nagar,253,469,38,No,278
+2025-03-25,Uttar Pradesh,Kanpur Nagar,439,818,85,No,482
+2025-03-26,Uttar Pradesh,Kanpur Nagar,293,421,70,No,322
+2025-03-27,Uttar Pradesh,Kanpur Nagar,381,655,58,No,419
+2025-03-28,Uttar Pradesh,Kanpur Nagar,188,247,34,No,206
+2025-03-29,Uttar Pradesh,Kanpur Nagar,51,83,14,No,56
+2025-03-30,Uttar Pradesh,Kanpur Nagar,75,155,20,No,82
+2025-03-31,Uttar Pradesh,Kanpur Nagar,181,314,63,No,199
+2025-04-01,Uttar Pradesh,Kanpur Nagar,165,412,30,No,181
+2025-04-02,Uttar Pradesh,Kanpur Nagar,160,195,30,No,176
+2025-04-03,Uttar Pradesh,Kanpur Nagar,224,271,51,No,246
+2025-04-04,Uttar Pradesh,Kanpur Nagar,163,255,47,No,179
+2025-04-05,Uttar Pradesh,Kanpur Nagar,40,68,13,No,44
+2025-04-06,Uttar Pradesh,Kanpur Nagar,86,185,26,No,94
+2025-04-07,Uttar Pradesh,Kanpur Nagar,265,627,45,No,291
+2025-04-08,Uttar Pradesh,Kanpur Nagar,243,432,78,No,267
+2025-04-09,Uttar Pradesh,Kanpur Nagar,514,841,148,No,565
+2025-04-10,Uttar Pradesh,Kanpur Nagar,301,730,51,No,331
+2025-04-11,Uttar Pradesh,Kanpur Nagar,464,1033,144,No,510
+2025-04-12,Uttar Pradesh,Kanpur Nagar,78,166,25,No,85
+2025-04-13,Uttar Pradesh,Kanpur Nagar,27,35,4,No,29
+2025-04-14,Uttar Pradesh,Kanpur Nagar,357,763,88,No,392
+2025-04-15,Uttar Pradesh,Kanpur Nagar,542,942,100,No,596
+2025-04-16,Uttar Pradesh,Kanpur Nagar,214,390,52,No,235
+2025-04-17,Uttar Pradesh,Kanpur Nagar,547,1130,118,No,601
+2025-04-18,Uttar Pradesh,Kanpur Nagar,153,261,26,No,168
+2025-04-19,Uttar Pradesh,Kanpur Nagar,88,200,14,Yes,96
+2025-04-20,Uttar Pradesh,Kanpur Nagar,82,121,16,No,90
+2025-04-21,Uttar Pradesh,Kanpur Nagar,536,897,128,No,589
+2025-04-22,Uttar Pradesh,Kanpur Nagar,236,295,37,No,259
+2025-04-23,Uttar Pradesh,Kanpur Nagar,185,433,55,No,203
+2025-04-24,Uttar Pradesh,Kanpur Nagar,336,713,91,No,369
+2025-04-25,Uttar Pradesh,Kanpur Nagar,527,847,151,No,579
+2025-04-26,Uttar Pradesh,Kanpur Nagar,20,39,4,No,22
+2025-04-27,Uttar Pradesh,Kanpur Nagar,94,194,21,No,103
+2025-04-28,Uttar Pradesh,Kanpur Nagar,479,739,164,No,526
+2025-04-29,Uttar Pradesh,Kanpur Nagar,363,693,94,No,399
+2025-04-30,Uttar Pradesh,Kanpur Nagar,495,1040,152,No,544
+2025-05-01,Uttar Pradesh,Kanpur Nagar,493,845,157,No,542
+2025-05-02,Uttar Pradesh,Kanpur Nagar,407,993,125,No,447
+2025-05-03,Uttar Pradesh,Kanpur Nagar,66,157,18,No,72
+2025-05-04,Uttar Pradesh,Kanpur Nagar,46,88,6,No,50
+2025-05-05,Uttar Pradesh,Kanpur Nagar,450,978,134,No,495
+2025-05-06,Uttar Pradesh,Kanpur Nagar,346,537,114,No,380
+2025-05-07,Uttar Pradesh,Kanpur Nagar,365,623,110,No,401
+2025-05-08,Uttar Pradesh,Kanpur Nagar,329,633,76,No,361
+2025-05-09,Uttar Pradesh,Kanpur Nagar,295,598,83,No,324
+2025-05-10,Uttar Pradesh,Kanpur Nagar,38,82,11,No,41
+2025-05-11,Uttar Pradesh,Kanpur Nagar,96,127,15,No,105
+2025-05-12,Uttar Pradesh,Kanpur Nagar,407,598,125,No,447
+2025-05-13,Uttar Pradesh,Kanpur Nagar,589,1083,156,No,647
+2025-05-14,Uttar Pradesh,Kanpur Nagar,316,631,78,No,347
+2025-05-15,Uttar Pradesh,Kanpur Nagar,233,411,37,No,256
+2025-05-16,Uttar Pradesh,Kanpur Nagar,535,1009,84,No,588
+2025-05-17,Uttar Pradesh,Kanpur Nagar,33,71,8,No,36
+2025-05-18,Uttar Pradesh,Kanpur Nagar,93,231,20,No,102
+2025-05-19,Uttar Pradesh,Kanpur Nagar,276,383,66,No,303
+2025-05-20,Uttar Pradesh,Kanpur Nagar,345,783,87,No,379
+2025-05-21,Uttar Pradesh,Kanpur Nagar,489,809,142,No,537
+2025-05-22,Uttar Pradesh,Kanpur Nagar,373,724,128,No,410
+2025-05-23,Uttar Pradesh,Kanpur Nagar,214,305,67,No,235
+2025-05-24,Uttar Pradesh,Kanpur Nagar,75,151,25,No,82
+2025-05-25,Uttar Pradesh,Kanpur Nagar,35,50,8,No,38
+2025-05-26,Uttar Pradesh,Kanpur Nagar,225,376,35,No,247
+2025-05-27,Uttar Pradesh,Kanpur Nagar,353,685,66,No,388
+2025-05-28,Uttar Pradesh,Kanpur Nagar,265,454,57,No,291
+2025-05-29,Uttar Pradesh,Kanpur Nagar,163,352,44,No,179
+2025-05-30,Uttar Pradesh,Kanpur Nagar,405,657,120,No,445
+2025-05-31,Uttar Pradesh,Kanpur Nagar,98,183,30,No,107
+2025-06-01,Uttar Pradesh,Kanpur Nagar,73,124,13,No,80
+2025-06-02,Uttar Pradesh,Kanpur Nagar,250,502,43,No,275
+2025-06-03,Uttar Pradesh,Kanpur Nagar,324,625,90,No,356
+2025-06-04,Uttar Pradesh,Kanpur Nagar,467,911,108,No,513
+2025-06-05,Uttar Pradesh,Kanpur Nagar,491,660,143,No,540
+2025-06-06,Uttar Pradesh,Kanpur Nagar,210,475,47,No,231
+2025-06-07,Uttar Pradesh,Kanpur Nagar,69,113,21,No,75
+2025-06-08,Uttar Pradesh,Kanpur Nagar,21,31,6,No,23
+2025-06-09,Uttar Pradesh,Kanpur Nagar,279,581,72,No,306
+2025-06-10,Uttar Pradesh,Kanpur Nagar,552,1342,93,No,607
+2025-06-11,Uttar Pradesh,Kanpur Nagar,191,419,31,No,210
+2025-06-12,Uttar Pradesh,Kanpur Nagar,183,434,53,No,201
+2025-06-13,Uttar Pradesh,Kanpur Nagar,192,274,50,Yes,211
+2025-06-14,Uttar Pradesh,Kanpur Nagar,54,99,14,No,59
+2025-06-15,Uttar Pradesh,Kanpur Nagar,86,115,15,No,94
+2025-06-16,Uttar Pradesh,Kanpur Nagar,452,718,128,No,497
+2025-06-17,Uttar Pradesh,Kanpur Nagar,230,358,72,No,253
+2025-06-18,Uttar Pradesh,Kanpur Nagar,228,462,58,No,250
+2025-06-19,Uttar Pradesh,Kanpur Nagar,450,609,150,No,495
+2025-06-20,Uttar Pradesh,Kanpur Nagar,276,632,51,No,303
+2025-06-21,Uttar Pradesh,Kanpur Nagar,80,183,23,No,88
+2025-06-22,Uttar Pradesh,Kanpur Nagar,37,84,7,No,40
+2025-06-23,Uttar Pradesh,Kanpur Nagar,352,701,114,No,387
+2025-06-24,Uttar Pradesh,Kanpur Nagar,394,818,117,No,433
+2025-06-25,Uttar Pradesh,Kanpur Nagar,583,1067,142,No,641
+2025-06-26,Uttar Pradesh,Kanpur Nagar,461,1151,74,No,507
+2025-06-27,Uttar Pradesh,Kanpur Nagar,424,981,68,No,466
+2025-06-28,Uttar Pradesh,Kanpur Nagar,30,52,5,No,33
+2025-06-29,Uttar Pradesh,Kanpur Nagar,27,63,5,No,29
+2025-06-30,Uttar Pradesh,Kanpur Nagar,323,802,102,No,355
+2025-07-01,Uttar Pradesh,Kanpur Nagar,187,389,53,No,205
+2025-07-02,Uttar Pradesh,Kanpur Nagar,293,458,61,No,322
+2025-07-03,Uttar Pradesh,Kanpur Nagar,320,524,83,No,352
+2025-07-04,Uttar Pradesh,Kanpur Nagar,409,1021,118,No,449
+2025-07-05,Uttar Pradesh,Kanpur Nagar,45,73,12,No,49
+2025-07-06,Uttar Pradesh,Kanpur Nagar,47,77,7,No,51
+2025-07-07,Uttar Pradesh,Kanpur Nagar,217,328,74,No,238
+2025-07-08,Uttar Pradesh,Kanpur Nagar,427,739,108,No,469
+2025-07-09,Uttar Pradesh,Kanpur Nagar,175,346,44,No,192
+2025-07-10,Uttar Pradesh,Kanpur Nagar,179,391,50,No,196
+2025-07-11,Uttar Pradesh,Kanpur Nagar,341,672,59,No,375
+2025-07-12,Uttar Pradesh,Kanpur Nagar,41,93,8,No,45
+2025-07-13,Uttar Pradesh,Kanpur Nagar,36,85,10,No,39
+2025-07-14,Uttar Pradesh,Kanpur Nagar,379,806,109,No,416
+2025-07-15,Uttar Pradesh,Kanpur Nagar,382,933,113,No,420
+2025-07-16,Uttar Pradesh,Kanpur Nagar,180,231,50,No,198
+2025-07-17,Uttar Pradesh,Kanpur Nagar,200,409,50,No,220
+2025-07-18,Uttar Pradesh,Kanpur Nagar,323,706,106,No,355
+2025-07-19,Uttar Pradesh,Kanpur Nagar,72,88,18,No,79
+2025-07-20,Uttar Pradesh,Kanpur Nagar,78,182,21,No,85
+2025-07-21,Uttar Pradesh,Kanpur Nagar,566,1175,127,No,622
+2025-07-22,Uttar Pradesh,Kanpur Nagar,518,1294,99,No,569
+2025-07-23,Uttar Pradesh,Kanpur Nagar,336,680,108,No,369
+2025-07-24,Uttar Pradesh,Kanpur Nagar,323,506,92,No,355
+2025-07-25,Uttar Pradesh,Kanpur Nagar,446,962,86,No,490
+2025-07-26,Uttar Pradesh,Kanpur Nagar,80,116,22,No,88
+2025-07-27,Uttar Pradesh,Kanpur Nagar,96,173,28,No,105
+2025-07-28,Uttar Pradesh,Kanpur Nagar,160,233,41,No,176
+2025-07-29,Uttar Pradesh,Kanpur Nagar,399,990,80,No,438
+2025-07-30,Uttar Pradesh,Kanpur Nagar,430,802,145,No,473
+2025-07-31,Uttar Pradesh,Kanpur Nagar,444,650,84,No,488
+2025-08-01,Uttar Pradesh,Kanpur Nagar,578,1252,156,No,635
+2025-08-02,Uttar Pradesh,Kanpur Nagar,67,112,20,No,73
+2025-08-03,Uttar Pradesh,Kanpur Nagar,61,137,13,No,67
+2025-08-04,Uttar Pradesh,Kanpur Nagar,155,263,26,No,170
+2025-08-05,Uttar Pradesh,Kanpur Nagar,554,1281,86,No,609
+2025-08-06,Uttar Pradesh,Kanpur Nagar,221,443,72,No,243
+2025-08-07,Uttar Pradesh,Kanpur Nagar,268,428,43,No,294
+2025-08-08,Uttar Pradesh,Kanpur Nagar,200,328,50,No,220
+2025-08-09,Uttar Pradesh,Kanpur Nagar,68,112,13,No,74
+2025-08-10,Uttar Pradesh,Kanpur Nagar,66,118,23,No,72
+2025-08-11,Uttar Pradesh,Kanpur Nagar,588,1388,124,No,646
+2025-08-12,Uttar Pradesh,Kanpur Nagar,460,984,148,No,506
+2025-08-13,Uttar Pradesh,Kanpur Nagar,538,1328,145,No,591
+2025-08-14,Uttar Pradesh,Kanpur Nagar,228,311,72,No,250
+2025-08-15,Uttar Pradesh,Kanpur Nagar,342,507,101,No,376
+2025-08-16,Uttar Pradesh,Kanpur Nagar,48,110,9,No,52
+2025-08-17,Uttar Pradesh,Kanpur Nagar,24,52,7,No,26
+2025-08-18,Uttar Pradesh,Kanpur Nagar,551,972,94,No,606
+2025-08-19,Uttar Pradesh,Kanpur Nagar,409,991,61,No,449
+2025-08-20,Uttar Pradesh,Kanpur Nagar,186,437,46,No,204
+2025-08-21,Uttar Pradesh,Kanpur Nagar,170,277,39,No,187
+2025-08-22,Uttar Pradesh,Kanpur Nagar,378,534,74,No,415
+2025-08-23,Uttar Pradesh,Kanpur Nagar,36,76,8,No,39
+2025-08-24,Uttar Pradesh,Kanpur Nagar,95,221,15,No,104
+2025-08-25,Uttar Pradesh,Kanpur Nagar,230,390,77,No,253
+2025-08-26,Uttar Pradesh,Kanpur Nagar,215,475,40,No,236
+2025-08-27,Uttar Pradesh,Kanpur Nagar,508,1072,169,No,558
+2025-08-28,Uttar Pradesh,Kanpur Nagar,266,532,54,No,292
+2025-08-29,Uttar Pradesh,Kanpur Nagar,228,544,51,No,250
+2025-08-30,Uttar Pradesh,Kanpur Nagar,30,60,6,No,33
+2025-08-31,Uttar Pradesh,Kanpur Nagar,83,164,24,No,91
+2025-09-01,Uttar Pradesh,Kanpur Nagar,309,404,87,No,339
+2025-09-02,Uttar Pradesh,Kanpur Nagar,559,996,156,No,614
+2025-09-03,Uttar Pradesh,Kanpur Nagar,477,667,88,No,524
+2025-09-04,Uttar Pradesh,Kanpur Nagar,238,506,44,No,261
+2025-09-05,Uttar Pradesh,Kanpur Nagar,533,640,89,No,586
+2025-09-06,Uttar Pradesh,Kanpur Nagar,30,58,8,No,33
+2025-09-07,Uttar Pradesh,Kanpur Nagar,64,125,13,No,70
+2025-09-08,Uttar Pradesh,Kanpur Nagar,313,661,95,No,344
+2025-09-09,Uttar Pradesh,Kanpur Nagar,512,1110,115,No,563
+2025-09-10,Uttar Pradesh,Kanpur Nagar,336,762,72,No,369
+2025-09-11,Uttar Pradesh,Kanpur Nagar,291,715,75,No,320
+2025-09-12,Uttar Pradesh,Kanpur Nagar,501,767,132,No,551
+2025-09-13,Uttar Pradesh,Kanpur Nagar,49,68,12,No,53
+2025-09-14,Uttar Pradesh,Kanpur Nagar,97,171,21,No,106
+2025-09-15,Uttar Pradesh,Kanpur Nagar,477,715,124,No,524
+2025-09-16,Uttar Pradesh,Kanpur Nagar,430,896,68,No,473
+2025-09-17,Uttar Pradesh,Kanpur Nagar,377,744,131,No,414
+2025-09-18,Uttar Pradesh,Kanpur Nagar,561,1358,125,No,617
+2025-09-19,Uttar Pradesh,Kanpur Nagar,488,1012,73,No,536
+2025-09-20,Uttar Pradesh,Kanpur Nagar,80,178,17,No,88
+2025-09-21,Uttar Pradesh,Kanpur Nagar,78,191,14,No,85
+2025-09-22,Uttar Pradesh,Kanpur Nagar,407,642,110,No,447
+2025-09-23,Uttar Pradesh,Kanpur Nagar,362,754,86,No,398
+2025-09-24,Uttar Pradesh,Kanpur Nagar,310,644,78,No,341
+2025-09-25,Uttar Pradesh,Kanpur Nagar,578,1121,90,No,635
+2025-09-26,Uttar Pradesh,Kanpur Nagar,264,560,57,No,290
+2025-09-27,Uttar Pradesh,Kanpur Nagar,75,127,22,No,82
+2025-09-28,Uttar Pradesh,Kanpur Nagar,60,135,12,No,66
+2025-09-29,Uttar Pradesh,Kanpur Nagar,218,468,44,No,239
+2025-09-30,Uttar Pradesh,Kanpur Nagar,262,627,60,No,288
+2025-10-01,Uttar Pradesh,Kanpur Nagar,481,626,114,No,529
+2025-10-02,Uttar Pradesh,Kanpur Nagar,312,535,68,No,343
+2025-10-03,Uttar Pradesh,Kanpur Nagar,257,633,82,No,282
+2025-10-04,Uttar Pradesh,Kanpur Nagar,88,125,18,No,96
+2025-10-05,Uttar Pradesh,Kanpur Nagar,90,172,30,No,99
+2025-10-06,Uttar Pradesh,Kanpur Nagar,412,817,110,No,453
+2025-10-07,Uttar Pradesh,Kanpur Nagar,575,930,189,No,632
+2025-10-08,Uttar Pradesh,Kanpur Nagar,539,1031,125,No,592
+2025-10-09,Uttar Pradesh,Kanpur Nagar,239,536,43,No,262
+2025-10-10,Uttar Pradesh,Kanpur Nagar,194,380,52,No,213
+2025-10-11,Uttar Pradesh,Kanpur Nagar,61,111,14,No,67
+2025-10-12,Uttar Pradesh,Kanpur Nagar,68,127,16,No,74
+2025-10-13,Uttar Pradesh,Kanpur Nagar,429,701,148,No,471
+2025-10-14,Uttar Pradesh,Kanpur Nagar,446,949,141,No,490
+2025-10-15,Uttar Pradesh,Kanpur Nagar,493,1091,164,No,542
+2025-10-16,Uttar Pradesh,Kanpur Nagar,248,422,56,No,272
+2025-10-17,Uttar Pradesh,Kanpur Nagar,531,958,179,No,584
+2025-10-18,Uttar Pradesh,Kanpur Nagar,25,61,8,No,27
+2025-10-19,Uttar Pradesh,Kanpur Nagar,59,122,11,No,64
+2025-10-20,Uttar Pradesh,Kanpur Nagar,315,463,92,No,346
+2025-10-21,Uttar Pradesh,Kanpur Nagar,232,565,46,No,255
+2025-10-22,Uttar Pradesh,Kanpur Nagar,239,294,63,No,262
+2025-10-23,Uttar Pradesh,Kanpur Nagar,481,786,86,No,529
+2025-10-24,Uttar Pradesh,Kanpur Nagar,178,283,45,No,195
+2025-10-25,Uttar Pradesh,Kanpur Nagar,42,77,12,No,46
+2025-10-26,Uttar Pradesh,Kanpur Nagar,44,86,8,No,48
+2025-10-27,Uttar Pradesh,Kanpur Nagar,254,507,58,No,279
+2025-10-28,Uttar Pradesh,Kanpur Nagar,288,681,91,No,316
+2025-10-29,Uttar Pradesh,Kanpur Nagar,585,902,172,No,643
+2025-10-30,Uttar Pradesh,Kanpur Nagar,264,380,88,No,290
+2025-10-31,Uttar Pradesh,Kanpur Nagar,327,535,69,No,359
+2025-11-01,Uttar Pradesh,Kanpur Nagar,55,83,13,No,60
+2025-11-02,Uttar Pradesh,Kanpur Nagar,95,232,26,No,104
+2025-11-03,Uttar Pradesh,Kanpur Nagar,377,497,125,No,414
+2025-11-04,Uttar Pradesh,Kanpur Nagar,558,956,123,No,613
+2025-11-05,Uttar Pradesh,Kanpur Nagar,439,975,102,No,482
+2025-11-06,Uttar Pradesh,Kanpur Nagar,234,467,51,No,257
+2025-11-07,Uttar Pradesh,Kanpur Nagar,259,627,79,No,284
+2025-11-08,Uttar Pradesh,Kanpur Nagar,87,202,19,No,95
+2025-11-09,Uttar Pradesh,Kanpur Nagar,90,117,28,No,99
+2025-11-10,Uttar Pradesh,Kanpur Nagar,593,944,153,No,652
+2025-11-11,Uttar Pradesh,Kanpur Nagar,415,700,68,No,456
+2025-11-12,Uttar Pradesh,Kanpur Nagar,449,766,98,No,493
+2025-11-13,Uttar Pradesh,Kanpur Nagar,507,915,115,No,557
+2025-11-14,Uttar Pradesh,Kanpur Nagar,414,646,130,No,455
+2025-11-15,Uttar Pradesh,Kanpur Nagar,25,32,4,No,27
+2025-11-16,Uttar Pradesh,Kanpur Nagar,36,61,11,No,39
+2025-11-17,Uttar Pradesh,Kanpur Nagar,538,774,84,No,591
+2025-11-18,Uttar Pradesh,Kanpur Nagar,392,797,107,No,431
+2025-11-19,Uttar Pradesh,Kanpur Nagar,566,1121,112,No,622
+2025-11-20,Uttar Pradesh,Kanpur Nagar,237,590,53,No,260
+2025-11-21,Uttar Pradesh,Kanpur Nagar,302,432,84,No,332
+2025-11-22,Uttar Pradesh,Kanpur Nagar,69,130,16,No,75
+2025-11-23,Uttar Pradesh,Kanpur Nagar,97,221,15,No,106
+2025-11-24,Uttar Pradesh,Kanpur Nagar,215,477,58,No,236
+2025-11-25,Uttar Pradesh,Kanpur Nagar,553,1280,85,No,608
+2025-11-26,Uttar Pradesh,Kanpur Nagar,592,1330,190,No,651
+2025-11-27,Uttar Pradesh,Kanpur Nagar,160,284,36,No,176
+2025-11-28,Uttar Pradesh,Kanpur Nagar,332,576,106,No,365
+2025-11-29,Uttar Pradesh,Kanpur Nagar,76,156,16,No,83
+2025-11-30,Uttar Pradesh,Kanpur Nagar,59,124,13,No,64
+2025-12-01,Uttar Pradesh,Kanpur Nagar,488,890,136,No,536
+2025-12-02,Uttar Pradesh,Kanpur Nagar,248,491,37,No,272
+2025-12-03,Uttar Pradesh,Kanpur Nagar,347,847,117,No,381
+2025-12-04,Uttar Pradesh,Kanpur Nagar,234,583,37,No,257
+2025-12-05,Uttar Pradesh,Kanpur Nagar,580,1111,183,No,638
+2025-12-06,Uttar Pradesh,Kanpur Nagar,44,62,10,No,48
+2025-12-07,Uttar Pradesh,Kanpur Nagar,78,174,14,No,85
+2025-12-08,Uttar Pradesh,Kanpur Nagar,458,747,157,No,503
+2025-12-09,Uttar Pradesh,Kanpur Nagar,264,396,58,No,290
+2025-12-10,Uttar Pradesh,Kanpur Nagar,249,374,60,No,273
+2025-12-11,Uttar Pradesh,Kanpur Nagar,228,331,68,No,250
+2025-12-12,Uttar Pradesh,Kanpur Nagar,512,1100,83,No,563
+2025-12-13,Uttar Pradesh,Kanpur Nagar,54,122,16,No,59
+2025-12-14,Uttar Pradesh,Kanpur Nagar,27,32,7,No,29
+2025-12-15,Uttar Pradesh,Kanpur Nagar,500,1078,124,No,550
+2025-12-16,Uttar Pradesh,Kanpur Nagar,320,430,50,No,352
+2025-12-17,Uttar Pradesh,Kanpur Nagar,278,343,95,No,305
+2025-12-18,Uttar Pradesh,Kanpur Nagar,279,557,95,No,306
+2025-12-19,Uttar Pradesh,Kanpur Nagar,233,445,61,No,256
+2025-12-20,Uttar Pradesh,Kanpur Nagar,86,106,26,No,94
+2025-12-21,Uttar Pradesh,Kanpur Nagar,36,59,9,No,39
+2025-12-22,Uttar Pradesh,Kanpur Nagar,359,699,112,No,394
+2025-12-23,Uttar Pradesh,Kanpur Nagar,543,1356,171,No,597
+2025-12-24,Uttar Pradesh,Kanpur Nagar,367,544,87,No,403
+2025-12-25,Uttar Pradesh,Kanpur Nagar,564,1088,186,No,620
+2025-12-26,Uttar Pradesh,Kanpur Nagar,361,577,88,No,397
+2025-12-27,Uttar Pradesh,Kanpur Nagar,72,158,14,No,79
+2025-12-28,Uttar Pradesh,Kanpur Nagar,66,163,16,No,72
+2025-12-29,Uttar Pradesh,Kanpur Nagar,542,704,150,No,596
+2025-12-30,Uttar Pradesh,Kanpur Nagar,393,853,124,No,432
+2025-12-31,Uttar Pradesh,Kanpur Nagar,317,650,73,No,348
+2025-01-01,Uttar Pradesh,Agra,407,821,132,No,447
+2025-01-02,Uttar Pradesh,Agra,551,1301,111,No,606
+2025-01-03,Uttar Pradesh,Agra,272,404,59,No,299
+2025-01-04,Uttar Pradesh,Agra,47,101,11,No,51
+2025-01-05,Uttar Pradesh,Agra,65,82,9,No,71
+2025-01-06,Uttar Pradesh,Agra,282,530,88,No,310
+2025-01-07,Uttar Pradesh,Agra,599,1408,95,No,658
+2025-01-08,Uttar Pradesh,Agra,384,615,64,No,422
+2025-01-09,Uttar Pradesh,Agra,391,662,106,No,430
+2025-01-10,Uttar Pradesh,Agra,519,835,164,No,570
+2025-01-11,Uttar Pradesh,Agra,42,99,8,No,46
+2025-01-12,Uttar Pradesh,Agra,23,44,5,No,25
+2025-01-13,Uttar Pradesh,Agra,444,994,122,No,488
+2025-01-14,Uttar Pradesh,Agra,448,933,150,No,492
+2025-01-15,Uttar Pradesh,Agra,404,681,120,No,444
+2025-01-16,Uttar Pradesh,Agra,155,369,36,No,170
+2025-01-17,Uttar Pradesh,Agra,493,923,97,No,542
+2025-01-18,Uttar Pradesh,Agra,69,87,12,No,75
+2025-01-19,Uttar Pradesh,Agra,36,47,12,No,39
+2025-01-20,Uttar Pradesh,Agra,440,679,117,No,484
+2025-01-21,Uttar Pradesh,Agra,402,615,118,No,442
+2025-01-22,Uttar Pradesh,Agra,453,775,131,No,498
+2025-01-23,Uttar Pradesh,Agra,480,1080,112,No,528
+2025-01-24,Uttar Pradesh,Agra,240,562,48,No,264
+2025-01-25,Uttar Pradesh,Agra,97,176,20,No,106
+2025-01-26,Uttar Pradesh,Agra,22,35,7,No,24
+2025-01-27,Uttar Pradesh,Agra,561,1378,128,No,617
+2025-01-28,Uttar Pradesh,Agra,389,506,129,No,427
+2025-01-29,Uttar Pradesh,Agra,552,772,182,No,607
+2025-01-30,Uttar Pradesh,Agra,199,307,35,No,218
+2025-01-31,Uttar Pradesh,Agra,485,885,125,No,533
+2025-02-01,Uttar Pradesh,Agra,80,158,17,No,88
+2025-02-02,Uttar Pradesh,Agra,75,157,20,No,82
+2025-02-03,Uttar Pradesh,Agra,330,413,62,No,363
+2025-02-04,Uttar Pradesh,Agra,279,385,70,No,306
+2025-02-05,Uttar Pradesh,Agra,186,426,45,No,204
+2025-02-06,Uttar Pradesh,Agra,432,1003,125,No,475
+2025-02-07,Uttar Pradesh,Agra,364,471,95,No,400
+2025-02-08,Uttar Pradesh,Agra,69,103,12,No,75
+2025-02-09,Uttar Pradesh,Agra,88,171,15,No,96
+2025-02-10,Uttar Pradesh,Agra,498,986,146,No,547
+2025-02-11,Uttar Pradesh,Agra,563,895,130,No,619
+2025-02-12,Uttar Pradesh,Agra,538,819,185,No,591
+2025-02-13,Uttar Pradesh,Agra,531,859,128,No,584
+2025-02-14,Uttar Pradesh,Agra,217,416,56,No,238
+2025-02-15,Uttar Pradesh,Agra,76,167,15,No,83
+2025-02-16,Uttar Pradesh,Agra,83,107,28,No,91
+2025-02-17,Uttar Pradesh,Agra,526,675,162,No,578
+2025-02-18,Uttar Pradesh,Agra,281,392,93,No,309
+2025-02-19,Uttar Pradesh,Agra,197,302,66,No,216
+2025-02-20,Uttar Pradesh,Agra,508,992,172,No,558
+2025-02-21,Uttar Pradesh,Agra,264,462,67,No,290
+2025-02-22,Uttar Pradesh,Agra,98,202,16,No,107
+2025-02-23,Uttar Pradesh,Agra,37,78,5,No,40
+2025-02-24,Uttar Pradesh,Agra,476,905,160,No,523
+2025-02-25,Uttar Pradesh,Agra,245,430,78,No,269
+2025-02-26,Uttar Pradesh,Agra,497,767,121,No,546
+2025-02-27,Uttar Pradesh,Agra,435,978,123,No,478
+2025-02-28,Uttar Pradesh,Agra,536,1248,101,No,589
+2025-03-01,Uttar Pradesh,Agra,49,122,8,No,53
+2025-03-02,Uttar Pradesh,Agra,34,78,5,No,37
+2025-03-03,Uttar Pradesh,Agra,486,989,138,No,534
+2025-03-04,Uttar Pradesh,Agra,358,450,61,No,393
+2025-03-05,Uttar Pradesh,Agra,203,500,49,No,223
+2025-03-06,Uttar Pradesh,Agra,506,703,137,No,556
+2025-03-07,Uttar Pradesh,Agra,428,561,90,No,470
+2025-03-08,Uttar Pradesh,Agra,47,73,10,No,51
+2025-03-09,Uttar Pradesh,Agra,78,178,20,No,85
+2025-03-10,Uttar Pradesh,Agra,524,989,183,No,576
+2025-03-11,Uttar Pradesh,Agra,180,241,50,No,198
+2025-03-12,Uttar Pradesh,Agra,294,693,62,No,323
+2025-03-13,Uttar Pradesh,Agra,464,570,142,No,510
+2025-03-14,Uttar Pradesh,Agra,404,861,106,No,444
+2025-03-15,Uttar Pradesh,Agra,60,108,11,No,66
+2025-03-16,Uttar Pradesh,Agra,68,86,17,No,74
+2025-03-17,Uttar Pradesh,Agra,161,205,34,No,177
+2025-03-18,Uttar Pradesh,Agra,310,659,101,No,341
+2025-03-19,Uttar Pradesh,Agra,306,431,57,No,336
+2025-03-20,Uttar Pradesh,Agra,549,941,188,No,603
+2025-03-21,Uttar Pradesh,Agra,150,308,40,No,165
+2025-03-22,Uttar Pradesh,Agra,53,88,15,No,58
+2025-03-23,Uttar Pradesh,Agra,78,100,19,No,85
+2025-03-24,Uttar Pradesh,Agra,157,313,24,No,172
+2025-03-25,Uttar Pradesh,Agra,535,1325,146,No,588
+2025-03-26,Uttar Pradesh,Agra,543,796,152,No,597
+2025-03-27,Uttar Pradesh,Agra,283,546,78,No,311
+2025-03-28,Uttar Pradesh,Agra,436,995,103,No,479
+2025-03-29,Uttar Pradesh,Agra,22,39,5,No,24
+2025-03-30,Uttar Pradesh,Agra,62,96,20,No,68
+2025-03-31,Uttar Pradesh,Agra,359,621,102,No,394
+2025-04-01,Uttar Pradesh,Agra,520,1091,140,No,572
+2025-04-02,Uttar Pradesh,Agra,360,586,125,No,396
+2025-04-03,Uttar Pradesh,Agra,199,494,32,No,218
+2025-04-04,Uttar Pradesh,Agra,163,281,44,No,179
+2025-04-05,Uttar Pradesh,Agra,29,39,9,No,31
+2025-04-06,Uttar Pradesh,Agra,98,243,18,No,107
+2025-04-07,Uttar Pradesh,Agra,328,417,112,No,360
+2025-04-08,Uttar Pradesh,Agra,234,374,40,No,257
+2025-04-09,Uttar Pradesh,Agra,184,363,54,No,202
+2025-04-10,Uttar Pradesh,Agra,486,704,85,No,534
+2025-04-11,Uttar Pradesh,Agra,346,804,95,No,380
+2025-04-12,Uttar Pradesh,Agra,52,77,16,No,57
+2025-04-13,Uttar Pradesh,Agra,59,121,18,No,64
+2025-04-14,Uttar Pradesh,Agra,209,356,61,No,229
+2025-04-15,Uttar Pradesh,Agra,541,1283,179,No,595
+2025-04-16,Uttar Pradesh,Agra,184,440,32,No,202
+2025-04-17,Uttar Pradesh,Agra,179,341,39,No,196
+2025-04-18,Uttar Pradesh,Agra,406,663,89,No,446
+2025-04-19,Uttar Pradesh,Agra,29,56,9,No,31
+2025-04-20,Uttar Pradesh,Agra,74,165,18,No,81
+2025-04-21,Uttar Pradesh,Agra,219,527,39,No,240
+2025-04-22,Uttar Pradesh,Agra,368,475,111,No,404
+2025-04-23,Uttar Pradesh,Agra,270,399,66,No,297
+2025-04-24,Uttar Pradesh,Agra,429,1014,120,No,471
+2025-04-25,Uttar Pradesh,Agra,286,548,72,No,314
+2025-04-26,Uttar Pradesh,Agra,38,60,10,No,41
+2025-04-27,Uttar Pradesh,Agra,64,100,12,No,70
+2025-04-28,Uttar Pradesh,Agra,330,537,50,No,363
+2025-04-29,Uttar Pradesh,Agra,224,400,65,No,246
+2025-04-30,Uttar Pradesh,Agra,534,1306,137,No,587
+2025-05-01,Uttar Pradesh,Agra,308,389,96,No,338
+2025-05-02,Uttar Pradesh,Agra,501,1130,88,No,551
+2025-05-03,Uttar Pradesh,Agra,62,106,18,No,68
+2025-05-04,Uttar Pradesh,Agra,41,72,14,No,45
+2025-05-05,Uttar Pradesh,Agra,595,1090,164,No,654
+2025-05-06,Uttar Pradesh,Agra,167,268,45,No,183
+2025-05-07,Uttar Pradesh,Agra,274,529,82,No,301
+2025-05-08,Uttar Pradesh,Agra,257,561,52,No,282
+2025-05-09,Uttar Pradesh,Agra,376,540,101,No,413
+2025-05-10,Uttar Pradesh,Agra,81,169,21,No,89
+2025-05-11,Uttar Pradesh,Agra,37,85,9,No,40
+2025-05-12,Uttar Pradesh,Agra,202,439,42,No,222
+2025-05-13,Uttar Pradesh,Agra,212,525,43,No,233
+2025-05-14,Uttar Pradesh,Agra,390,973,73,No,429
+2025-05-15,Uttar Pradesh,Agra,382,467,103,No,420
+2025-05-16,Uttar Pradesh,Agra,419,868,131,No,460
+2025-05-17,Uttar Pradesh,Agra,71,153,14,No,78
+2025-05-18,Uttar Pradesh,Agra,86,141,16,No,94
+2025-05-19,Uttar Pradesh,Agra,503,855,136,No,553
+2025-05-20,Uttar Pradesh,Agra,377,902,67,No,414
+2025-05-21,Uttar Pradesh,Agra,350,757,59,No,385
+2025-05-22,Uttar Pradesh,Agra,597,1167,112,No,656
+2025-05-23,Uttar Pradesh,Agra,206,342,52,No,226
+2025-05-24,Uttar Pradesh,Agra,54,85,18,No,59
+2025-05-25,Uttar Pradesh,Agra,58,69,12,No,63
+2025-05-26,Uttar Pradesh,Agra,590,839,147,No,649
+2025-05-27,Uttar Pradesh,Agra,484,1099,154,No,532
+2025-05-28,Uttar Pradesh,Agra,344,797,67,No,378
+2025-05-29,Uttar Pradesh,Agra,484,937,91,No,532
+2025-05-30,Uttar Pradesh,Agra,537,754,89,No,590
+2025-05-31,Uttar Pradesh,Agra,21,51,4,No,23
+2025-06-01,Uttar Pradesh,Agra,56,105,10,No,61
+2025-06-02,Uttar Pradesh,Agra,566,841,96,No,622
+2025-06-03,Uttar Pradesh,Agra,572,798,118,No,629
+2025-06-04,Uttar Pradesh,Agra,377,551,82,No,414
+2025-06-05,Uttar Pradesh,Agra,275,446,48,No,302
+2025-06-06,Uttar Pradesh,Agra,465,784,79,No,511
+2025-06-07,Uttar Pradesh,Agra,38,79,9,No,41
+2025-06-08,Uttar Pradesh,Agra,89,167,27,No,97
+2025-06-09,Uttar Pradesh,Agra,407,965,66,No,447
+2025-06-10,Uttar Pradesh,Agra,225,274,65,No,247
+2025-06-11,Uttar Pradesh,Agra,191,346,53,No,210
+2025-06-12,Uttar Pradesh,Agra,495,977,155,No,544
+2025-06-13,Uttar Pradesh,Agra,183,452,33,No,201
+2025-06-14,Uttar Pradesh,Agra,58,97,11,No,63
+2025-06-15,Uttar Pradesh,Agra,60,128,10,No,66
+2025-06-16,Uttar Pradesh,Agra,154,226,50,No,169
+2025-06-17,Uttar Pradesh,Agra,477,612,106,No,524
+2025-06-18,Uttar Pradesh,Agra,334,643,85,No,367
+2025-06-19,Uttar Pradesh,Agra,498,766,76,No,547
+2025-06-20,Uttar Pradesh,Agra,152,379,29,Yes,167
+2025-06-21,Uttar Pradesh,Agra,39,64,7,No,42
+2025-06-22,Uttar Pradesh,Agra,83,140,22,No,91
+2025-06-23,Uttar Pradesh,Agra,414,964,118,No,455
+2025-06-24,Uttar Pradesh,Agra,164,364,50,No,180
+2025-06-25,Uttar Pradesh,Agra,544,961,133,No,598
+2025-06-26,Uttar Pradesh,Agra,576,1059,87,No,633
+2025-06-27,Uttar Pradesh,Agra,371,594,80,No,408
+2025-06-28,Uttar Pradesh,Agra,44,55,14,No,48
+2025-06-29,Uttar Pradesh,Agra,32,63,4,No,35
+2025-06-30,Uttar Pradesh,Agra,317,490,75,No,348
+2025-07-01,Uttar Pradesh,Agra,402,557,128,No,442
+2025-07-02,Uttar Pradesh,Agra,543,839,91,No,597
+2025-07-03,Uttar Pradesh,Agra,176,302,47,No,193
+2025-07-04,Uttar Pradesh,Agra,290,513,44,No,319
+2025-07-05,Uttar Pradesh,Agra,77,154,16,No,84
+2025-07-06,Uttar Pradesh,Agra,90,206,19,No,99
+2025-07-07,Uttar Pradesh,Agra,515,1232,132,No,566
+2025-07-08,Uttar Pradesh,Agra,248,565,77,No,272
+2025-07-09,Uttar Pradesh,Agra,396,512,116,No,435
+2025-07-10,Uttar Pradesh,Agra,446,535,138,No,490
+2025-07-11,Uttar Pradesh,Agra,433,1057,131,No,476
+2025-07-12,Uttar Pradesh,Agra,27,64,6,No,29
+2025-07-13,Uttar Pradesh,Agra,58,143,11,No,63
+2025-07-14,Uttar Pradesh,Agra,311,669,67,No,342
+2025-07-15,Uttar Pradesh,Agra,160,221,36,No,176
+2025-07-16,Uttar Pradesh,Agra,269,635,40,No,295
+2025-07-17,Uttar Pradesh,Agra,388,673,104,No,426
+2025-07-18,Uttar Pradesh,Agra,439,638,128,No,482
+2025-07-19,Uttar Pradesh,Agra,42,98,9,No,46
+2025-07-20,Uttar Pradesh,Agra,43,55,13,No,47
+2025-07-21,Uttar Pradesh,Agra,347,433,98,No,381
+2025-07-22,Uttar Pradesh,Agra,562,785,177,No,618
+2025-07-23,Uttar Pradesh,Agra,386,511,72,No,424
+2025-07-24,Uttar Pradesh,Agra,170,228,44,No,187
+2025-07-25,Uttar Pradesh,Agra,431,655,70,No,474
+2025-07-26,Uttar Pradesh,Agra,42,62,11,No,46
+2025-07-27,Uttar Pradesh,Agra,84,102,14,No,92
+2025-07-28,Uttar Pradesh,Agra,592,765,118,No,651
+2025-07-29,Uttar Pradesh,Agra,204,430,55,No,224
+2025-07-30,Uttar Pradesh,Agra,548,1092,132,No,602
+2025-07-31,Uttar Pradesh,Agra,323,564,98,No,355
+2025-08-01,Uttar Pradesh,Agra,397,568,66,No,436
+2025-08-02,Uttar Pradesh,Agra,23,28,6,No,25
+2025-08-03,Uttar Pradesh,Agra,35,64,7,No,38
+2025-08-04,Uttar Pradesh,Agra,535,1173,165,No,588
+2025-08-05,Uttar Pradesh,Agra,151,307,46,No,166
+2025-08-06,Uttar Pradesh,Agra,529,1141,152,No,581
+2025-08-07,Uttar Pradesh,Agra,235,381,76,No,258
+2025-08-08,Uttar Pradesh,Agra,503,906,130,No,553
+2025-08-09,Uttar Pradesh,Agra,87,136,23,No,95
+2025-08-10,Uttar Pradesh,Agra,64,139,14,No,70
+2025-08-11,Uttar Pradesh,Agra,388,623,69,No,426
+2025-08-12,Uttar Pradesh,Agra,301,696,74,No,331
+2025-08-13,Uttar Pradesh,Agra,545,693,97,No,599
+2025-08-14,Uttar Pradesh,Agra,335,409,62,No,368
+2025-08-15,Uttar Pradesh,Agra,468,700,143,No,514
+2025-08-16,Uttar Pradesh,Agra,53,79,17,No,58
+2025-08-17,Uttar Pradesh,Agra,25,37,4,No,27
+2025-08-18,Uttar Pradesh,Agra,219,372,66,No,240
+2025-08-19,Uttar Pradesh,Agra,342,599,70,No,376
+2025-08-20,Uttar Pradesh,Agra,306,462,55,No,336
+2025-08-21,Uttar Pradesh,Agra,356,692,119,No,391
+2025-08-22,Uttar Pradesh,Agra,183,226,39,No,201
+2025-08-23,Uttar Pradesh,Agra,74,133,21,No,81
+2025-08-24,Uttar Pradesh,Agra,53,126,11,No,58
+2025-08-25,Uttar Pradesh,Agra,562,1109,175,No,618
+2025-08-26,Uttar Pradesh,Agra,180,324,36,No,198
+2025-08-27,Uttar Pradesh,Agra,588,1294,97,No,646
+2025-08-28,Uttar Pradesh,Agra,289,579,62,No,317
+2025-08-29,Uttar Pradesh,Agra,441,1046,144,No,485
+2025-08-30,Uttar Pradesh,Agra,45,87,6,No,49
+2025-08-31,Uttar Pradesh,Agra,76,171,25,No,83
+2025-09-01,Uttar Pradesh,Agra,393,713,115,No,432
+2025-09-02,Uttar Pradesh,Agra,545,1069,96,No,599
+2025-09-03,Uttar Pradesh,Agra,183,250,29,No,201
+2025-09-04,Uttar Pradesh,Agra,568,1253,95,No,624
+2025-09-05,Uttar Pradesh,Agra,367,571,99,No,403
+2025-09-06,Uttar Pradesh,Agra,73,144,22,No,80
+2025-09-07,Uttar Pradesh,Agra,62,139,15,No,68
+2025-09-08,Uttar Pradesh,Agra,348,786,65,Yes,382
+2025-09-09,Uttar Pradesh,Agra,192,250,38,No,211
+2025-09-10,Uttar Pradesh,Agra,231,420,49,No,254
+2025-09-11,Uttar Pradesh,Agra,163,283,33,No,179
+2025-09-12,Uttar Pradesh,Agra,368,594,64,No,404
+2025-09-13,Uttar Pradesh,Agra,28,48,8,No,30
+2025-09-14,Uttar Pradesh,Agra,78,113,12,No,85
+2025-09-15,Uttar Pradesh,Agra,497,1194,83,No,546
+2025-09-16,Uttar Pradesh,Agra,161,341,34,No,177
+2025-09-17,Uttar Pradesh,Agra,450,807,86,No,495
+2025-09-18,Uttar Pradesh,Agra,279,475,65,No,306
+2025-09-19,Uttar Pradesh,Agra,373,588,67,No,410
+2025-09-20,Uttar Pradesh,Agra,77,189,21,No,84
+2025-09-21,Uttar Pradesh,Agra,23,32,7,No,25
+2025-09-22,Uttar Pradesh,Agra,217,381,65,No,238
+2025-09-23,Uttar Pradesh,Agra,530,756,176,No,583
+2025-09-24,Uttar Pradesh,Agra,526,644,170,No,578
+2025-09-25,Uttar Pradesh,Agra,364,685,96,No,400
+2025-09-26,Uttar Pradesh,Agra,165,327,35,No,181
+2025-09-27,Uttar Pradesh,Agra,29,70,6,No,31
+2025-09-28,Uttar Pradesh,Agra,42,87,11,No,46
+2025-09-29,Uttar Pradesh,Agra,482,1144,85,No,530
+2025-09-30,Uttar Pradesh,Agra,467,803,134,No,513
+2025-10-01,Uttar Pradesh,Agra,370,470,103,No,407
+2025-10-02,Uttar Pradesh,Agra,545,888,159,No,599
+2025-10-03,Uttar Pradesh,Agra,386,563,119,No,424
+2025-10-04,Uttar Pradesh,Agra,51,86,14,No,56
+2025-10-05,Uttar Pradesh,Agra,26,37,6,No,28
+2025-10-06,Uttar Pradesh,Agra,304,402,48,No,334
+2025-10-07,Uttar Pradesh,Agra,232,293,51,No,255
+2025-10-08,Uttar Pradesh,Agra,196,479,64,No,215
+2025-10-09,Uttar Pradesh,Agra,178,338,40,No,195
+2025-10-10,Uttar Pradesh,Agra,519,899,150,No,570
+2025-10-11,Uttar Pradesh,Agra,81,121,18,No,89
+2025-10-12,Uttar Pradesh,Agra,93,198,15,No,102
+2025-10-13,Uttar Pradesh,Agra,549,692,157,No,603
+2025-10-14,Uttar Pradesh,Agra,280,440,97,No,308
+2025-10-15,Uttar Pradesh,Agra,187,234,64,No,205
+2025-10-16,Uttar Pradesh,Agra,216,524,35,No,237
+2025-10-17,Uttar Pradesh,Agra,264,508,57,No,290
+2025-10-18,Uttar Pradesh,Agra,50,114,13,No,55
+2025-10-19,Uttar Pradesh,Agra,65,136,16,No,71
+2025-10-20,Uttar Pradesh,Agra,169,309,41,No,185
+2025-10-21,Uttar Pradesh,Agra,261,470,44,No,287
+2025-10-22,Uttar Pradesh,Agra,551,1336,83,No,606
+2025-10-23,Uttar Pradesh,Agra,521,1174,180,No,573
+2025-10-24,Uttar Pradesh,Agra,289,407,54,No,317
+2025-10-25,Uttar Pradesh,Agra,29,40,10,No,31
+2025-10-26,Uttar Pradesh,Agra,73,107,25,No,80
+2025-10-27,Uttar Pradesh,Agra,166,251,47,No,182
+2025-10-28,Uttar Pradesh,Agra,184,338,33,No,202
+2025-10-29,Uttar Pradesh,Agra,279,343,85,No,306
+2025-10-30,Uttar Pradesh,Agra,474,1052,145,No,521
+2025-10-31,Uttar Pradesh,Agra,537,839,85,No,590
+2025-11-01,Uttar Pradesh,Agra,78,135,16,No,85
+2025-11-02,Uttar Pradesh,Agra,99,135,26,No,108
+2025-11-03,Uttar Pradesh,Agra,549,975,145,No,603
+2025-11-04,Uttar Pradesh,Agra,424,658,63,No,466
+2025-11-05,Uttar Pradesh,Agra,473,638,106,No,520
+2025-11-06,Uttar Pradesh,Agra,252,373,62,No,277
+2025-11-07,Uttar Pradesh,Agra,478,605,131,No,525
+2025-11-08,Uttar Pradesh,Agra,35,63,10,No,38
+2025-11-09,Uttar Pradesh,Agra,93,142,26,No,102
+2025-11-10,Uttar Pradesh,Agra,359,825,69,No,394
+2025-11-11,Uttar Pradesh,Agra,484,902,81,No,532
+2025-11-12,Uttar Pradesh,Agra,450,1007,90,No,495
+2025-11-13,Uttar Pradesh,Agra,240,312,43,No,264
+2025-11-14,Uttar Pradesh,Agra,178,402,48,No,195
+2025-11-15,Uttar Pradesh,Agra,61,109,17,No,67
+2025-11-16,Uttar Pradesh,Agra,77,138,15,No,84
+2025-11-17,Uttar Pradesh,Agra,337,627,111,No,370
+2025-11-18,Uttar Pradesh,Agra,374,548,85,No,411
+2025-11-19,Uttar Pradesh,Agra,307,672,46,Yes,337
+2025-11-20,Uttar Pradesh,Agra,502,1066,83,No,552
+2025-11-21,Uttar Pradesh,Agra,355,878,79,No,390
+2025-11-22,Uttar Pradesh,Agra,43,103,12,No,47
+2025-11-23,Uttar Pradesh,Agra,32,39,5,No,35
+2025-11-24,Uttar Pradesh,Agra,193,302,34,No,212
+2025-11-25,Uttar Pradesh,Agra,595,1350,104,No,654
+2025-11-26,Uttar Pradesh,Agra,173,268,28,No,190
+2025-11-27,Uttar Pradesh,Agra,157,292,38,No,172
+2025-11-28,Uttar Pradesh,Agra,216,353,40,No,237
+2025-11-29,Uttar Pradesh,Agra,90,198,16,No,99
+2025-11-30,Uttar Pradesh,Agra,56,121,15,No,61
+2025-12-01,Uttar Pradesh,Agra,218,403,71,No,239
+2025-12-02,Uttar Pradesh,Agra,546,761,127,No,600
+2025-12-03,Uttar Pradesh,Agra,578,1325,92,No,635
+2025-12-04,Uttar Pradesh,Agra,544,1216,125,No,598
+2025-12-05,Uttar Pradesh,Agra,197,478,46,No,216
+2025-12-06,Uttar Pradesh,Agra,33,79,11,No,36
+2025-12-07,Uttar Pradesh,Agra,99,233,29,No,108
+2025-12-08,Uttar Pradesh,Agra,247,319,56,No,271
+2025-12-09,Uttar Pradesh,Agra,305,528,54,No,335
+2025-12-10,Uttar Pradesh,Agra,451,825,73,No,496
+2025-12-11,Uttar Pradesh,Agra,577,1011,106,No,634
+2025-12-12,Uttar Pradesh,Agra,499,1146,164,No,548
+2025-12-13,Uttar Pradesh,Agra,87,164,18,No,95
+2025-12-14,Uttar Pradesh,Agra,84,113,28,No,92
+2025-12-15,Uttar Pradesh,Agra,418,519,122,No,459
+2025-12-16,Uttar Pradesh,Agra,418,609,94,No,459
+2025-12-17,Uttar Pradesh,Agra,418,850,119,No,459
+2025-12-18,Uttar Pradesh,Agra,350,739,117,No,385
+2025-12-19,Uttar Pradesh,Agra,254,345,77,No,279
+2025-12-20,Uttar Pradesh,Agra,77,156,26,No,84
+2025-12-21,Uttar Pradesh,Agra,53,102,12,No,58
+2025-12-22,Uttar Pradesh,Agra,238,488,44,No,261
+2025-12-23,Uttar Pradesh,Agra,452,822,134,No,497
+2025-12-24,Uttar Pradesh,Agra,420,959,95,No,462
+2025-12-25,Uttar Pradesh,Agra,419,854,127,No,460
+2025-12-26,Uttar Pradesh,Agra,249,414,57,No,273
+2025-12-27,Uttar Pradesh,Agra,73,136,23,No,80
+2025-12-28,Uttar Pradesh,Agra,76,149,18,No,83
+2025-12-29,Uttar Pradesh,Agra,438,727,98,No,481
+2025-12-30,Uttar Pradesh,Agra,532,801,156,No,585
+2025-12-31,Uttar Pradesh,Agra,470,998,158,No,517
+2025-01-01,Uttar Pradesh,Meerut,156,344,23,No,171
+2025-01-02,Uttar Pradesh,Meerut,210,292,66,No,231
+2025-01-03,Uttar Pradesh,Meerut,551,1212,113,No,606
+2025-01-04,Uttar Pradesh,Meerut,44,69,6,No,48
+2025-01-05,Uttar Pradesh,Meerut,44,95,9,No,48
+2025-01-06,Uttar Pradesh,Meerut,194,388,54,No,213
+2025-01-07,Uttar Pradesh,Meerut,555,1146,167,No,610
+2025-01-08,Uttar Pradesh,Meerut,576,827,139,No,633
+2025-01-09,Uttar Pradesh,Meerut,587,797,94,No,645
+2025-01-10,Uttar Pradesh,Meerut,409,517,63,No,449
+2025-01-11,Uttar Pradesh,Meerut,54,81,17,No,59
+2025-01-12,Uttar Pradesh,Meerut,41,69,8,No,45
+2025-01-13,Uttar Pradesh,Meerut,384,835,88,No,422
+2025-01-14,Uttar Pradesh,Meerut,257,588,52,No,282
+2025-01-15,Uttar Pradesh,Meerut,591,1400,134,No,650
+2025-01-16,Uttar Pradesh,Meerut,334,764,90,No,367
+2025-01-17,Uttar Pradesh,Meerut,351,806,102,No,386
+2025-01-18,Uttar Pradesh,Meerut,55,84,10,No,60
+2025-01-19,Uttar Pradesh,Meerut,98,185,16,No,107
+2025-01-20,Uttar Pradesh,Meerut,380,853,87,No,418
+2025-01-21,Uttar Pradesh,Meerut,318,593,101,No,349
+2025-01-22,Uttar Pradesh,Meerut,511,792,174,No,562
+2025-01-23,Uttar Pradesh,Meerut,389,510,99,No,427
+2025-01-24,Uttar Pradesh,Meerut,341,501,59,No,375
+2025-01-25,Uttar Pradesh,Meerut,34,68,10,No,37
+2025-01-26,Uttar Pradesh,Meerut,33,59,6,No,36
+2025-01-27,Uttar Pradesh,Meerut,234,451,56,No,257
+2025-01-28,Uttar Pradesh,Meerut,273,349,70,No,300
+2025-01-29,Uttar Pradesh,Meerut,460,709,79,Yes,506
+2025-01-30,Uttar Pradesh,Meerut,526,1021,168,No,578
+2025-01-31,Uttar Pradesh,Meerut,390,552,125,No,429
+2025-02-01,Uttar Pradesh,Meerut,85,210,25,No,93
+2025-02-02,Uttar Pradesh,Meerut,46,107,12,No,50
+2025-02-03,Uttar Pradesh,Meerut,230,429,51,No,253
+2025-02-04,Uttar Pradesh,Meerut,333,483,107,No,366
+2025-02-05,Uttar Pradesh,Meerut,339,586,85,No,372
+2025-02-06,Uttar Pradesh,Meerut,265,611,70,No,291
+2025-02-07,Uttar Pradesh,Meerut,328,744,53,No,360
+2025-02-08,Uttar Pradesh,Meerut,63,117,16,No,69
+2025-02-09,Uttar Pradesh,Meerut,70,147,20,No,77
+2025-02-10,Uttar Pradesh,Meerut,312,387,104,No,343
+2025-02-11,Uttar Pradesh,Meerut,371,814,66,No,408
+2025-02-12,Uttar Pradesh,Meerut,225,336,50,No,247
+2025-02-13,Uttar Pradesh,Meerut,578,1352,88,No,635
+2025-02-14,Uttar Pradesh,Meerut,555,961,193,No,610
+2025-02-15,Uttar Pradesh,Meerut,34,65,11,No,37
+2025-02-16,Uttar Pradesh,Meerut,73,125,21,No,80
+2025-02-17,Uttar Pradesh,Meerut,186,375,30,No,204
+2025-02-18,Uttar Pradesh,Meerut,170,213,58,No,187
+2025-02-19,Uttar Pradesh,Meerut,184,349,36,No,202
+2025-02-20,Uttar Pradesh,Meerut,376,729,98,No,413
+2025-02-21,Uttar Pradesh,Meerut,349,730,58,No,383
+2025-02-22,Uttar Pradesh,Meerut,31,54,8,No,34
+2025-02-23,Uttar Pradesh,Meerut,57,112,16,No,62
+2025-02-24,Uttar Pradesh,Meerut,244,440,70,No,268
+2025-02-25,Uttar Pradesh,Meerut,400,799,101,No,440
+2025-02-26,Uttar Pradesh,Meerut,599,1315,133,No,658
+2025-02-27,Uttar Pradesh,Meerut,415,1010,97,No,456
+2025-02-28,Uttar Pradesh,Meerut,522,749,159,No,574
+2025-03-01,Uttar Pradesh,Meerut,60,144,14,No,66
+2025-03-02,Uttar Pradesh,Meerut,63,101,14,No,69
+2025-03-03,Uttar Pradesh,Meerut,235,549,56,No,258
+2025-03-04,Uttar Pradesh,Meerut,215,393,55,No,236
+2025-03-05,Uttar Pradesh,Meerut,184,396,47,No,202
+2025-03-06,Uttar Pradesh,Meerut,191,388,33,Yes,210
+2025-03-07,Uttar Pradesh,Meerut,166,250,56,No,182
+2025-03-08,Uttar Pradesh,Meerut,86,109,18,No,94
+2025-03-09,Uttar Pradesh,Meerut,95,124,32,No,104
+2025-03-10,Uttar Pradesh,Meerut,489,1123,122,No,537
+2025-03-11,Uttar Pradesh,Meerut,361,730,91,No,397
+2025-03-12,Uttar Pradesh,Meerut,202,397,42,No,222
+2025-03-13,Uttar Pradesh,Meerut,480,1171,72,No,528
+2025-03-14,Uttar Pradesh,Meerut,464,1053,133,No,510
+2025-03-15,Uttar Pradesh,Meerut,43,67,9,No,47
+2025-03-16,Uttar Pradesh,Meerut,81,193,27,No,89
+2025-03-17,Uttar Pradesh,Meerut,355,716,56,No,390
+2025-03-18,Uttar Pradesh,Meerut,310,505,93,No,341
+2025-03-19,Uttar Pradesh,Meerut,309,422,75,No,339
+2025-03-20,Uttar Pradesh,Meerut,303,663,58,No,333
+2025-03-21,Uttar Pradesh,Meerut,595,1316,96,No,654
+2025-03-22,Uttar Pradesh,Meerut,49,98,12,No,53
+2025-03-23,Uttar Pradesh,Meerut,45,84,15,No,49
+2025-03-24,Uttar Pradesh,Meerut,194,359,33,No,213
+2025-03-25,Uttar Pradesh,Meerut,305,598,99,No,335
+2025-03-26,Uttar Pradesh,Meerut,487,865,161,No,535
+2025-03-27,Uttar Pradesh,Meerut,324,760,79,No,356
+2025-03-28,Uttar Pradesh,Meerut,386,635,79,No,424
+2025-03-29,Uttar Pradesh,Meerut,50,66,15,No,55
+2025-03-30,Uttar Pradesh,Meerut,41,83,7,No,45
+2025-03-31,Uttar Pradesh,Meerut,235,531,69,No,258
+2025-04-01,Uttar Pradesh,Meerut,586,830,126,No,644
+2025-04-02,Uttar Pradesh,Meerut,454,592,89,No,499
+2025-04-03,Uttar Pradesh,Meerut,413,881,76,No,454
+2025-04-04,Uttar Pradesh,Meerut,321,521,90,No,353
+2025-04-05,Uttar Pradesh,Meerut,93,163,30,No,102
+2025-04-06,Uttar Pradesh,Meerut,45,83,14,No,49
+2025-04-07,Uttar Pradesh,Meerut,580,836,122,No,638
+2025-04-08,Uttar Pradesh,Meerut,439,653,150,No,482
+2025-04-09,Uttar Pradesh,Meerut,462,776,138,No,508
+2025-04-10,Uttar Pradesh,Meerut,424,798,97,No,466
+2025-04-11,Uttar Pradesh,Meerut,434,935,68,No,477
+2025-04-12,Uttar Pradesh,Meerut,65,149,16,No,71
+2025-04-13,Uttar Pradesh,Meerut,25,57,5,No,27
+2025-04-14,Uttar Pradesh,Meerut,246,587,66,No,270
+2025-04-15,Uttar Pradesh,Meerut,457,864,96,No,502
+2025-04-16,Uttar Pradesh,Meerut,308,502,103,No,338
+2025-04-17,Uttar Pradesh,Meerut,379,846,119,No,416
+2025-04-18,Uttar Pradesh,Meerut,599,1257,180,No,658
+2025-04-19,Uttar Pradesh,Meerut,31,45,5,No,34
+2025-04-20,Uttar Pradesh,Meerut,57,102,15,No,62
+2025-04-21,Uttar Pradesh,Meerut,259,382,38,No,284
+2025-04-22,Uttar Pradesh,Meerut,490,830,127,No,539
+2025-04-23,Uttar Pradesh,Meerut,246,322,43,No,270
+2025-04-24,Uttar Pradesh,Meerut,376,838,114,No,413
+2025-04-25,Uttar Pradesh,Meerut,273,362,78,No,300
+2025-04-26,Uttar Pradesh,Meerut,24,33,4,No,26
+2025-04-27,Uttar Pradesh,Meerut,84,197,14,No,92
+2025-04-28,Uttar Pradesh,Meerut,311,437,55,No,342
+2025-04-29,Uttar Pradesh,Meerut,529,1217,177,No,581
+2025-04-30,Uttar Pradesh,Meerut,402,821,69,No,442
+2025-05-01,Uttar Pradesh,Meerut,401,854,68,No,441
+2025-05-02,Uttar Pradesh,Meerut,222,344,41,No,244
+2025-05-03,Uttar Pradesh,Meerut,56,90,14,No,61
+2025-05-04,Uttar Pradesh,Meerut,53,81,13,No,58
+2025-05-05,Uttar Pradesh,Meerut,356,492,86,No,391
+2025-05-06,Uttar Pradesh,Meerut,283,632,93,No,311
+2025-05-07,Uttar Pradesh,Meerut,166,278,34,No,182
+2025-05-08,Uttar Pradesh,Meerut,430,534,124,No,473
+2025-05-09,Uttar Pradesh,Meerut,419,849,79,No,460
+2025-05-10,Uttar Pradesh,Meerut,26,44,8,No,28
+2025-05-11,Uttar Pradesh,Meerut,64,133,16,No,70
+2025-05-12,Uttar Pradesh,Meerut,452,1122,145,No,497
+2025-05-13,Uttar Pradesh,Meerut,278,505,49,No,305
+2025-05-14,Uttar Pradesh,Meerut,491,1207,111,No,540
+2025-05-15,Uttar Pradesh,Meerut,322,392,81,No,354
+2025-05-16,Uttar Pradesh,Meerut,414,626,131,No,455
+2025-05-17,Uttar Pradesh,Meerut,68,97,16,No,74
+2025-05-18,Uttar Pradesh,Meerut,93,216,27,No,102
+2025-05-19,Uttar Pradesh,Meerut,308,651,81,No,338
+2025-05-20,Uttar Pradesh,Meerut,445,589,87,No,489
+2025-05-21,Uttar Pradesh,Meerut,511,999,163,No,562
+2025-05-22,Uttar Pradesh,Meerut,508,611,108,No,558
+2025-05-23,Uttar Pradesh,Meerut,150,277,43,No,165
+2025-05-24,Uttar Pradesh,Meerut,74,126,12,No,81
+2025-05-25,Uttar Pradesh,Meerut,82,127,20,No,90
+2025-05-26,Uttar Pradesh,Meerut,397,632,137,No,436
+2025-05-27,Uttar Pradesh,Meerut,514,756,89,No,565
+2025-05-28,Uttar Pradesh,Meerut,313,503,75,No,344
+2025-05-29,Uttar Pradesh,Meerut,457,992,68,No,502
+2025-05-30,Uttar Pradesh,Meerut,360,524,90,No,396
+2025-05-31,Uttar Pradesh,Meerut,39,59,13,No,42
+2025-06-01,Uttar Pradesh,Meerut,32,62,8,No,35
+2025-06-02,Uttar Pradesh,Meerut,305,432,90,No,335
+2025-06-03,Uttar Pradesh,Meerut,270,377,69,No,297
+2025-06-04,Uttar Pradesh,Meerut,391,962,122,No,430
+2025-06-05,Uttar Pradesh,Meerut,451,812,115,No,496
+2025-06-06,Uttar Pradesh,Meerut,598,1109,179,No,657
+2025-06-07,Uttar Pradesh,Meerut,74,152,17,No,81
+2025-06-08,Uttar Pradesh,Meerut,34,45,11,No,37
+2025-06-09,Uttar Pradesh,Meerut,594,1418,102,No,653
+2025-06-10,Uttar Pradesh,Meerut,206,502,41,No,226
+2025-06-11,Uttar Pradesh,Meerut,441,898,106,No,485
+2025-06-12,Uttar Pradesh,Meerut,554,835,152,No,609
+2025-06-13,Uttar Pradesh,Meerut,289,517,98,No,317
+2025-06-14,Uttar Pradesh,Meerut,75,122,25,No,82
+2025-06-15,Uttar Pradesh,Meerut,60,127,11,No,66
+2025-06-16,Uttar Pradesh,Meerut,162,263,44,No,178
+2025-06-17,Uttar Pradesh,Meerut,207,261,34,No,227
+2025-06-18,Uttar Pradesh,Meerut,576,1156,142,No,633
+2025-06-19,Uttar Pradesh,Meerut,281,515,51,No,309
+2025-06-20,Uttar Pradesh,Meerut,541,1147,97,No,595
+2025-06-21,Uttar Pradesh,Meerut,86,209,25,No,94
+2025-06-22,Uttar Pradesh,Meerut,87,122,24,No,95
+2025-06-23,Uttar Pradesh,Meerut,386,562,105,No,424
+2025-06-24,Uttar Pradesh,Meerut,331,505,80,No,364
+2025-06-25,Uttar Pradesh,Meerut,527,1285,96,No,579
+2025-06-26,Uttar Pradesh,Meerut,207,438,64,No,227
+2025-06-27,Uttar Pradesh,Meerut,405,531,92,No,445
+2025-06-28,Uttar Pradesh,Meerut,92,203,20,No,101
+2025-06-29,Uttar Pradesh,Meerut,32,70,7,No,35
+2025-06-30,Uttar Pradesh,Meerut,183,299,41,No,201
+2025-07-01,Uttar Pradesh,Meerut,389,634,111,No,427
+2025-07-02,Uttar Pradesh,Meerut,388,784,82,No,426
+2025-07-03,Uttar Pradesh,Meerut,393,866,114,No,432
+2025-07-04,Uttar Pradesh,Meerut,254,562,86,No,279
+2025-07-05,Uttar Pradesh,Meerut,76,154,15,No,83
+2025-07-06,Uttar Pradesh,Meerut,30,44,10,No,33
+2025-07-07,Uttar Pradesh,Meerut,301,634,104,No,331
+2025-07-08,Uttar Pradesh,Meerut,520,764,146,No,572
+2025-07-09,Uttar Pradesh,Meerut,309,649,49,No,339
+2025-07-10,Uttar Pradesh,Meerut,513,966,120,No,564
+2025-07-11,Uttar Pradesh,Meerut,435,917,114,No,478
+2025-07-12,Uttar Pradesh,Meerut,65,94,20,No,71
+2025-07-13,Uttar Pradesh,Meerut,69,152,16,No,75
+2025-07-14,Uttar Pradesh,Meerut,175,328,49,No,192
+2025-07-15,Uttar Pradesh,Meerut,401,991,119,No,441
+2025-07-16,Uttar Pradesh,Meerut,549,1231,90,No,603
+2025-07-17,Uttar Pradesh,Meerut,150,219,35,No,165
+2025-07-18,Uttar Pradesh,Meerut,400,497,65,No,440
+2025-07-19,Uttar Pradesh,Meerut,71,167,20,No,78
+2025-07-20,Uttar Pradesh,Meerut,46,88,14,No,50
+2025-07-21,Uttar Pradesh,Meerut,550,1315,133,No,605
+2025-07-22,Uttar Pradesh,Meerut,547,1050,144,No,601
+2025-07-23,Uttar Pradesh,Meerut,376,721,103,No,413
+2025-07-24,Uttar Pradesh,Meerut,514,952,140,No,565
+2025-07-25,Uttar Pradesh,Meerut,566,1222,186,No,622
+2025-07-26,Uttar Pradesh,Meerut,42,103,13,No,46
+2025-07-27,Uttar Pradesh,Meerut,50,110,15,No,55
+2025-07-28,Uttar Pradesh,Meerut,277,381,76,No,304
+2025-07-29,Uttar Pradesh,Meerut,382,702,103,No,420
+2025-07-30,Uttar Pradesh,Meerut,314,441,106,No,345
+2025-07-31,Uttar Pradesh,Meerut,560,1013,99,No,616
+2025-08-01,Uttar Pradesh,Meerut,579,722,121,No,636
+2025-08-02,Uttar Pradesh,Meerut,53,84,16,No,58
+2025-08-03,Uttar Pradesh,Meerut,45,60,15,No,49
+2025-08-04,Uttar Pradesh,Meerut,491,1119,117,No,540
+2025-08-05,Uttar Pradesh,Meerut,189,445,30,No,207
+2025-08-06,Uttar Pradesh,Meerut,552,1087,133,No,607
+2025-08-07,Uttar Pradesh,Meerut,324,566,68,No,356
+2025-08-08,Uttar Pradesh,Meerut,213,275,56,No,234
+2025-08-09,Uttar Pradesh,Meerut,54,116,18,No,59
+2025-08-10,Uttar Pradesh,Meerut,48,86,7,No,52
+2025-08-11,Uttar Pradesh,Meerut,325,499,86,No,357
+2025-08-12,Uttar Pradesh,Meerut,306,374,93,No,336
+2025-08-13,Uttar Pradesh,Meerut,525,1145,116,No,577
+2025-08-14,Uttar Pradesh,Meerut,377,905,104,No,414
+2025-08-15,Uttar Pradesh,Meerut,220,266,61,No,242
+2025-08-16,Uttar Pradesh,Meerut,95,219,23,No,104
+2025-08-17,Uttar Pradesh,Meerut,23,36,6,No,25
+2025-08-18,Uttar Pradesh,Meerut,319,615,103,No,350
+2025-08-19,Uttar Pradesh,Meerut,349,677,117,No,383
+2025-08-20,Uttar Pradesh,Meerut,294,474,44,No,323
+2025-08-21,Uttar Pradesh,Meerut,396,698,90,No,435
+2025-08-22,Uttar Pradesh,Meerut,271,586,66,No,298
+2025-08-23,Uttar Pradesh,Meerut,62,100,20,No,68
+2025-08-24,Uttar Pradesh,Meerut,45,63,8,No,49
+2025-08-25,Uttar Pradesh,Meerut,230,408,70,No,253
+2025-08-26,Uttar Pradesh,Meerut,379,858,129,No,416
+2025-08-27,Uttar Pradesh,Meerut,216,497,67,No,237
+2025-08-28,Uttar Pradesh,Meerut,466,683,93,No,512
+2025-08-29,Uttar Pradesh,Meerut,410,726,94,No,451
+2025-08-30,Uttar Pradesh,Meerut,98,181,34,No,107
+2025-08-31,Uttar Pradesh,Meerut,30,60,8,No,33
+2025-09-01,Uttar Pradesh,Meerut,475,988,94,No,522
+2025-09-02,Uttar Pradesh,Meerut,359,479,71,No,394
+2025-09-03,Uttar Pradesh,Meerut,204,359,32,No,224
+2025-09-04,Uttar Pradesh,Meerut,204,294,35,No,224
+2025-09-05,Uttar Pradesh,Meerut,236,294,38,No,259
+2025-09-06,Uttar Pradesh,Meerut,51,67,16,No,56
+2025-09-07,Uttar Pradesh,Meerut,22,42,6,No,24
+2025-09-08,Uttar Pradesh,Meerut,394,733,117,No,433
+2025-09-09,Uttar Pradesh,Meerut,379,686,90,No,416
+2025-09-10,Uttar Pradesh,Meerut,369,676,125,No,405
+2025-09-11,Uttar Pradesh,Meerut,551,662,91,No,606
+2025-09-12,Uttar Pradesh,Meerut,565,721,131,No,621
+2025-09-13,Uttar Pradesh,Meerut,32,56,6,No,35
+2025-09-14,Uttar Pradesh,Meerut,70,140,23,No,77
+2025-09-15,Uttar Pradesh,Meerut,207,468,49,No,227
+2025-09-16,Uttar Pradesh,Meerut,321,496,94,No,353
+2025-09-17,Uttar Pradesh,Meerut,404,731,91,No,444
+2025-09-18,Uttar Pradesh,Meerut,299,541,93,No,328
+2025-09-19,Uttar Pradesh,Meerut,227,334,65,No,249
+2025-09-20,Uttar Pradesh,Meerut,40,49,10,No,44
+2025-09-21,Uttar Pradesh,Meerut,98,226,17,No,107
+2025-09-22,Uttar Pradesh,Meerut,359,713,113,No,394
+2025-09-23,Uttar Pradesh,Meerut,361,761,99,No,397
+2025-09-24,Uttar Pradesh,Meerut,520,902,86,No,572
+2025-09-25,Uttar Pradesh,Meerut,178,434,46,No,195
+2025-09-26,Uttar Pradesh,Meerut,329,416,52,No,361
+2025-09-27,Uttar Pradesh,Meerut,85,165,16,No,93
+2025-09-28,Uttar Pradesh,Meerut,63,81,18,No,69
+2025-09-29,Uttar Pradesh,Meerut,219,420,57,No,240
+2025-09-30,Uttar Pradesh,Meerut,222,475,45,No,244
+2025-10-01,Uttar Pradesh,Meerut,491,1157,97,No,540
+2025-10-02,Uttar Pradesh,Meerut,431,856,90,No,474
+2025-10-03,Uttar Pradesh,Meerut,493,970,111,No,542
+2025-10-04,Uttar Pradesh,Meerut,93,209,29,No,102
+2025-10-05,Uttar Pradesh,Meerut,34,50,5,No,37
+2025-10-06,Uttar Pradesh,Meerut,525,781,79,No,577
+2025-10-07,Uttar Pradesh,Meerut,245,435,66,No,269
+2025-10-08,Uttar Pradesh,Meerut,405,546,106,No,445
+2025-10-09,Uttar Pradesh,Meerut,196,242,31,No,215
+2025-10-10,Uttar Pradesh,Meerut,251,512,48,No,276
+2025-10-11,Uttar Pradesh,Meerut,48,76,13,No,52
+2025-10-12,Uttar Pradesh,Meerut,35,86,10,No,38
+2025-10-13,Uttar Pradesh,Meerut,426,814,136,No,468
+2025-10-14,Uttar Pradesh,Meerut,391,861,67,No,430
+2025-10-15,Uttar Pradesh,Meerut,326,415,93,No,358
+2025-10-16,Uttar Pradesh,Meerut,269,431,44,No,295
+2025-10-17,Uttar Pradesh,Meerut,386,688,67,No,424
+2025-10-18,Uttar Pradesh,Meerut,64,114,13,No,70
+2025-10-19,Uttar Pradesh,Meerut,94,132,28,No,103
+2025-10-20,Uttar Pradesh,Meerut,162,319,45,No,178
+2025-10-21,Uttar Pradesh,Meerut,539,1117,159,No,592
+2025-10-22,Uttar Pradesh,Meerut,432,592,113,No,475
+2025-10-23,Uttar Pradesh,Meerut,238,357,79,No,261
+2025-10-24,Uttar Pradesh,Meerut,386,694,103,No,424
+2025-10-25,Uttar Pradesh,Meerut,36,53,6,No,39
+2025-10-26,Uttar Pradesh,Meerut,20,26,4,No,22
+2025-10-27,Uttar Pradesh,Meerut,234,378,54,No,257
+2025-10-28,Uttar Pradesh,Meerut,221,291,58,No,243
+2025-10-29,Uttar Pradesh,Meerut,206,444,48,No,226
+2025-10-30,Uttar Pradesh,Meerut,417,695,142,No,458
+2025-10-31,Uttar Pradesh,Meerut,587,917,102,No,645
+2025-11-01,Uttar Pradesh,Meerut,82,157,23,No,90
+2025-11-02,Uttar Pradesh,Meerut,86,214,13,No,94
+2025-11-03,Uttar Pradesh,Meerut,356,733,57,No,391
+2025-11-04,Uttar Pradesh,Meerut,206,333,46,No,226
+2025-11-05,Uttar Pradesh,Meerut,594,874,154,No,653
+2025-11-06,Uttar Pradesh,Meerut,438,817,103,No,481
+2025-11-07,Uttar Pradesh,Meerut,396,856,122,No,435
+2025-11-08,Uttar Pradesh,Meerut,84,188,18,No,92
+2025-11-09,Uttar Pradesh,Meerut,89,139,25,No,97
+2025-11-10,Uttar Pradesh,Meerut,489,767,167,No,537
+2025-11-11,Uttar Pradesh,Meerut,339,774,73,No,372
+2025-11-12,Uttar Pradesh,Meerut,218,508,56,No,239
+2025-11-13,Uttar Pradesh,Meerut,357,723,70,No,392
+2025-11-14,Uttar Pradesh,Meerut,480,1013,141,No,528
+2025-11-15,Uttar Pradesh,Meerut,20,48,5,No,22
+2025-11-16,Uttar Pradesh,Meerut,74,176,20,No,81
+2025-11-17,Uttar Pradesh,Meerut,228,458,50,No,250
+2025-11-18,Uttar Pradesh,Meerut,545,720,109,No,599
+2025-11-19,Uttar Pradesh,Meerut,342,718,65,No,376
+2025-11-20,Uttar Pradesh,Meerut,417,536,87,No,458
+2025-11-21,Uttar Pradesh,Meerut,164,368,52,No,180
+2025-11-22,Uttar Pradesh,Meerut,56,93,18,No,61
+2025-11-23,Uttar Pradesh,Meerut,33,81,6,No,36
+2025-11-24,Uttar Pradesh,Meerut,388,530,123,No,426
+2025-11-25,Uttar Pradesh,Meerut,281,552,64,No,309
+2025-11-26,Uttar Pradesh,Meerut,357,777,99,No,392
+2025-11-27,Uttar Pradesh,Meerut,195,365,58,No,214
+2025-11-28,Uttar Pradesh,Meerut,397,617,93,Yes,436
+2025-11-29,Uttar Pradesh,Meerut,91,160,24,No,100
+2025-11-30,Uttar Pradesh,Meerut,21,31,5,Yes,23
+2025-12-01,Uttar Pradesh,Meerut,296,530,61,No,325
+2025-12-02,Uttar Pradesh,Meerut,591,748,107,No,650
+2025-12-03,Uttar Pradesh,Meerut,239,460,54,No,262
+2025-12-04,Uttar Pradesh,Meerut,361,901,115,No,397
+2025-12-05,Uttar Pradesh,Meerut,597,823,180,No,656
+2025-12-06,Uttar Pradesh,Meerut,54,110,10,No,59
+2025-12-07,Uttar Pradesh,Meerut,45,102,7,No,49
+2025-12-08,Uttar Pradesh,Meerut,193,343,64,No,212
+2025-12-09,Uttar Pradesh,Meerut,362,609,94,No,398
+2025-12-10,Uttar Pradesh,Meerut,590,1231,183,No,649
+2025-12-11,Uttar Pradesh,Meerut,209,466,52,No,229
+2025-12-12,Uttar Pradesh,Meerut,179,297,41,No,196
+2025-12-13,Uttar Pradesh,Meerut,67,95,17,No,73
+2025-12-14,Uttar Pradesh,Meerut,51,125,14,No,56
+2025-12-15,Uttar Pradesh,Meerut,285,709,55,No,313
+2025-12-16,Uttar Pradesh,Meerut,373,637,104,No,410
+2025-12-17,Uttar Pradesh,Meerut,564,1088,117,No,620
+2025-12-18,Uttar Pradesh,Meerut,242,527,68,No,266
+2025-12-19,Uttar Pradesh,Meerut,373,931,121,No,410
+2025-12-20,Uttar Pradesh,Meerut,54,79,13,No,59
+2025-12-21,Uttar Pradesh,Meerut,77,156,26,No,84
+2025-12-22,Uttar Pradesh,Meerut,303,402,72,No,333
+2025-12-23,Uttar Pradesh,Meerut,387,598,127,No,425
+2025-12-24,Uttar Pradesh,Meerut,336,474,80,No,369
+2025-12-25,Uttar Pradesh,Meerut,500,946,174,No,550
+2025-12-26,Uttar Pradesh,Meerut,395,934,83,No,434
+2025-12-27,Uttar Pradesh,Meerut,24,38,3,No,26
+2025-12-28,Uttar Pradesh,Meerut,46,96,11,No,50
+2025-12-29,Uttar Pradesh,Meerut,457,565,84,No,502
+2025-12-30,Uttar Pradesh,Meerut,389,626,73,No,427
+2025-12-31,Uttar Pradesh,Meerut,359,827,124,No,394
+2025-01-01,Uttar Pradesh,Ghaziabad,153,378,51,No,168
+2025-01-02,Uttar Pradesh,Ghaziabad,552,1158,111,No,607
+2025-01-03,Uttar Pradesh,Ghaziabad,449,756,155,Yes,493
+2025-01-04,Uttar Pradesh,Ghaziabad,60,113,10,No,66
+2025-01-05,Uttar Pradesh,Ghaziabad,38,85,7,No,41
+2025-01-06,Uttar Pradesh,Ghaziabad,420,959,127,No,462
+2025-01-07,Uttar Pradesh,Ghaziabad,177,363,41,No,194
+2025-01-08,Uttar Pradesh,Ghaziabad,184,378,34,No,202
+2025-01-09,Uttar Pradesh,Ghaziabad,375,867,63,No,412
+2025-01-10,Uttar Pradesh,Ghaziabad,521,987,116,No,573
+2025-01-11,Uttar Pradesh,Ghaziabad,28,59,7,No,30
+2025-01-12,Uttar Pradesh,Ghaziabad,76,161,16,No,83
+2025-01-13,Uttar Pradesh,Ghaziabad,233,398,44,No,256
+2025-01-14,Uttar Pradesh,Ghaziabad,590,901,180,No,649
+2025-01-15,Uttar Pradesh,Ghaziabad,237,500,66,No,260
+2025-01-16,Uttar Pradesh,Ghaziabad,453,627,76,No,498
+2025-01-17,Uttar Pradesh,Ghaziabad,366,564,116,No,402
+2025-01-18,Uttar Pradesh,Ghaziabad,66,161,10,No,72
+2025-01-19,Uttar Pradesh,Ghaziabad,73,88,19,No,80
+2025-01-20,Uttar Pradesh,Ghaziabad,515,676,163,No,566
+2025-01-21,Uttar Pradesh,Ghaziabad,354,519,114,No,389
+2025-01-22,Uttar Pradesh,Ghaziabad,415,655,114,No,456
+2025-01-23,Uttar Pradesh,Ghaziabad,304,458,72,No,334
+2025-01-24,Uttar Pradesh,Ghaziabad,291,593,83,No,320
+2025-01-25,Uttar Pradesh,Ghaziabad,86,118,24,No,94
+2025-01-26,Uttar Pradesh,Ghaziabad,95,191,16,No,104
+2025-01-27,Uttar Pradesh,Ghaziabad,304,590,63,No,334
+2025-01-28,Uttar Pradesh,Ghaziabad,317,717,107,No,348
+2025-01-29,Uttar Pradesh,Ghaziabad,179,355,42,No,196
+2025-01-30,Uttar Pradesh,Ghaziabad,519,1073,97,No,570
+2025-01-31,Uttar Pradesh,Ghaziabad,512,654,170,No,563
+2025-02-01,Uttar Pradesh,Ghaziabad,73,178,19,No,80
+2025-02-02,Uttar Pradesh,Ghaziabad,83,147,28,No,91
+2025-02-03,Uttar Pradesh,Ghaziabad,196,342,59,No,215
+2025-02-04,Uttar Pradesh,Ghaziabad,245,438,44,No,269
+2025-02-05,Uttar Pradesh,Ghaziabad,262,622,48,No,288
+2025-02-06,Uttar Pradesh,Ghaziabad,248,420,50,No,272
+2025-02-07,Uttar Pradesh,Ghaziabad,449,751,147,No,493
+2025-02-08,Uttar Pradesh,Ghaziabad,46,81,11,No,50
+2025-02-09,Uttar Pradesh,Ghaziabad,79,109,19,No,86
+2025-02-10,Uttar Pradesh,Ghaziabad,593,800,176,No,652
+2025-02-11,Uttar Pradesh,Ghaziabad,454,880,111,No,499
+2025-02-12,Uttar Pradesh,Ghaziabad,500,749,171,No,550
+2025-02-13,Uttar Pradesh,Ghaziabad,157,256,32,No,172
+2025-02-14,Uttar Pradesh,Ghaziabad,427,933,81,No,469
+2025-02-15,Uttar Pradesh,Ghaziabad,51,63,14,No,56
+2025-02-16,Uttar Pradesh,Ghaziabad,72,101,19,No,79
+2025-02-17,Uttar Pradesh,Ghaziabad,216,390,63,No,237
+2025-02-18,Uttar Pradesh,Ghaziabad,428,749,102,No,470
+2025-02-19,Uttar Pradesh,Ghaziabad,471,729,72,No,518
+2025-02-20,Uttar Pradesh,Ghaziabad,379,527,125,No,416
+2025-02-21,Uttar Pradesh,Ghaziabad,301,415,50,No,331
+2025-02-22,Uttar Pradesh,Ghaziabad,82,138,28,No,90
+2025-02-23,Uttar Pradesh,Ghaziabad,26,61,6,No,28
+2025-02-24,Uttar Pradesh,Ghaziabad,275,558,71,No,302
+2025-02-25,Uttar Pradesh,Ghaziabad,423,919,129,No,465
+2025-02-26,Uttar Pradesh,Ghaziabad,557,739,163,No,612
+2025-02-27,Uttar Pradesh,Ghaziabad,230,461,78,No,253
+2025-02-28,Uttar Pradesh,Ghaziabad,366,454,119,No,402
+2025-03-01,Uttar Pradesh,Ghaziabad,37,74,7,No,40
+2025-03-02,Uttar Pradesh,Ghaziabad,76,170,12,No,83
+2025-03-03,Uttar Pradesh,Ghaziabad,517,1250,139,No,568
+2025-03-04,Uttar Pradesh,Ghaziabad,412,937,86,No,453
+2025-03-05,Uttar Pradesh,Ghaziabad,297,710,93,No,326
+2025-03-06,Uttar Pradesh,Ghaziabad,387,717,73,No,425
+2025-03-07,Uttar Pradesh,Ghaziabad,520,829,115,No,572
+2025-03-08,Uttar Pradesh,Ghaziabad,95,145,22,No,104
+2025-03-09,Uttar Pradesh,Ghaziabad,55,121,18,No,60
+2025-03-10,Uttar Pradesh,Ghaziabad,599,754,132,No,658
+2025-03-11,Uttar Pradesh,Ghaziabad,438,854,85,No,481
+2025-03-12,Uttar Pradesh,Ghaziabad,429,537,74,No,471
+2025-03-13,Uttar Pradesh,Ghaziabad,322,561,98,No,354
+2025-03-14,Uttar Pradesh,Ghaziabad,215,291,72,No,236
+2025-03-15,Uttar Pradesh,Ghaziabad,47,81,14,No,51
+2025-03-16,Uttar Pradesh,Ghaziabad,79,182,19,No,86
+2025-03-17,Uttar Pradesh,Ghaziabad,171,410,34,No,188
+2025-03-18,Uttar Pradesh,Ghaziabad,531,1253,90,No,584
+2025-03-19,Uttar Pradesh,Ghaziabad,499,1245,79,No,548
+2025-03-20,Uttar Pradesh,Ghaziabad,536,1275,141,No,589
+2025-03-21,Uttar Pradesh,Ghaziabad,222,395,72,No,244
+2025-03-22,Uttar Pradesh,Ghaziabad,74,162,16,No,81
+2025-03-23,Uttar Pradesh,Ghaziabad,39,49,13,No,42
+2025-03-24,Uttar Pradesh,Ghaziabad,329,766,62,No,361
+2025-03-25,Uttar Pradesh,Ghaziabad,210,447,56,No,231
+2025-03-26,Uttar Pradesh,Ghaziabad,364,717,108,No,400
+2025-03-27,Uttar Pradesh,Ghaziabad,455,712,98,No,500
+2025-03-28,Uttar Pradesh,Ghaziabad,303,494,95,No,333
+2025-03-29,Uttar Pradesh,Ghaziabad,70,171,24,No,77
+2025-03-30,Uttar Pradesh,Ghaziabad,40,49,6,No,44
+2025-03-31,Uttar Pradesh,Ghaziabad,267,482,59,No,293
+2025-04-01,Uttar Pradesh,Ghaziabad,386,749,135,No,424
+2025-04-02,Uttar Pradesh,Ghaziabad,395,698,128,No,434
+2025-04-03,Uttar Pradesh,Ghaziabad,559,1182,102,No,614
+2025-04-04,Uttar Pradesh,Ghaziabad,451,776,122,No,496
+2025-04-05,Uttar Pradesh,Ghaziabad,94,157,32,No,103
+2025-04-06,Uttar Pradesh,Ghaziabad,24,36,7,No,26
+2025-04-07,Uttar Pradesh,Ghaziabad,396,903,63,No,435
+2025-04-08,Uttar Pradesh,Ghaziabad,471,1019,125,No,518
+2025-04-09,Uttar Pradesh,Ghaziabad,338,659,73,No,371
+2025-04-10,Uttar Pradesh,Ghaziabad,473,835,132,No,520
+2025-04-11,Uttar Pradesh,Ghaziabad,592,1236,90,No,651
+2025-04-12,Uttar Pradesh,Ghaziabad,51,83,16,No,56
+2025-04-13,Uttar Pradesh,Ghaziabad,68,112,19,No,74
+2025-04-14,Uttar Pradesh,Ghaziabad,404,669,109,No,444
+2025-04-15,Uttar Pradesh,Ghaziabad,401,562,138,No,441
+2025-04-16,Uttar Pradesh,Ghaziabad,432,1061,132,No,475
+2025-04-17,Uttar Pradesh,Ghaziabad,364,501,61,No,400
+2025-04-18,Uttar Pradesh,Ghaziabad,584,917,107,No,642
+2025-04-19,Uttar Pradesh,Ghaziabad,32,57,10,No,35
+2025-04-20,Uttar Pradesh,Ghaziabad,56,88,15,No,61
+2025-04-21,Uttar Pradesh,Ghaziabad,244,450,77,No,268
+2025-04-22,Uttar Pradesh,Ghaziabad,326,484,70,No,358
+2025-04-23,Uttar Pradesh,Ghaziabad,411,699,94,No,452
+2025-04-24,Uttar Pradesh,Ghaziabad,535,840,121,No,588
+2025-04-25,Uttar Pradesh,Ghaziabad,183,259,45,No,201
+2025-04-26,Uttar Pradesh,Ghaziabad,62,137,18,No,68
+2025-04-27,Uttar Pradesh,Ghaziabad,53,129,15,No,58
+2025-04-28,Uttar Pradesh,Ghaziabad,272,504,77,No,299
+2025-04-29,Uttar Pradesh,Ghaziabad,541,912,162,No,595
+2025-04-30,Uttar Pradesh,Ghaziabad,384,843,78,No,422
+2025-05-01,Uttar Pradesh,Ghaziabad,487,846,124,No,535
+2025-05-02,Uttar Pradesh,Ghaziabad,163,324,50,No,179
+2025-05-03,Uttar Pradesh,Ghaziabad,55,126,14,No,60
+2025-05-04,Uttar Pradesh,Ghaziabad,55,103,8,No,60
+2025-05-05,Uttar Pradesh,Ghaziabad,315,490,78,No,346
+2025-05-06,Uttar Pradesh,Ghaziabad,504,1245,102,No,554
+2025-05-07,Uttar Pradesh,Ghaziabad,189,250,61,No,207
+2025-05-08,Uttar Pradesh,Ghaziabad,339,775,109,No,372
+2025-05-09,Uttar Pradesh,Ghaziabad,434,1031,119,No,477
+2025-05-10,Uttar Pradesh,Ghaziabad,68,92,22,No,74
+2025-05-11,Uttar Pradesh,Ghaziabad,64,145,19,No,70
+2025-05-12,Uttar Pradesh,Ghaziabad,375,760,127,No,412
+2025-05-13,Uttar Pradesh,Ghaziabad,402,709,95,No,442
+2025-05-14,Uttar Pradesh,Ghaziabad,247,526,80,No,271
+2025-05-15,Uttar Pradesh,Ghaziabad,292,552,86,No,321
+2025-05-16,Uttar Pradesh,Ghaziabad,309,375,102,No,339
+2025-05-17,Uttar Pradesh,Ghaziabad,88,219,26,No,96
+2025-05-18,Uttar Pradesh,Ghaziabad,63,113,13,No,69
+2025-05-19,Uttar Pradesh,Ghaziabad,485,1154,138,No,533
+2025-05-20,Uttar Pradesh,Ghaziabad,499,883,147,No,548
+2025-05-21,Uttar Pradesh,Ghaziabad,262,413,75,No,288
+2025-05-22,Uttar Pradesh,Ghaziabad,508,829,134,No,558
+2025-05-23,Uttar Pradesh,Ghaziabad,532,1175,143,No,585
+2025-05-24,Uttar Pradesh,Ghaziabad,90,120,14,No,99
+2025-05-25,Uttar Pradesh,Ghaziabad,61,145,15,No,67
+2025-05-26,Uttar Pradesh,Ghaziabad,200,249,46,No,220
+2025-05-27,Uttar Pradesh,Ghaziabad,508,1061,92,No,558
+2025-05-28,Uttar Pradesh,Ghaziabad,587,787,159,No,645
+2025-05-29,Uttar Pradesh,Ghaziabad,397,481,90,No,436
+2025-05-30,Uttar Pradesh,Ghaziabad,284,621,56,No,312
+2025-05-31,Uttar Pradesh,Ghaziabad,33,77,6,No,36
+2025-06-01,Uttar Pradesh,Ghaziabad,69,134,23,No,75
+2025-06-02,Uttar Pradesh,Ghaziabad,353,621,56,No,388
+2025-06-03,Uttar Pradesh,Ghaziabad,310,640,49,No,341
+2025-06-04,Uttar Pradesh,Ghaziabad,468,616,70,No,514
+2025-06-05,Uttar Pradesh,Ghaziabad,301,663,75,No,331
+2025-06-06,Uttar Pradesh,Ghaziabad,576,1150,189,No,633
+2025-06-07,Uttar Pradesh,Ghaziabad,23,42,4,No,25
+2025-06-08,Uttar Pradesh,Ghaziabad,89,162,22,No,97
+2025-06-09,Uttar Pradesh,Ghaziabad,588,903,180,No,646
+2025-06-10,Uttar Pradesh,Ghaziabad,381,782,66,No,419
+2025-06-11,Uttar Pradesh,Ghaziabad,421,761,86,No,463
+2025-06-12,Uttar Pradesh,Ghaziabad,449,834,111,No,493
+2025-06-13,Uttar Pradesh,Ghaziabad,167,373,54,No,183
+2025-06-14,Uttar Pradesh,Ghaziabad,96,195,26,No,105
+2025-06-15,Uttar Pradesh,Ghaziabad,31,61,8,No,34
+2025-06-16,Uttar Pradesh,Ghaziabad,317,769,58,No,348
+2025-06-17,Uttar Pradesh,Ghaziabad,236,512,48,No,259
+2025-06-18,Uttar Pradesh,Ghaziabad,532,1155,175,No,585
+2025-06-19,Uttar Pradesh,Ghaziabad,152,274,40,No,167
+2025-06-20,Uttar Pradesh,Ghaziabad,346,799,72,No,380
+2025-06-21,Uttar Pradesh,Ghaziabad,83,128,24,No,91
+2025-06-22,Uttar Pradesh,Ghaziabad,40,57,6,No,44
+2025-06-23,Uttar Pradesh,Ghaziabad,198,378,44,No,217
+2025-06-24,Uttar Pradesh,Ghaziabad,234,548,51,No,257
+2025-06-25,Uttar Pradesh,Ghaziabad,524,1233,172,No,576
+2025-06-26,Uttar Pradesh,Ghaziabad,269,422,41,No,295
+2025-06-27,Uttar Pradesh,Ghaziabad,361,534,62,No,397
+2025-06-28,Uttar Pradesh,Ghaziabad,45,73,9,No,49
+2025-06-29,Uttar Pradesh,Ghaziabad,58,75,13,No,63
+2025-06-30,Uttar Pradesh,Ghaziabad,499,1147,140,No,548
+2025-07-01,Uttar Pradesh,Ghaziabad,210,369,41,No,231
+2025-07-02,Uttar Pradesh,Ghaziabad,197,481,51,No,216
+2025-07-03,Uttar Pradesh,Ghaziabad,176,371,43,No,193
+2025-07-04,Uttar Pradesh,Ghaziabad,200,287,57,No,220
+2025-07-05,Uttar Pradesh,Ghaziabad,36,77,6,No,39
+2025-07-06,Uttar Pradesh,Ghaziabad,71,143,23,No,78
+2025-07-07,Uttar Pradesh,Ghaziabad,483,1045,85,No,531
+2025-07-08,Uttar Pradesh,Ghaziabad,208,380,63,No,228
+2025-07-09,Uttar Pradesh,Ghaziabad,256,604,72,No,281
+2025-07-10,Uttar Pradesh,Ghaziabad,315,691,72,No,346
+2025-07-11,Uttar Pradesh,Ghaziabad,489,599,131,No,537
+2025-07-12,Uttar Pradesh,Ghaziabad,21,51,7,No,23
+2025-07-13,Uttar Pradesh,Ghaziabad,72,130,17,No,79
+2025-07-14,Uttar Pradesh,Ghaziabad,538,1033,164,No,591
+2025-07-15,Uttar Pradesh,Ghaziabad,369,900,109,No,405
+2025-07-16,Uttar Pradesh,Ghaziabad,477,682,80,No,524
+2025-07-17,Uttar Pradesh,Ghaziabad,288,404,92,No,316
+2025-07-18,Uttar Pradesh,Ghaziabad,191,358,32,No,210
+2025-07-19,Uttar Pradesh,Ghaziabad,32,78,5,No,35
+2025-07-20,Uttar Pradesh,Ghaziabad,21,51,6,No,23
+2025-07-21,Uttar Pradesh,Ghaziabad,390,470,127,No,429
+2025-07-22,Uttar Pradesh,Ghaziabad,328,697,81,No,360
+2025-07-23,Uttar Pradesh,Ghaziabad,170,287,47,No,187
+2025-07-24,Uttar Pradesh,Ghaziabad,199,467,49,No,218
+2025-07-25,Uttar Pradesh,Ghaziabad,488,921,116,No,536
+2025-07-26,Uttar Pradesh,Ghaziabad,68,161,22,No,74
+2025-07-27,Uttar Pradesh,Ghaziabad,71,151,21,No,78
+2025-07-28,Uttar Pradesh,Ghaziabad,381,684,114,No,419
+2025-07-29,Uttar Pradesh,Ghaziabad,311,401,77,No,342
+2025-07-30,Uttar Pradesh,Ghaziabad,483,678,95,No,531
+2025-07-31,Uttar Pradesh,Ghaziabad,577,1181,169,No,634
+2025-08-01,Uttar Pradesh,Ghaziabad,292,550,80,No,321
+2025-08-02,Uttar Pradesh,Ghaziabad,95,165,31,No,104
+2025-08-03,Uttar Pradesh,Ghaziabad,72,107,23,No,79
+2025-08-04,Uttar Pradesh,Ghaziabad,220,497,46,No,242
+2025-08-05,Uttar Pradesh,Ghaziabad,326,516,61,No,358
+2025-08-06,Uttar Pradesh,Ghaziabad,493,1160,171,No,542
+2025-08-07,Uttar Pradesh,Ghaziabad,312,487,54,No,343
+2025-08-08,Uttar Pradesh,Ghaziabad,576,1377,178,No,633
+2025-08-09,Uttar Pradesh,Ghaziabad,46,69,15,No,50
+2025-08-10,Uttar Pradesh,Ghaziabad,73,178,24,No,80
+2025-08-11,Uttar Pradesh,Ghaziabad,194,395,33,No,213
+2025-08-12,Uttar Pradesh,Ghaziabad,419,728,92,No,460
+2025-08-13,Uttar Pradesh,Ghaziabad,268,400,65,No,294
+2025-08-14,Uttar Pradesh,Ghaziabad,419,879,140,No,460
+2025-08-15,Uttar Pradesh,Ghaziabad,452,579,122,No,497
+2025-08-16,Uttar Pradesh,Ghaziabad,66,80,18,No,72
+2025-08-17,Uttar Pradesh,Ghaziabad,92,146,17,No,101
+2025-08-18,Uttar Pradesh,Ghaziabad,444,729,110,No,488
+2025-08-19,Uttar Pradesh,Ghaziabad,586,777,122,No,644
+2025-08-20,Uttar Pradesh,Ghaziabad,247,446,73,No,271
+2025-08-21,Uttar Pradesh,Ghaziabad,430,611,110,No,473
+2025-08-22,Uttar Pradesh,Ghaziabad,504,1198,110,No,554
+2025-08-23,Uttar Pradesh,Ghaziabad,97,208,15,No,106
+2025-08-24,Uttar Pradesh,Ghaziabad,46,99,10,No,50
+2025-08-25,Uttar Pradesh,Ghaziabad,296,680,47,No,325
+2025-08-26,Uttar Pradesh,Ghaziabad,408,973,119,No,448
+2025-08-27,Uttar Pradesh,Ghaziabad,455,737,72,No,500
+2025-08-28,Uttar Pradesh,Ghaziabad,573,1131,145,No,630
+2025-08-29,Uttar Pradesh,Ghaziabad,358,626,75,No,393
+2025-08-30,Uttar Pradesh,Ghaziabad,79,116,26,No,86
+2025-08-31,Uttar Pradesh,Ghaziabad,46,94,11,No,50
+2025-09-01,Uttar Pradesh,Ghaziabad,217,420,33,No,238
+2025-09-02,Uttar Pradesh,Ghaziabad,305,662,91,No,335
+2025-09-03,Uttar Pradesh,Ghaziabad,469,1010,93,No,515
+2025-09-04,Uttar Pradesh,Ghaziabad,194,420,47,No,213
+2025-09-05,Uttar Pradesh,Ghaziabad,455,640,129,No,500
+2025-09-06,Uttar Pradesh,Ghaziabad,88,195,14,No,96
+2025-09-07,Uttar Pradesh,Ghaziabad,76,151,11,No,83
+2025-09-08,Uttar Pradesh,Ghaziabad,354,540,74,No,389
+2025-09-09,Uttar Pradesh,Ghaziabad,249,385,51,No,273
+2025-09-10,Uttar Pradesh,Ghaziabad,545,1107,93,No,599
+2025-09-11,Uttar Pradesh,Ghaziabad,413,833,136,No,454
+2025-09-12,Uttar Pradesh,Ghaziabad,507,782,141,No,557
+2025-09-13,Uttar Pradesh,Ghaziabad,38,74,8,No,41
+2025-09-14,Uttar Pradesh,Ghaziabad,36,82,6,No,39
+2025-09-15,Uttar Pradesh,Ghaziabad,289,596,94,No,317
+2025-09-16,Uttar Pradesh,Ghaziabad,315,677,81,No,346
+2025-09-17,Uttar Pradesh,Ghaziabad,466,759,129,No,512
+2025-09-18,Uttar Pradesh,Ghaziabad,472,792,126,No,519
+2025-09-19,Uttar Pradesh,Ghaziabad,343,501,117,No,377
+2025-09-20,Uttar Pradesh,Ghaziabad,82,137,16,No,90
+2025-09-21,Uttar Pradesh,Ghaziabad,32,75,8,No,35
+2025-09-22,Uttar Pradesh,Ghaziabad,454,639,88,No,499
+2025-09-23,Uttar Pradesh,Ghaziabad,551,890,85,No,606
+2025-09-24,Uttar Pradesh,Ghaziabad,474,994,86,No,521
+2025-09-25,Uttar Pradesh,Ghaziabad,430,1060,136,No,473
+2025-09-26,Uttar Pradesh,Ghaziabad,470,748,103,No,517
+2025-09-27,Uttar Pradesh,Ghaziabad,94,161,19,No,103
+2025-09-28,Uttar Pradesh,Ghaziabad,37,56,8,No,40
+2025-09-29,Uttar Pradesh,Ghaziabad,552,809,146,No,607
+2025-09-30,Uttar Pradesh,Ghaziabad,451,787,137,No,496
+2025-10-01,Uttar Pradesh,Ghaziabad,290,650,80,No,319
+2025-10-02,Uttar Pradesh,Ghaziabad,507,794,103,No,557
+2025-10-03,Uttar Pradesh,Ghaziabad,556,1368,88,No,611
+2025-10-04,Uttar Pradesh,Ghaziabad,86,154,24,No,94
+2025-10-05,Uttar Pradesh,Ghaziabad,41,76,14,No,45
+2025-10-06,Uttar Pradesh,Ghaziabad,502,729,129,No,552
+2025-10-07,Uttar Pradesh,Ghaziabad,479,1178,129,No,526
+2025-10-08,Uttar Pradesh,Ghaziabad,460,609,71,No,506
+2025-10-09,Uttar Pradesh,Ghaziabad,174,221,51,No,191
+2025-10-10,Uttar Pradesh,Ghaziabad,339,420,93,No,372
+2025-10-11,Uttar Pradesh,Ghaziabad,31,39,10,No,34
+2025-10-12,Uttar Pradesh,Ghaziabad,25,37,5,No,27
+2025-10-13,Uttar Pradesh,Ghaziabad,289,455,67,No,317
+2025-10-14,Uttar Pradesh,Ghaziabad,455,688,77,No,500
+2025-10-15,Uttar Pradesh,Ghaziabad,476,633,84,No,523
+2025-10-16,Uttar Pradesh,Ghaziabad,527,812,123,No,579
+2025-10-17,Uttar Pradesh,Ghaziabad,406,607,99,No,446
+2025-10-18,Uttar Pradesh,Ghaziabad,27,51,5,No,29
+2025-10-19,Uttar Pradesh,Ghaziabad,89,194,29,No,97
+2025-10-20,Uttar Pradesh,Ghaziabad,454,779,84,No,499
+2025-10-21,Uttar Pradesh,Ghaziabad,462,1012,89,No,508
+2025-10-22,Uttar Pradesh,Ghaziabad,386,598,130,No,424
+2025-10-23,Uttar Pradesh,Ghaziabad,203,322,42,No,223
+2025-10-24,Uttar Pradesh,Ghaziabad,366,662,62,No,402
+2025-10-25,Uttar Pradesh,Ghaziabad,71,152,13,No,78
+2025-10-26,Uttar Pradesh,Ghaziabad,90,163,15,No,99
+2025-10-27,Uttar Pradesh,Ghaziabad,589,712,99,No,647
+2025-10-28,Uttar Pradesh,Ghaziabad,291,472,68,No,320
+2025-10-29,Uttar Pradesh,Ghaziabad,349,612,72,No,383
+2025-10-30,Uttar Pradesh,Ghaziabad,170,292,48,No,187
+2025-10-31,Uttar Pradesh,Ghaziabad,298,650,95,No,327
+2025-11-01,Uttar Pradesh,Ghaziabad,75,114,23,No,82
+2025-11-02,Uttar Pradesh,Ghaziabad,26,51,8,No,28
+2025-11-03,Uttar Pradesh,Ghaziabad,171,358,51,No,188
+2025-11-04,Uttar Pradesh,Ghaziabad,409,858,88,No,449
+2025-11-05,Uttar Pradesh,Ghaziabad,225,438,48,No,247
+2025-11-06,Uttar Pradesh,Ghaziabad,579,836,165,No,636
+2025-11-07,Uttar Pradesh,Ghaziabad,422,839,75,No,464
+2025-11-08,Uttar Pradesh,Ghaziabad,55,131,14,No,60
+2025-11-09,Uttar Pradesh,Ghaziabad,29,35,5,No,31
+2025-11-10,Uttar Pradesh,Ghaziabad,334,821,88,No,367
+2025-11-11,Uttar Pradesh,Ghaziabad,551,1017,126,No,606
+2025-11-12,Uttar Pradesh,Ghaziabad,231,434,77,No,254
+2025-11-13,Uttar Pradesh,Ghaziabad,331,506,52,No,364
+2025-11-14,Uttar Pradesh,Ghaziabad,308,412,70,No,338
+2025-11-15,Uttar Pradesh,Ghaziabad,28,50,5,No,30
+2025-11-16,Uttar Pradesh,Ghaziabad,83,100,13,No,91
+2025-11-17,Uttar Pradesh,Ghaziabad,235,341,39,No,258
+2025-11-18,Uttar Pradesh,Ghaziabad,481,681,126,No,529
+2025-11-19,Uttar Pradesh,Ghaziabad,206,481,43,No,226
+2025-11-20,Uttar Pradesh,Ghaziabad,394,632,125,No,433
+2025-11-21,Uttar Pradesh,Ghaziabad,217,273,33,No,238
+2025-11-22,Uttar Pradesh,Ghaziabad,21,48,3,No,23
+2025-11-23,Uttar Pradesh,Ghaziabad,70,89,11,No,77
+2025-11-24,Uttar Pradesh,Ghaziabad,168,275,31,No,184
+2025-11-25,Uttar Pradesh,Ghaziabad,306,429,81,No,336
+2025-11-26,Uttar Pradesh,Ghaziabad,254,332,54,No,279
+2025-11-27,Uttar Pradesh,Ghaziabad,261,497,74,No,287
+2025-11-28,Uttar Pradesh,Ghaziabad,226,442,46,No,248
+2025-11-29,Uttar Pradesh,Ghaziabad,43,55,9,No,47
+2025-11-30,Uttar Pradesh,Ghaziabad,80,186,22,No,88
+2025-12-01,Uttar Pradesh,Ghaziabad,594,819,137,No,653
+2025-12-02,Uttar Pradesh,Ghaziabad,325,639,75,No,357
+2025-12-03,Uttar Pradesh,Ghaziabad,489,786,133,No,537
+2025-12-04,Uttar Pradesh,Ghaziabad,505,613,145,No,555
+2025-12-05,Uttar Pradesh,Ghaziabad,403,831,117,No,443
+2025-12-06,Uttar Pradesh,Ghaziabad,26,56,7,No,28
+2025-12-07,Uttar Pradesh,Ghaziabad,39,66,6,No,42
+2025-12-08,Uttar Pradesh,Ghaziabad,446,716,94,No,490
+2025-12-09,Uttar Pradesh,Ghaziabad,228,500,72,No,250
+2025-12-10,Uttar Pradesh,Ghaziabad,483,720,98,No,531
+2025-12-11,Uttar Pradesh,Ghaziabad,533,1115,111,No,586
+2025-12-12,Uttar Pradesh,Ghaziabad,408,579,113,No,448
+2025-12-13,Uttar Pradesh,Ghaziabad,77,179,16,No,84
+2025-12-14,Uttar Pradesh,Ghaziabad,28,45,7,No,30
+2025-12-15,Uttar Pradesh,Ghaziabad,164,304,30,No,180
+2025-12-16,Uttar Pradesh,Ghaziabad,305,679,70,No,335
+2025-12-17,Uttar Pradesh,Ghaziabad,251,523,61,No,276
+2025-12-18,Uttar Pradesh,Ghaziabad,238,582,66,No,261
+2025-12-19,Uttar Pradesh,Ghaziabad,231,381,65,No,254
+2025-12-20,Uttar Pradesh,Ghaziabad,51,73,11,No,56
+2025-12-21,Uttar Pradesh,Ghaziabad,96,133,25,No,105
+2025-12-22,Uttar Pradesh,Ghaziabad,403,817,66,No,443
+2025-12-23,Uttar Pradesh,Ghaziabad,571,847,101,No,628
+2025-12-24,Uttar Pradesh,Ghaziabad,377,924,114,No,414
+2025-12-25,Uttar Pradesh,Ghaziabad,209,257,52,No,229
+2025-12-26,Uttar Pradesh,Ghaziabad,232,392,40,No,255
+2025-12-27,Uttar Pradesh,Ghaziabad,54,76,13,No,59
+2025-12-28,Uttar Pradesh,Ghaziabad,38,68,9,No,41
+2025-12-29,Uttar Pradesh,Ghaziabad,294,436,61,No,323
+2025-12-30,Uttar Pradesh,Ghaziabad,398,977,90,No,437
+2025-12-31,Uttar Pradesh,Ghaziabad,405,813,102,No,445
+2025-01-01,Uttar Pradesh,Prayagraj,559,923,111,No,614
+2025-01-02,Uttar Pradesh,Prayagraj,399,686,77,No,438
+2025-01-03,Uttar Pradesh,Prayagraj,528,1304,176,No,580
+2025-01-04,Uttar Pradesh,Prayagraj,68,89,10,No,74
+2025-01-05,Uttar Pradesh,Prayagraj,21,48,6,No,23
+2025-01-06,Uttar Pradesh,Prayagraj,246,312,50,No,270
+2025-01-07,Uttar Pradesh,Prayagraj,180,358,30,No,198
+2025-01-08,Uttar Pradesh,Prayagraj,168,344,35,No,184
+2025-01-09,Uttar Pradesh,Prayagraj,373,689,120,No,410
+2025-01-10,Uttar Pradesh,Prayagraj,394,619,88,No,433
+2025-01-11,Uttar Pradesh,Prayagraj,67,93,12,No,73
+2025-01-12,Uttar Pradesh,Prayagraj,27,66,5,No,29
+2025-01-13,Uttar Pradesh,Prayagraj,351,451,105,No,386
+2025-01-14,Uttar Pradesh,Prayagraj,172,351,32,No,189
+2025-01-15,Uttar Pradesh,Prayagraj,388,587,72,No,426
+2025-01-16,Uttar Pradesh,Prayagraj,297,544,71,No,326
+2025-01-17,Uttar Pradesh,Prayagraj,298,620,46,No,327
+2025-01-18,Uttar Pradesh,Prayagraj,44,103,6,No,48
+2025-01-19,Uttar Pradesh,Prayagraj,85,111,23,No,93
+2025-01-20,Uttar Pradesh,Prayagraj,255,566,50,No,280
+2025-01-21,Uttar Pradesh,Prayagraj,526,1233,183,No,578
+2025-01-22,Uttar Pradesh,Prayagraj,162,314,39,No,178
+2025-01-23,Uttar Pradesh,Prayagraj,255,434,78,No,280
+2025-01-24,Uttar Pradesh,Prayagraj,591,880,158,No,650
+2025-01-25,Uttar Pradesh,Prayagraj,51,103,15,No,56
+2025-01-26,Uttar Pradesh,Prayagraj,64,133,12,No,70
+2025-01-27,Uttar Pradesh,Prayagraj,154,221,24,No,169
+2025-01-28,Uttar Pradesh,Prayagraj,470,1055,131,No,517
+2025-01-29,Uttar Pradesh,Prayagraj,471,1167,143,No,518
+2025-01-30,Uttar Pradesh,Prayagraj,489,921,124,No,537
+2025-01-31,Uttar Pradesh,Prayagraj,587,905,199,No,645
+2025-02-01,Uttar Pradesh,Prayagraj,96,152,20,No,105
+2025-02-02,Uttar Pradesh,Prayagraj,45,77,13,No,49
+2025-02-03,Uttar Pradesh,Prayagraj,426,839,139,No,468
+2025-02-04,Uttar Pradesh,Prayagraj,232,436,52,No,255
+2025-02-05,Uttar Pradesh,Prayagraj,209,333,62,No,229
+2025-02-06,Uttar Pradesh,Prayagraj,162,326,31,No,178
+2025-02-07,Uttar Pradesh,Prayagraj,596,1278,186,No,655
+2025-02-08,Uttar Pradesh,Prayagraj,48,93,16,No,52
+2025-02-09,Uttar Pradesh,Prayagraj,58,92,12,No,63
+2025-02-10,Uttar Pradesh,Prayagraj,451,916,157,No,496
+2025-02-11,Uttar Pradesh,Prayagraj,532,1056,81,No,585
+2025-02-12,Uttar Pradesh,Prayagraj,567,1155,167,No,623
+2025-02-13,Uttar Pradesh,Prayagraj,218,280,32,No,239
+2025-02-14,Uttar Pradesh,Prayagraj,564,771,142,No,620
+2025-02-15,Uttar Pradesh,Prayagraj,61,78,16,No,67
+2025-02-16,Uttar Pradesh,Prayagraj,50,121,16,No,55
+2025-02-17,Uttar Pradesh,Prayagraj,216,491,32,No,237
+2025-02-18,Uttar Pradesh,Prayagraj,492,631,95,No,541
+2025-02-19,Uttar Pradesh,Prayagraj,328,401,80,No,360
+2025-02-20,Uttar Pradesh,Prayagraj,508,631,85,No,558
+2025-02-21,Uttar Pradesh,Prayagraj,249,414,70,No,273
+2025-02-22,Uttar Pradesh,Prayagraj,65,96,13,No,71
+2025-02-23,Uttar Pradesh,Prayagraj,48,94,10,No,52
+2025-02-24,Uttar Pradesh,Prayagraj,416,514,99,No,457
+2025-02-25,Uttar Pradesh,Prayagraj,466,1071,162,No,512
+2025-02-26,Uttar Pradesh,Prayagraj,549,736,137,No,603
+2025-02-27,Uttar Pradesh,Prayagraj,509,817,136,No,559
+2025-02-28,Uttar Pradesh,Prayagraj,398,512,111,No,437
+2025-03-01,Uttar Pradesh,Prayagraj,45,95,14,No,49
+2025-03-02,Uttar Pradesh,Prayagraj,32,78,8,No,35
+2025-03-03,Uttar Pradesh,Prayagraj,514,1178,96,No,565
+2025-03-04,Uttar Pradesh,Prayagraj,491,661,141,No,540
+2025-03-05,Uttar Pradesh,Prayagraj,411,798,119,No,452
+2025-03-06,Uttar Pradesh,Prayagraj,327,529,87,No,359
+2025-03-07,Uttar Pradesh,Prayagraj,426,806,121,No,468
+2025-03-08,Uttar Pradesh,Prayagraj,79,108,21,No,86
+2025-03-09,Uttar Pradesh,Prayagraj,92,148,21,No,101
+2025-03-10,Uttar Pradesh,Prayagraj,588,949,103,No,646
+2025-03-11,Uttar Pradesh,Prayagraj,596,1446,147,No,655
+2025-03-12,Uttar Pradesh,Prayagraj,207,394,37,No,227
+2025-03-13,Uttar Pradesh,Prayagraj,596,847,206,No,655
+2025-03-14,Uttar Pradesh,Prayagraj,548,913,164,No,602
+2025-03-15,Uttar Pradesh,Prayagraj,40,68,12,No,44
+2025-03-16,Uttar Pradesh,Prayagraj,69,116,23,Yes,75
+2025-03-17,Uttar Pradesh,Prayagraj,233,281,67,No,256
+2025-03-18,Uttar Pradesh,Prayagraj,579,1280,124,No,636
+2025-03-19,Uttar Pradesh,Prayagraj,429,530,67,No,471
+2025-03-20,Uttar Pradesh,Prayagraj,528,648,156,No,580
+2025-03-21,Uttar Pradesh,Prayagraj,380,622,71,No,418
+2025-03-22,Uttar Pradesh,Prayagraj,69,153,22,No,75
+2025-03-23,Uttar Pradesh,Prayagraj,79,159,26,No,86
+2025-03-24,Uttar Pradesh,Prayagraj,598,1358,123,No,657
+2025-03-25,Uttar Pradesh,Prayagraj,321,674,107,No,353
+2025-03-26,Uttar Pradesh,Prayagraj,294,475,96,No,323
+2025-03-27,Uttar Pradesh,Prayagraj,529,1060,109,No,581
+2025-03-28,Uttar Pradesh,Prayagraj,289,689,53,No,317
+2025-03-29,Uttar Pradesh,Prayagraj,97,172,21,No,106
+2025-03-30,Uttar Pradesh,Prayagraj,76,146,12,No,83
+2025-03-31,Uttar Pradesh,Prayagraj,362,724,75,No,398
+2025-04-01,Uttar Pradesh,Prayagraj,479,638,103,No,526
+2025-04-02,Uttar Pradesh,Prayagraj,251,623,76,No,276
+2025-04-03,Uttar Pradesh,Prayagraj,357,469,64,No,392
+2025-04-04,Uttar Pradesh,Prayagraj,207,399,43,No,227
+2025-04-05,Uttar Pradesh,Prayagraj,90,186,27,No,99
+2025-04-06,Uttar Pradesh,Prayagraj,27,37,7,No,29
+2025-04-07,Uttar Pradesh,Prayagraj,542,1232,145,No,596
+2025-04-08,Uttar Pradesh,Prayagraj,560,817,158,No,616
+2025-04-09,Uttar Pradesh,Prayagraj,406,811,89,No,446
+2025-04-10,Uttar Pradesh,Prayagraj,560,942,117,No,616
+2025-04-11,Uttar Pradesh,Prayagraj,184,402,45,No,202
+2025-04-12,Uttar Pradesh,Prayagraj,64,100,18,No,70
+2025-04-13,Uttar Pradesh,Prayagraj,24,52,5,No,26
+2025-04-14,Uttar Pradesh,Prayagraj,227,409,58,No,249
+2025-04-15,Uttar Pradesh,Prayagraj,254,488,75,No,279
+2025-04-16,Uttar Pradesh,Prayagraj,382,767,120,No,420
+2025-04-17,Uttar Pradesh,Prayagraj,575,1092,159,No,632
+2025-04-18,Uttar Pradesh,Prayagraj,218,503,53,No,239
+2025-04-19,Uttar Pradesh,Prayagraj,84,165,27,No,92
+2025-04-20,Uttar Pradesh,Prayagraj,61,101,18,No,67
+2025-04-21,Uttar Pradesh,Prayagraj,434,940,136,No,477
+2025-04-22,Uttar Pradesh,Prayagraj,178,227,62,No,195
+2025-04-23,Uttar Pradesh,Prayagraj,323,492,78,No,355
+2025-04-24,Uttar Pradesh,Prayagraj,227,475,77,No,249
+2025-04-25,Uttar Pradesh,Prayagraj,423,591,132,No,465
+2025-04-26,Uttar Pradesh,Prayagraj,43,93,9,No,47
+2025-04-27,Uttar Pradesh,Prayagraj,26,51,3,No,28
+2025-04-28,Uttar Pradesh,Prayagraj,339,581,90,No,372
+2025-04-29,Uttar Pradesh,Prayagraj,152,232,43,No,167
+2025-04-30,Uttar Pradesh,Prayagraj,347,688,69,No,381
+2025-05-01,Uttar Pradesh,Prayagraj,215,447,73,No,236
+2025-05-02,Uttar Pradesh,Prayagraj,267,608,89,Yes,293
+2025-05-03,Uttar Pradesh,Prayagraj,72,130,16,No,79
+2025-05-04,Uttar Pradesh,Prayagraj,94,226,30,No,103
+2025-05-05,Uttar Pradesh,Prayagraj,210,463,69,No,231
+2025-05-06,Uttar Pradesh,Prayagraj,323,762,101,No,355
+2025-05-07,Uttar Pradesh,Prayagraj,320,560,58,No,352
+2025-05-08,Uttar Pradesh,Prayagraj,585,1198,167,No,643
+2025-05-09,Uttar Pradesh,Prayagraj,410,642,128,No,451
+2025-05-10,Uttar Pradesh,Prayagraj,77,176,21,No,84
+2025-05-11,Uttar Pradesh,Prayagraj,24,39,7,No,26
+2025-05-12,Uttar Pradesh,Prayagraj,173,426,58,No,190
+2025-05-13,Uttar Pradesh,Prayagraj,378,604,94,No,415
+2025-05-14,Uttar Pradesh,Prayagraj,522,1202,176,No,574
+2025-05-15,Uttar Pradesh,Prayagraj,534,1231,140,No,587
+2025-05-16,Uttar Pradesh,Prayagraj,245,417,37,No,269
+2025-05-17,Uttar Pradesh,Prayagraj,20,30,5,No,22
+2025-05-18,Uttar Pradesh,Prayagraj,97,199,28,No,106
+2025-05-19,Uttar Pradesh,Prayagraj,311,547,88,No,342
+2025-05-20,Uttar Pradesh,Prayagraj,589,733,99,No,647
+2025-05-21,Uttar Pradesh,Prayagraj,277,604,87,No,304
+2025-05-22,Uttar Pradesh,Prayagraj,367,865,109,No,403
+2025-05-23,Uttar Pradesh,Prayagraj,307,528,62,No,337
+2025-05-24,Uttar Pradesh,Prayagraj,76,130,23,No,83
+2025-05-25,Uttar Pradesh,Prayagraj,73,118,24,No,80
+2025-05-26,Uttar Pradesh,Prayagraj,224,542,38,No,246
+2025-05-27,Uttar Pradesh,Prayagraj,208,400,63,No,228
+2025-05-28,Uttar Pradesh,Prayagraj,380,808,70,No,418
+2025-05-29,Uttar Pradesh,Prayagraj,557,1035,162,No,612
+2025-05-30,Uttar Pradesh,Prayagraj,182,443,38,No,200
+2025-05-31,Uttar Pradesh,Prayagraj,65,156,19,No,71
+2025-06-01,Uttar Pradesh,Prayagraj,95,200,23,No,104
+2025-06-02,Uttar Pradesh,Prayagraj,360,669,78,No,396
+2025-06-03,Uttar Pradesh,Prayagraj,352,817,110,No,387
+2025-06-04,Uttar Pradesh,Prayagraj,563,954,150,No,619
+2025-06-05,Uttar Pradesh,Prayagraj,210,265,65,No,231
+2025-06-06,Uttar Pradesh,Prayagraj,477,1005,107,No,524
+2025-06-07,Uttar Pradesh,Prayagraj,62,120,21,No,68
+2025-06-08,Uttar Pradesh,Prayagraj,56,87,10,No,61
+2025-06-09,Uttar Pradesh,Prayagraj,425,844,98,No,467
+2025-06-10,Uttar Pradesh,Prayagraj,531,1124,86,No,584
+2025-06-11,Uttar Pradesh,Prayagraj,299,526,99,No,328
+2025-06-12,Uttar Pradesh,Prayagraj,341,629,115,No,375
+2025-06-13,Uttar Pradesh,Prayagraj,451,936,85,No,496
+2025-06-14,Uttar Pradesh,Prayagraj,23,28,4,No,25
+2025-06-15,Uttar Pradesh,Prayagraj,95,132,23,No,104
+2025-06-16,Uttar Pradesh,Prayagraj,342,679,94,No,376
+2025-06-17,Uttar Pradesh,Prayagraj,168,262,52,No,184
+2025-06-18,Uttar Pradesh,Prayagraj,296,664,48,No,325
+2025-06-19,Uttar Pradesh,Prayagraj,444,673,118,No,488
+2025-06-20,Uttar Pradesh,Prayagraj,224,448,72,No,246
+2025-06-21,Uttar Pradesh,Prayagraj,50,102,16,No,55
+2025-06-22,Uttar Pradesh,Prayagraj,38,85,8,No,41
+2025-06-23,Uttar Pradesh,Prayagraj,213,275,34,No,234
+2025-06-24,Uttar Pradesh,Prayagraj,356,805,76,No,391
+2025-06-25,Uttar Pradesh,Prayagraj,541,752,110,No,595
+2025-06-26,Uttar Pradesh,Prayagraj,553,675,170,No,608
+2025-06-27,Uttar Pradesh,Prayagraj,268,506,41,No,294
+2025-06-28,Uttar Pradesh,Prayagraj,36,52,9,No,39
+2025-06-29,Uttar Pradesh,Prayagraj,22,32,4,No,24
+2025-06-30,Uttar Pradesh,Prayagraj,576,1216,119,No,633
+2025-07-01,Uttar Pradesh,Prayagraj,536,1100,104,No,589
+2025-07-02,Uttar Pradesh,Prayagraj,302,374,49,No,332
+2025-07-03,Uttar Pradesh,Prayagraj,233,313,55,No,256
+2025-07-04,Uttar Pradesh,Prayagraj,398,721,59,No,437
+2025-07-05,Uttar Pradesh,Prayagraj,61,110,20,No,67
+2025-07-06,Uttar Pradesh,Prayagraj,42,55,11,No,46
+2025-07-07,Uttar Pradesh,Prayagraj,574,851,161,No,631
+2025-07-08,Uttar Pradesh,Prayagraj,263,643,42,No,289
+2025-07-09,Uttar Pradesh,Prayagraj,353,830,97,No,388
+2025-07-10,Uttar Pradesh,Prayagraj,197,279,66,No,216
+2025-07-11,Uttar Pradesh,Prayagraj,584,1230,145,No,642
+2025-07-12,Uttar Pradesh,Prayagraj,39,94,10,No,42
+2025-07-13,Uttar Pradesh,Prayagraj,77,96,24,No,84
+2025-07-14,Uttar Pradesh,Prayagraj,190,355,35,No,209
+2025-07-15,Uttar Pradesh,Prayagraj,397,936,87,No,436
+2025-07-16,Uttar Pradesh,Prayagraj,561,1091,112,No,617
+2025-07-17,Uttar Pradesh,Prayagraj,361,437,75,No,397
+2025-07-18,Uttar Pradesh,Prayagraj,432,926,114,No,475
+2025-07-19,Uttar Pradesh,Prayagraj,36,60,5,No,39
+2025-07-20,Uttar Pradesh,Prayagraj,20,27,6,No,22
+2025-07-21,Uttar Pradesh,Prayagraj,486,926,85,No,534
+2025-07-22,Uttar Pradesh,Prayagraj,538,1323,155,No,591
+2025-07-23,Uttar Pradesh,Prayagraj,312,669,86,No,343
+2025-07-24,Uttar Pradesh,Prayagraj,210,362,60,No,231
+2025-07-25,Uttar Pradesh,Prayagraj,277,394,94,No,304
+2025-07-26,Uttar Pradesh,Prayagraj,64,156,15,No,70
+2025-07-27,Uttar Pradesh,Prayagraj,63,137,20,No,69
+2025-07-28,Uttar Pradesh,Prayagraj,595,797,196,No,654
+2025-07-29,Uttar Pradesh,Prayagraj,476,778,164,No,523
+2025-07-30,Uttar Pradesh,Prayagraj,335,652,54,No,368
+2025-07-31,Uttar Pradesh,Prayagraj,395,673,122,No,434
+2025-08-01,Uttar Pradesh,Prayagraj,342,572,73,No,376
+2025-08-02,Uttar Pradesh,Prayagraj,38,73,11,No,41
+2025-08-03,Uttar Pradesh,Prayagraj,79,177,25,No,86
+2025-08-04,Uttar Pradesh,Prayagraj,350,492,92,No,385
+2025-08-05,Uttar Pradesh,Prayagraj,417,707,86,No,458
+2025-08-06,Uttar Pradesh,Prayagraj,392,863,102,No,431
+2025-08-07,Uttar Pradesh,Prayagraj,231,285,47,No,254
+2025-08-08,Uttar Pradesh,Prayagraj,584,1040,133,No,642
+2025-08-09,Uttar Pradesh,Prayagraj,37,59,9,No,40
+2025-08-10,Uttar Pradesh,Prayagraj,69,115,22,No,75
+2025-08-11,Uttar Pradesh,Prayagraj,400,515,136,No,440
+2025-08-12,Uttar Pradesh,Prayagraj,443,1070,116,No,487
+2025-08-13,Uttar Pradesh,Prayagraj,572,815,169,No,629
+2025-08-14,Uttar Pradesh,Prayagraj,290,578,76,No,319
+2025-08-15,Uttar Pradesh,Prayagraj,447,742,82,No,491
+2025-08-16,Uttar Pradesh,Prayagraj,30,70,4,No,33
+2025-08-17,Uttar Pradesh,Prayagraj,23,30,6,No,25
+2025-08-18,Uttar Pradesh,Prayagraj,237,413,60,No,260
+2025-08-19,Uttar Pradesh,Prayagraj,440,897,134,No,484
+2025-08-20,Uttar Pradesh,Prayagraj,378,810,121,No,415
+2025-08-21,Uttar Pradesh,Prayagraj,409,591,129,No,449
+2025-08-22,Uttar Pradesh,Prayagraj,515,1074,150,No,566
+2025-08-23,Uttar Pradesh,Prayagraj,57,117,14,No,62
+2025-08-24,Uttar Pradesh,Prayagraj,54,87,8,No,59
+2025-08-25,Uttar Pradesh,Prayagraj,156,221,30,No,171
+2025-08-26,Uttar Pradesh,Prayagraj,530,1248,173,No,583
+2025-08-27,Uttar Pradesh,Prayagraj,563,974,148,No,619
+2025-08-28,Uttar Pradesh,Prayagraj,413,821,88,No,454
+2025-08-29,Uttar Pradesh,Prayagraj,472,621,141,No,519
+2025-08-30,Uttar Pradesh,Prayagraj,40,88,12,No,44
+2025-08-31,Uttar Pradesh,Prayagraj,66,109,18,No,72
+2025-09-01,Uttar Pradesh,Prayagraj,587,1390,170,No,645
+2025-09-02,Uttar Pradesh,Prayagraj,489,825,117,No,537
+2025-09-03,Uttar Pradesh,Prayagraj,542,727,131,No,596
+2025-09-04,Uttar Pradesh,Prayagraj,427,949,129,No,469
+2025-09-05,Uttar Pradesh,Prayagraj,273,677,75,No,300
+2025-09-06,Uttar Pradesh,Prayagraj,39,82,11,No,42
+2025-09-07,Uttar Pradesh,Prayagraj,74,103,25,No,81
+2025-09-08,Uttar Pradesh,Prayagraj,523,889,133,No,575
+2025-09-09,Uttar Pradesh,Prayagraj,551,1192,124,No,606
+2025-09-10,Uttar Pradesh,Prayagraj,304,574,80,No,334
+2025-09-11,Uttar Pradesh,Prayagraj,273,614,91,No,300
+2025-09-12,Uttar Pradesh,Prayagraj,565,1094,150,No,621
+2025-09-13,Uttar Pradesh,Prayagraj,41,62,11,No,45
+2025-09-14,Uttar Pradesh,Prayagraj,65,102,17,No,71
+2025-09-15,Uttar Pradesh,Prayagraj,378,462,111,No,415
+2025-09-16,Uttar Pradesh,Prayagraj,536,953,184,No,589
+2025-09-17,Uttar Pradesh,Prayagraj,210,352,60,No,231
+2025-09-18,Uttar Pradesh,Prayagraj,263,400,52,No,289
+2025-09-19,Uttar Pradesh,Prayagraj,245,492,58,No,269
+2025-09-20,Uttar Pradesh,Prayagraj,37,86,12,No,40
+2025-09-21,Uttar Pradesh,Prayagraj,80,173,26,No,88
+2025-09-22,Uttar Pradesh,Prayagraj,350,768,101,No,385
+2025-09-23,Uttar Pradesh,Prayagraj,486,1053,156,No,534
+2025-09-24,Uttar Pradesh,Prayagraj,297,627,81,No,326
+2025-09-25,Uttar Pradesh,Prayagraj,303,372,87,No,333
+2025-09-26,Uttar Pradesh,Prayagraj,578,1213,127,No,635
+2025-09-27,Uttar Pradesh,Prayagraj,76,107,21,No,83
+2025-09-28,Uttar Pradesh,Prayagraj,53,113,9,No,58
+2025-09-29,Uttar Pradesh,Prayagraj,344,716,62,No,378
+2025-09-30,Uttar Pradesh,Prayagraj,188,416,59,No,206
+2025-10-01,Uttar Pradesh,Prayagraj,225,441,77,No,247
+2025-10-02,Uttar Pradesh,Prayagraj,183,399,53,No,201
+2025-10-03,Uttar Pradesh,Prayagraj,457,689,106,No,502
+2025-10-04,Uttar Pradesh,Prayagraj,81,177,23,No,89
+2025-10-05,Uttar Pradesh,Prayagraj,74,184,20,No,81
+2025-10-06,Uttar Pradesh,Prayagraj,478,1031,119,No,525
+2025-10-07,Uttar Pradesh,Prayagraj,346,582,58,No,380
+2025-10-08,Uttar Pradesh,Prayagraj,303,729,73,No,333
+2025-10-09,Uttar Pradesh,Prayagraj,482,736,115,No,530
+2025-10-10,Uttar Pradesh,Prayagraj,400,669,65,No,440
+2025-10-11,Uttar Pradesh,Prayagraj,47,75,16,No,51
+2025-10-12,Uttar Pradesh,Prayagraj,98,132,30,No,107
+2025-10-13,Uttar Pradesh,Prayagraj,399,603,100,No,438
+2025-10-14,Uttar Pradesh,Prayagraj,236,321,63,No,259
+2025-10-15,Uttar Pradesh,Prayagraj,557,1342,97,No,612
+2025-10-16,Uttar Pradesh,Prayagraj,228,444,51,No,250
+2025-10-17,Uttar Pradesh,Prayagraj,377,937,63,No,414
+2025-10-18,Uttar Pradesh,Prayagraj,60,136,14,No,66
+2025-10-19,Uttar Pradesh,Prayagraj,72,155,24,No,79
+2025-10-20,Uttar Pradesh,Prayagraj,299,666,86,No,328
+2025-10-21,Uttar Pradesh,Prayagraj,429,907,69,No,471
+2025-10-22,Uttar Pradesh,Prayagraj,459,561,101,No,504
+2025-10-23,Uttar Pradesh,Prayagraj,223,520,35,No,245
+2025-10-24,Uttar Pradesh,Prayagraj,384,535,73,No,422
+2025-10-25,Uttar Pradesh,Prayagraj,32,76,7,No,35
+2025-10-26,Uttar Pradesh,Prayagraj,56,85,18,No,61
+2025-10-27,Uttar Pradesh,Prayagraj,263,399,51,No,289
+2025-10-28,Uttar Pradesh,Prayagraj,201,292,47,No,221
+2025-10-29,Uttar Pradesh,Prayagraj,339,765,88,No,372
+2025-10-30,Uttar Pradesh,Prayagraj,285,349,63,No,313
+2025-10-31,Uttar Pradesh,Prayagraj,336,663,80,No,369
+2025-11-01,Uttar Pradesh,Prayagraj,64,96,17,No,70
+2025-11-02,Uttar Pradesh,Prayagraj,20,48,4,No,22
+2025-11-03,Uttar Pradesh,Prayagraj,157,227,29,No,172
+2025-11-04,Uttar Pradesh,Prayagraj,476,632,112,No,523
+2025-11-05,Uttar Pradesh,Prayagraj,320,462,50,No,352
+2025-11-06,Uttar Pradesh,Prayagraj,576,1187,124,No,633
+2025-11-07,Uttar Pradesh,Prayagraj,429,758,107,No,471
+2025-11-08,Uttar Pradesh,Prayagraj,25,58,4,No,27
+2025-11-09,Uttar Pradesh,Prayagraj,93,207,31,No,102
+2025-11-10,Uttar Pradesh,Prayagraj,466,570,114,No,512
+2025-11-11,Uttar Pradesh,Prayagraj,419,546,121,No,460
+2025-11-12,Uttar Pradesh,Prayagraj,527,1021,138,No,579
+2025-11-13,Uttar Pradesh,Prayagraj,592,744,200,No,651
+2025-11-14,Uttar Pradesh,Prayagraj,188,465,59,No,206
+2025-11-15,Uttar Pradesh,Prayagraj,82,112,22,No,90
+2025-11-16,Uttar Pradesh,Prayagraj,53,109,11,No,58
+2025-11-17,Uttar Pradesh,Prayagraj,200,350,31,No,220
+2025-11-18,Uttar Pradesh,Prayagraj,369,670,98,No,405
+2025-11-19,Uttar Pradesh,Prayagraj,253,582,54,No,278
+2025-11-20,Uttar Pradesh,Prayagraj,451,552,142,No,496
+2025-11-21,Uttar Pradesh,Prayagraj,425,636,84,No,467
+2025-11-22,Uttar Pradesh,Prayagraj,63,93,19,No,69
+2025-11-23,Uttar Pradesh,Prayagraj,57,82,19,No,62
+2025-11-24,Uttar Pradesh,Prayagraj,238,459,44,No,261
+2025-11-25,Uttar Pradesh,Prayagraj,253,487,64,No,278
+2025-11-26,Uttar Pradesh,Prayagraj,501,878,109,No,551
+2025-11-27,Uttar Pradesh,Prayagraj,549,1218,136,No,603
+2025-11-28,Uttar Pradesh,Prayagraj,457,586,94,No,502
+2025-11-29,Uttar Pradesh,Prayagraj,85,123,16,No,93
+2025-11-30,Uttar Pradesh,Prayagraj,51,75,9,No,56
+2025-12-01,Uttar Pradesh,Prayagraj,318,516,64,No,349
+2025-12-02,Uttar Pradesh,Prayagraj,505,991,145,No,555
+2025-12-03,Uttar Pradesh,Prayagraj,484,712,95,No,532
+2025-12-04,Uttar Pradesh,Prayagraj,410,590,120,No,451
+2025-12-05,Uttar Pradesh,Prayagraj,418,948,73,No,459
+2025-12-06,Uttar Pradesh,Prayagraj,25,51,8,No,27
+2025-12-07,Uttar Pradesh,Prayagraj,38,51,8,No,41
+2025-12-08,Uttar Pradesh,Prayagraj,361,441,122,No,397
+2025-12-09,Uttar Pradesh,Prayagraj,299,709,61,No,328
+2025-12-10,Uttar Pradesh,Prayagraj,357,486,89,No,392
+2025-12-11,Uttar Pradesh,Prayagraj,459,961,95,No,504
+2025-12-12,Uttar Pradesh,Prayagraj,500,771,106,No,550
+2025-12-13,Uttar Pradesh,Prayagraj,75,161,13,No,82
+2025-12-14,Uttar Pradesh,Prayagraj,79,108,23,No,86
+2025-12-15,Uttar Pradesh,Prayagraj,365,519,96,No,401
+2025-12-16,Uttar Pradesh,Prayagraj,531,834,89,No,584
+2025-12-17,Uttar Pradesh,Prayagraj,176,350,31,No,193
+2025-12-18,Uttar Pradesh,Prayagraj,207,373,49,No,227
+2025-12-19,Uttar Pradesh,Prayagraj,364,732,117,No,400
+2025-12-20,Uttar Pradesh,Prayagraj,21,43,6,No,23
+2025-12-21,Uttar Pradesh,Prayagraj,32,55,10,No,35
+2025-12-22,Uttar Pradesh,Prayagraj,506,1075,109,No,556
+2025-12-23,Uttar Pradesh,Prayagraj,390,733,113,No,429
+2025-12-24,Uttar Pradesh,Prayagraj,220,515,37,No,242
+2025-12-25,Uttar Pradesh,Prayagraj,237,583,58,No,260
+2025-12-26,Uttar Pradesh,Prayagraj,502,907,142,No,552
+2025-12-27,Uttar Pradesh,Prayagraj,87,107,19,No,95
+2025-12-28,Uttar Pradesh,Prayagraj,79,160,23,No,86
+2025-12-29,Uttar Pradesh,Prayagraj,578,1227,125,No,635
+2025-12-30,Uttar Pradesh,Prayagraj,369,760,124,No,405
+2025-12-31,Uttar Pradesh,Prayagraj,381,739,57,No,419
