@@ -49,7 +49,7 @@ The **Aadhaar Enrolment Intelligence System (AEIS)** is a real-time analytics da
 
 | **Dashboard Overview** | **Anomaly Detection** |
 |:---:|:---:|
-| ![Overview](Uida/assets/overview.png) | ![Anomaly](Uida/assets/anomaly.png) |
+| ![Overview](assets/overview.png) | ![Anomaly](assets/anomaly.png) |
 | *Real-time stats tracking* | *AI flagging suspicious activity* |
 
 ---
@@ -59,4 +59,4 @@ The **Aadhaar Enrolment Intelligence System (AEIS)** is a real-time analytics da
 1. **Clone the Repo**
    ```bash
    git clone [https://github.com/Mohit-Kumar/UIDAI.git](https://github.com/Mohit-Kumar/UIDAI.git)
-   cd UIDAI
+   cd UIDA
