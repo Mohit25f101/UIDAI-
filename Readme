@@ -1,19 +1,62 @@
-# UIDAI-
-The transforms Aadhaar enrolment data into actionable insights for monitoring operational health, detecting anomalies, and predicting future demand.
-UIDAI_Dashboard/
-├── .streamlit/
-│   └── config.toml       <-- (Crucial for UIDAI branding)
-├── data/
-│   ├── processed_data.csv  <-- (We will create this fake file today)
-├── modules/
-│   ├── __init__.py
-│   ├── ui_components.py  <-- (For reusable cards/headers)
-│   └── data_loader.py    <-- (To load data efficiently)
-├── pages/
-│   ├── 1_📊_Overview.py
-│   ├── 2_📍_Inclusion_Map.py
-│   ├── 3_⚠️_Anomaly_Detection.py
-│   └── 4_📈_Forecasting.py
-├── assets/
-│   └── uidai_logo.png    <-- (Download a transparent UIDAI logo)
-└── Home.py               <-- (The entry point)
+# 🇮🇳 Aadhaar Enrolment Intelligence System (AEIS)
+
+> **A Next-Gen AI Dashboard for Monitoring, Anomaly Detection & Forecasting.**
+> *Built for UIDAI Hackathon 2026*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/) 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Status](https://img.shields.io/badge/Status-Prototype%20Live-success)
+
+## 📌 Project Overview
+The **Aadhaar Enrolment Intelligence System (AEIS)** is a real-time analytics dashboard designed to empower UIDAI officials with data-driven insights. It solves key challenges in the enrolment ecosystem:
+1.  **Operational Visibility:** Real-time tracking of enrolments across states & districts.
+2.  **Fraud Detection:** AI-based anomaly detection to flag suspicious spikes in enrolments/updates.
+3.  **Future Planning:** ML-powered forecasting to predict resource demand.
+
+---
+
+## 🚀 Key Features
+
+### 1. 📊 Central Command Center (Overview)
+- Real-time KPIs: Total Enrolments, Updates Pending, Critical Alerts.
+- Interactive Filters: Drill down data by State (e.g., UP, Maharashtra).
+- Trend Analysis: Daily vs Monthly growth charts.
+
+### 2. 🚨 AI Anomaly Detection
+- **Fraud Guard:** Automatically detects statistical outliers (e.g., 200% spike in updates in a single day).
+- **Visual Evidence:** Scatter plots highlighting anomalies in 🔴 Red.
+- **Actionable Lists:** Generates downloadable reports of suspicious districts.
+
+### 3. 🔮 Predictive Forecasting
+- Uses historical data to predict enrolment volume for the next 30 days.
+- Helps in resource allocation (Machines/Staff deployment).
+
+### 4. 🗺️ Geographic Penetration
+- Interactive Map showing density of enrolments across India.
+- Color-coded markers for quick situational awareness.
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** Streamlit (Python)
+- **Data Processing:** Pandas, NumPy
+- **Visualization:** Plotly Express
+- **Logic:** Statistical Outlier Detection (Z-Score/IQR Logic)
+
+---
+
+## 📸 Screenshots
+
+| **Dashboard Overview** | **Anomaly Detection** |
+|:---:|:---:|
+| ![Overview](Uida/assets/overview.png) | ![Anomaly](Uida/assets/anomaly.png) |
+| *Real-time stats tracking* | *AI flagging suspicious activity* |
+
+---
+
+## 💻 How to Run Locally
+
+1. **Clone the Repo**
+   ```bash
+   git clone [https://github.com/Mohit-Kumar/UIDAI.git](https://github.com/Mohit-Kumar/UIDAI.git)
+   cd UIDAI
