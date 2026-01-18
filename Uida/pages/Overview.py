@@ -1,71 +1,59 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px  # Ye graph banane wala painter hai
+import plotly.express as px
 import os
 
-
-#1. Page ki setting (Tittle aur icon)
+# 1. Page Setting
 st.set_page_config(page_title="Enrolment Overview", page_icon="📊", layout="wide")
 
-# Logo fix (Check karke lagayenge)
+# Path Setup (GPS)
 current_dir = os.path.dirname(os.path.abspath(__file__))
 logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
+data_path = os.path.join(current_dir, "..", "data", "processed_data.csv")
+
+# Logo
 if os.path.exists(logo_path):
     st.logo(logo_path)
-    
-st.title("📊 National Enrolment Trends") # Page ka big headline
 
-#2. Data load karnatry:
+st.title("📊 National Enrolment Trends")
+
+# 2. Data Load (FIXED)
 try:
-    df = pd.read_csv('data/processed_data.csv')
+    df = pd.read_csv(data_path)
 except FileNotFoundError:
-    #Agar Data  nahi mila toh user ko batao, crash mat hone do
-    st.error("Data file nahi mili! 'processed_data.csv' check kar le.")
-    st.stop() # Aage ka code mat chalana
+    st.error(f"Data file nahi mili! Path check karo: {data_path}")
+    st.stop()
 
-#3. Sidebar filters(Remote)
+# 3. Sidebar Filters
 st.sidebar.title("Filters")
-
-#Dropdown for State selection
-# Hum .tolist() use karenge jo guaranteed kaam karega
 selected_state = st.sidebar.selectbox("Select State", ["All India"] + df['State'].unique().tolist())
 
-#Filter data based on selection
+# Filter Logic
 if selected_state != "All India":
     filtered_df = df[df['State'] == selected_state]
 else:
-    filtered_df = df # see All India
+    filtered_df = df
 
-#4. Scoreboard (Top Numbers)
+# 4. Scoreboard
 col1, col2, col3 = st.columns(3)
-col1.metric("Selected Records", len(filtered_df)) #Kitne row hain
-col2.metric("Total Enrolments", f"{filtered_df['Enrolments'].sum():,}") #Total Enrolments
+col1.metric("Selected Records", len(filtered_df))
+col2.metric("Total Enrolments", f"{filtered_df['Enrolments'].sum():,}")
 col3.metric("Avg Daily Updates", f"{int(filtered_df['Updates'].mean()):,}")
 
-st.divider() # Made the line of Design
+st.divider()
 
-#5. CHART 1: Line chart (like trading graph)
+# 5. Chart 1: Trends
 st.subheader(f"📅 Enrolment Trend - {selected_state}")
-
-#Putting data category Wise(Grouping)
 daily_trend = filtered_df.groupby("Date")[["Enrolments", "Updates"]].sum().reset_index()
+fig_line = px.line(daily_trend, x="Date", y=["Enrolments", "Updates"],
+                  markers=True, title="Daily Enrolments & Updates",
+                  color_discrete_sequence=["#ffaa00", "#0088ff"])
+st.plotly_chart(fig_line, use_container_width=True)
 
-#Graph X-Y axis (NO.)
-fig_line = px.line(daily_trend, x="Date", y=["Enrolments", "Updates"],  
-                  markers =True, title="Daily Enrolments and Updates Over Time",
-                  color_discrete_sequence=["#ffaa00", "#0088ff"]) # UIDAI ke colors (Orange/Blue)
-
-st.plotly_chart(fig_line, use_container_width=True) # Graph on screen
-
-#6. CHART 2: Bar Chart (Whose District is on top?)
+# 6. Chart 2: Top Districts
 st.subheader(f"🏙️ District Performance - {selected_state}")
-
-#Districts total(so top one come foreword)
 district_data = filtered_df.groupby("District")['Enrolments'].sum().reset_index().sort_values(by="Enrolments", ascending=False)
-
-#Top 10 Districts ka graph 
-fig_bar = px.bar(district_data.head(10), x="District", y="Enrolments", 
+fig_bar = px.bar(district_data.head(10), x="District", y="Enrolments",
                 color="Enrolments", color_continuous_scale="Oranges",
-                title="Top 10 Districts (by Enrolments)")
-
-st.plotly_chart(fig_bar, use_container_width=True) # Show kar diya graph
+                title="Top 10 Districts")
+st.plotly_chart(fig_bar, use_container_width=True)
