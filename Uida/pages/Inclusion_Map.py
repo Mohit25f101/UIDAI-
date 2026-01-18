@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 #1. Page Config
 st.set_page_config(page_title="Inclusion Map", page_icon="🗺️", layout="wide")
-st.logo("assets/uidai_logo.png")  # Logo at the top
+
+# Logo fix (Check karke lagayenge)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
+if os.path.exists(logo_path):
+    st.logo(logo_path)
 
 st.title("🗺️ Geographic Inclusin Coverage")  # Main title
 st.markdown ("Yeh map dikhata hai ki kis state mein **Enrolments (Size)** aur **Updates (color)** kaise distribute hua hai.")

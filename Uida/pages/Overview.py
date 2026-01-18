@@ -1,10 +1,18 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px  # Ye graph banane wala painter hai
+import os
+
+
 #1. Page ki setting (Tittle aur icon)
 st.set_page_config(page_title="Enrolment Overview", page_icon="📊", layout="wide")
-st.logo("assets/uidai_logo.png") # Apna brand stamp
 
+# Logo fix (Check karke lagayenge)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
+if os.path.exists(logo_path):
+    st.logo(logo_path)
+    
 st.title("📊 National Enrolment Trends") # Page ka big headline
 
 #2. Data load karnatry:

@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 #1. Page setup
 st.set_page_config(page_title="Anomaly Detection", page_icon="🚨", layout="wide")
-st.logo("assets/uidai_logo.png")
+
+# Logo fix (Check karke lagayenge)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
+if os.path.exists(logo_path):
+    st.logo(logo_path)
 
 st.title("🚨 Anomaly Detection System")
 st.markdown("**AI Rules** use karke wo data pakadta hai jo normal nahi lag raha (fraud/Error).")

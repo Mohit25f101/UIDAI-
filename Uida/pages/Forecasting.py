@@ -1,10 +1,16 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
 
 #1. Page config
 st.set_page_config(page_title=" AI Forecasting", page_icon="🔮", layout="wide")
-st.logo("assets/uidai_logo.png")
+
+# Logo fix (Check karke lagayenge)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
+if os.path.exists(logo_path):
+    st.logo(logo_path)
 
 st.title("🔮 AI-Powered Enrolment Forecasting")
 st.markdown("Yeh system **Historical Data** ko padh kar aane wale waqt ki **Predictions** karta hai, taaki hum apne resources ko behtar plan kar sakein.")
