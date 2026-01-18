@@ -1,7 +1,43 @@
 import pandas as pd
 import numpy as np
+import osgit 
+import random
 from datetime import datetime, timedelta
-import os
+
+# Setup
+states = ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal", "Madhya Pradesh", "Tamil Nadu", "Rajasthan", "Karnataka", "Gujarat", "Andhra Pradesh"]
+districts = ["District_A", "District_B", "District_C", "District_D", "District_E"]
+start_date = datetime(2023, 1, 1)
+dates = [start_date + timedelta(days=i) for i in range(365)]
+
+data = []
+
+for date in dates:
+    for state in states:
+        # --- NORMAL DATA ---
+        enrolments = np.random.randint(100, 5000)
+        updates = np.random.randint(50, 2000)
+        
+        # --- ANOMALY INJECTION (Masala) 🌶️ ---
+        # 2% chance ki koi fraud hoga (Boht zyada Enrolments ya Updates)
+        is_anomaly = False
+        if random.random() < 0.02: 
+            enrolments = np.random.randint(15000, 25000) # Achanak bohot saare log!
+            is_anomaly = True
+        
+        # Updates anomaly (Fraud activity)
+        if random.random() < 0.02:
+            updates = np.random.randint(10000, 15000) # Achanak bohot updates!
+            is_anomaly = True
+
+        # Forecast column (Future prediction simulation)
+        forecast = enrolments * np.random.uniform(0.9, 1.1)
+
+        data.append([date, state, random.choice(districts), enrolments, updates, forecast, is_anomaly])
+
+df = pd.DataFrame(data, columns=["Date", "State", "District", "Enrolments", "Updates", "Forecast", "Is_Anomaly"])
+df.to_csv("data/processed_data.csv", index=False)
+print("✅ Masaledaar Data Generated with Anomalies!")
 
 # --- STEP 1: FOLDER SETUP ---
 # Agar 'data' folder nahi mila to error aayega, isliye pehle hi bana lete hain
