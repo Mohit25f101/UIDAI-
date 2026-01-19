@@ -6,29 +6,49 @@ import os
 # 1. Page Config
 st.set_page_config(page_title="AI Forecasting", page_icon="🔮", layout="wide")
 
-# Path Setup
+# --- UNIVERSAL DATA LOADER ---
+@st.cache_data
+def load_data():
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    paths = [
+        os.path.join(current_dir, "..", "data", "processed_data.csv"),
+        os.path.join(current_dir, "data", "processed_data.csv"),
+        "data/processed_data.csv"
+    ]
+    file_path = None
+    for p in paths:
+        if os.path.exists(p):
+            file_path = p
+            break
+    if not file_path:
+        return None
+
+    df = pd.read_csv(file_path)
+    if 'Date' in df.columns:
+        df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
+    return df
+
+# UI Setup
 current_dir = os.path.dirname(os.path.abspath(__file__))
 logo_path = os.path.join(current_dir, "..", "assets", "uidai_logo.png")
-data_path = os.path.join(current_dir, "..", "data", "processed_data.csv")
-
 if os.path.exists(logo_path):
     st.logo(logo_path)
 
 st.title("🔮 AI-Powered Enrolment Forecasting")
 
-# 2. Data Load (FIXED)
-try:
-    df = pd.read_csv(data_path)
-    df['Date'] = pd.to_datetime(df['Date'])
-except FileNotFoundError:
-    st.error(f"Data file nahi mili! Path: {data_path}")
+# 2. Data Load
+df = load_data()
+
+if df is None:
+    st.error("🚨 Data file missing!")
     st.stop()
 
-# 3. Forecast Data
+# 3. Forecast Data Check
 if 'Forecast' not in df.columns:
-    st.error("Forecast column missing!")
+    st.error("⚠️ 'Forecast' column is missing! Please check the data source.")
     st.stop()
 
+# Group by Date
 daily_data = df.groupby("Date")[["Enrolments", "Forecast"]].sum().reset_index()
 
 # 4. Metrics
@@ -50,4 +70,4 @@ fig = px.line(chart_data, x="Date", y="Count", color="Type", markers=True,
               color_discrete_map={"Enrolments": "blue", "Forecast": "orange"})
 st.plotly_chart(fig, use_container_width=True)
 
-st.info("💡 **AI Suggestion:** Agle mahine demand badhne wali hai.")
+st.info("💡 **AI Insight:** Enrolment demand is expected to rise in the upcoming month.")

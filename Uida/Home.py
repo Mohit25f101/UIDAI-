@@ -4,54 +4,54 @@ import os
 import pandas as pd
 
 # ---------------------------------------------------------
-# 1. PAGE CONFIGURATION (Ye sabse pehli line honi chahiye)
+# 1. PAGE CONFIGURATION (Must be the first command)
 # ---------------------------------------------------------
 st.set_page_config(page_title="UIDAI Dashboard", page_icon="🇮🇳", layout="wide")
 
 # ---------------------------------------------------------
-# 2. PATH FINDER LOGIC (The "GPS" Fix) 🛰️
+# 2. PATH FINDER LOGIC (Universal Path Fix) 🛰️
 # ---------------------------------------------------------
-# Ye pata lagata hai ki Home.py exactly kahan rakha hai
+# Determine the absolute path of this script
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Phir wahan se rasta banata hai data aur logo tak
+# Construct paths for data and assets based on script location
 file_path = os.path.join(current_dir, "data", "processed_data.csv")
 logo_path = os.path.join(current_dir, "assets", "uidai_logo.png")
 
 # ---------------------------------------------------------
 # 3. SIDEBAR & LOGO
 # ---------------------------------------------------------
-# Agar logo file milti hai, tabhi lagayenge
+# Display logo only if the file exists
 if os.path.exists(logo_path):
     st.logo(logo_path)
 else:
-    # Agar logo nahi mila toh console me bata dega (Code crash nahi hoga)
+    # Log to console if logo is missing (prevents crash)
     print(f"Logo file not found at: {logo_path}")
 
 st.sidebar.title("Navigation")
 
 # Dropdown menu (Filter)
-state_filter = st.sidebar.selectbox("State Select Kar:", ["All India", "Delhi", "Maharashtra", "UP"])
+state_filter = st.sidebar.selectbox("Select State:", ["All India", "Delhi", "Maharashtra", "UP"])
 st.sidebar.divider()
-st.sidebar.info("Data real-time update ho raha hai (Dummy mode).")
+st.sidebar.info("Real-time data simulation active.")
 
 # ---------------------------------------------------------
 # 4. MAIN DASHBOARD UI
 # ---------------------------------------------------------
 st.title("🇮🇳 Aadhaar Enrolment Intelligence System")
 
-# Warning message (Prototype ke liye)
+# Warning message (For Prototype)
 st.warning("⚠️ **Prototype Version:** This dashboard is running on **Synthetic Data** for demonstration.")
 
 try:
-    # --- DATA LOADING (Ab Absolute Path use kar rahe hain) ---
+    # --- DATA LOADING (Using Absolute Path) ---
     df = pd.read_csv(file_path)
     
     # --- SECTION A: Key Metrics ---
     st.subheader("Key Metrics")
     col1, col2, col3 = st.columns(3)
     
-    # Safe logic: Agar column nahi mila toh 0 dikhayega (Crash nahi karega)
+    # Safe logic: Displays 0 if column is missing (prevents crash)
     total_enrolments = df['Enrolments'].sum() if 'Enrolments' in df.columns else 0
     total_updates = df['Updates'].sum() if 'Updates' in df.columns else 0
 
@@ -69,24 +69,24 @@ try:
         if 'State' in df.columns and 'Enrolments' in df.columns:
             st.bar_chart(df, x="State", y="Enrolments", color="#ffaa00") 
         else:
-            st.error("⚠️ Data mein 'State' ya 'Enrolments' column nahi mila.")
+            st.error("⚠️ 'State' or 'Enrolments' column missing in data.")
         
     with col_chart2:
         st.markdown("### Update Trends")
         if 'Updates' in df.columns:
             st.line_chart(df, y="Updates")
         else:
-            st.error("⚠️ Data mein 'Updates' column nahi mila.")
+            st.error("⚠️ 'Updates' column missing in data.")
 
     # --- SECTION C: Raw Data ---
-    with st.expander("Pura Data Table Dekhna Hai Toh Click Kar"):
+    with st.expander("View Full Data Table"):
         st.dataframe(df, use_container_width=True)
     
 except FileNotFoundError:
-    # Ab error aayega toh exact rasta batayega ki kahan dhoond raha tha
-    st.error(f"🚨 Arre file nahi mili! Code is raste par dhoond raha tha: {file_path}")
-    st.info("Ensure karo ki 'data' folder 'Uida' folder ke andar hi hai.")
+    # Detailed error message for debugging paths
+    st.error(f"🚨 File not found! The code searched at: {file_path}")
+    st.info("Please ensure the 'data' folder exists within the 'Uida' directory.")
 
 except Exception as e:
     # Generic error catcher
-    st.error(f"Kuch toh gadbad hai code me: {e}")
+    st.error(f"An error occurred: {e}")
