@@ -41,12 +41,73 @@ st.sidebar.info("Real-time data simulation active.")
 st.title("🇮🇳 Aadhaar Enrolment Intelligence System")
 
 # Warning message (For Prototype)
-st.warning("⚠️ **Prototype Version:** This dashboard is running on **Synthetic Data** for demonstration.")
+st.warning("⚠️ **Prototype Version:** This dashboard is running on **Real Strategic Data** for demonstration.")
 
 try:
     # --- DATA LOADING (Using Absolute Path) ---
     df = pd.read_csv(file_path)
     
+    # =========================================================
+    # 🆕 NEW FEATURE: AI EXECUTIVE SUMMARY & DOWNLOAD
+    # =========================================================
+    st.markdown("### 📢 AI System Insights")
+
+    # 1. Calculate Logic for the Summary
+    total_districts = len(df)
+    
+    # Check if Risk Level exists to generate insights
+    if 'Risk Level' in df.columns:
+        high_risk_count = len(df[df['Risk Level'] == 'High'])
+        
+        # Find the state with the most high-risk districts
+        if 'State' in df.columns:
+            risk_by_state = df[df['Risk Level'] == 'High']['State'].value_counts()
+            
+            if not risk_by_state.empty:
+                top_risk_state = risk_by_state.idxmax()
+                risk_count_state = risk_by_state.max()
+                summary_text = (
+                    f"**System Status:** Analyzing **{total_districts}** districts. "
+                    f"Currently, **{high_risk_count} districts** are flagged as **High Risk**. "
+                    f"⚠️ **Action Required:** The state of **{top_risk_state}** has the highest concentration "
+                    f"of issues ({risk_count_state} districts)."
+                )
+                status_color = "error" # Red box
+            else:
+                summary_text = "✅ **System Status:** All districts are performing within stable parameters. No critical risks detected."
+                status_color = "success" # Green box
+        else:
+            summary_text = f"**System Status:** Found {high_risk_count} High Risk districts."
+            status_color = "warning"
+    else:
+        summary_text = "System is gathering data... (Risk Analysis pending)"
+        status_color = "info"
+
+    # 2. Display the Summary Box
+    if status_color == "error":
+        st.error(summary_text)
+    elif status_color == "success":
+        st.success(summary_text)
+    else:
+        st.info(summary_text)
+
+    # 3. Add Download Button (The "Takeaway")
+    col_d1, col_d2 = st.columns([3, 1])
+    with col_d2:
+        # Filter only the important rows (High Risk) if possible
+        if 'Risk Level' in df.columns:
+            report_df = df[df['Risk Level'] == 'High']
+            csv = report_df.to_csv(index=False).encode('utf-8')
+            
+            st.download_button(
+                label="📥 Download Risk Report",
+                data=csv,
+                file_name="High_Risk_Report_UIDAI.csv",
+                mime="text/csv",
+            )
+    st.divider() # Line separator
+    # =========================================================
+
     # --- SECTION A: Key Metrics ---
     st.subheader("Key Metrics")
     col1, col2, col3 = st.columns(3)
@@ -54,10 +115,16 @@ try:
     # Safe logic: Displays 0 if column is missing (prevents crash)
     total_enrolments = df['Enrolments'].sum() if 'Enrolments' in df.columns else 0
     total_updates = df['Updates'].sum() if 'Updates' in df.columns else 0
+    
+    # Calculate critical alerts dynamically if Risk Level exists
+    if 'Risk Level' in df.columns:
+        critical_alerts = len(df[df['Risk Level'] == 'High'])
+    else:
+        critical_alerts = 0
 
-    col1.metric("Total Enrolments", f"{total_enrolments:,}")
-    col2.metric("Updates Pending", f"{total_updates:,}")
-    col3.metric("Critical Alerts", "12", delta="-2", delta_color="inverse")
+    col1.metric("Total Enrolments (Est.)", f"{total_enrolments:,}")
+    col2.metric("Updates Pending (Est.)", f"{total_updates:,}")
+    col3.metric("Critical Alerts", f"{critical_alerts}", delta="Live", delta_color="inverse")
     
     st.divider() # Line separator
     
@@ -67,14 +134,16 @@ try:
     with col_chart1:
         st.markdown("### State-wise Enrolments")
         if 'State' in df.columns and 'Enrolments' in df.columns:
-            st.bar_chart(df, x="State", y="Enrolments", color="#ffaa00") 
+            # Aggregate by State for cleaner chart
+            state_data = df.groupby('State')['Enrolments'].sum().sort_values(ascending=False).head(10)
+            st.bar_chart(state_data, color="#ffaa00") 
         else:
             st.error("⚠️ 'State' or 'Enrolments' column missing in data.")
         
     with col_chart2:
         st.markdown("### Update Trends")
         if 'Updates' in df.columns:
-            st.line_chart(df, y="Updates")
+            st.line_chart(df['Updates'].head(50)) # Limit to 50 pts for clarity
         else:
             st.error("⚠️ 'Updates' column missing in data.")
 
