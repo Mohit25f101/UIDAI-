@@ -44,9 +44,7 @@ if df is None:
 # ==============================================================================
 
 # 1. Precise District Coordinates 
-# (I added the specific ones from your raw data file!)
 district_coords = {
-    # UP & North
     "Prayagraj": {"lat": 25.4358, "lon": 81.8463},
     "Varanasi": {"lat": 25.3176, "lon": 82.9739},
     "Lucknow": {"lat": 26.8467, "lon": 80.9462},
@@ -54,28 +52,22 @@ district_coords = {
     "Rupnagar": {"lat": 30.9664, "lon": 76.5331},
     "Tehri Garhwal": {"lat": 30.3800, "lon": 78.4800},
     "Kargil": {"lat": 34.5539, "lon": 76.1349},
-    
-    # Maharashtra & West
     "Mumbai": {"lat": 19.0760, "lon": 72.8777},
     "Pune": {"lat": 18.5204, "lon": 73.8567},
-    "Ahilyanagar": {"lat": 19.0952, "lon": 74.7496}, # Ahmednagar
+    "Ahilyanagar": {"lat": 19.0952, "lon": 74.7496},
     "Ahmedabad": {"lat": 23.0225, "lon": 72.5714},
     "Jaipur": {"lat": 26.9124, "lon": 75.7873},
-
-    # East & Northeast
     "Kolkata": {"lat": 22.5726, "lon": 88.3639},
     "Darjeeling": {"lat": 27.0410, "lon": 88.2663},
     "Patna": {"lat": 25.5941, "lon": 85.1376},
     "Anjaw": {"lat": 27.9300, "lon": 96.8000},
     "Dima Hasao": {"lat": 25.5000, "lon": 93.0000},
-    
-    # South
     "Bangalore": {"lat": 12.9716, "lon": 77.5946},
     "Chennai": {"lat": 13.0827, "lon": 80.2707},
     "Hyderabad": {"lat": 17.3850, "lon": 78.4867}
 }
 
-# 2. Fallback State Coordinates (Safety Net)
+# 2. Fallback State Coordinates
 state_coords = {
     "Uttar Pradesh": {"lat": 26.8467, "lon": 80.9462},
     "Maharashtra": {"lat": 19.7515, "lon": 75.7139},
@@ -99,10 +91,8 @@ state_coords = {
 
 # --- LOGIC: HYBRID MAPPING ---
 def get_lat(row):
-    # 1. Try Specific District
     if row['District'] in district_coords:
         return district_coords[row['District']]['lat']
-    # 2. Fallback to State
     elif row['State'] in state_coords:
         return state_coords[row['State']]['lat']
     return None
@@ -116,18 +106,17 @@ def get_lon(row):
 
 # --- PROCESSING ---
 if 'District' in df.columns and 'State' in df.columns:
-    # Aggregate data to get 1 bubble per district
-    # We use 'max' for Risk Level to be safe (if any record was high risk, show high)
+    # --- FIX: Changed 'Risk Level' to 'Risk_Level' to match your data schema ---
+    risk_col = 'Risk_Level' if 'Risk_Level' in df.columns else 'Risk Level'
+    
     map_df = df.groupby(['State', 'District']).agg({
         'Enrolments': 'sum',
-        'Risk Level': 'first' 
+        risk_col: 'first' 
     }).reset_index()
 
     # Apply GPS
     map_df['lat'] = map_df.apply(get_lat, axis=1)
     map_df['lon'] = map_df.apply(get_lon, axis=1)
-    
-    # Remove rows where we couldn't find ANY location
     map_df = map_df.dropna(subset=['lat', 'lon'])
 
     # --- VISUALIZATION ---
@@ -136,25 +125,23 @@ if 'District' in df.columns and 'State' in df.columns:
         lat="lat",
         lon="lon",
         size="Enrolments",
-        color="Risk Level",
-        # Custom Colors: High Risk = RED, Low = GREEN
-        color_discrete_map={"High": "#FF0000", "Medium": "#FFA500", "Low": "#008000"},
+        color=risk_col,
+        color_discrete_map={"High Risk": "#FF0000", "Medium Risk": "#FFA500", "Low Risk": "#008000"},
         hover_name="District",
         hover_data={"State": True, "Enrolments": True, "lat": False, "lon": False},
         size_max=25,
         zoom=3.8,
-        center={"lat": 22.5937, "lon": 78.9629}, # India Center
+        center={"lat": 22.5937, "lon": 78.9629},
         mapbox_style="open-street-map",
         height=600
     )
     
     st.plotly_chart(fig, use_container_width=True)
     
-    # --- LEGEND / STATS ---
+    # --- STATS ---
     c1, c2, c3 = st.columns(3)
     c1.info(f"📍 Districts Mapped: **{len(map_df)}**")
-    c2.error(f"🔴 High Risk Zones: **{len(map_df[map_df['Risk Level']=='High'])}**")
-    c3.success(f"🟢 Stable Zones: **{len(map_df[map_df['Risk Level']=='Low'])}**")
-
+    c2.error(f"🔴 High Risk Zones: **{len(map_df[map_df[risk_col]=='High Risk'])}**")
+    c3.success(f"🟢 Stable Zones: **{len(map_df[map_df[risk_col]=='Low Risk'])}**")
 else:
     st.warning("⚠️ Data missing 'District' or 'State' columns.")
