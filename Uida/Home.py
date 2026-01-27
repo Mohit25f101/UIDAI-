@@ -1,161 +1,408 @@
-# Final update
+"""
+Enhanced Home Page - UIDAI Dashboard
+Features: Calendar filter, AI insights, improved metrics
+"""
+
 import streamlit as st
-import os
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+from datetime import datetime, timedelta
+import os
 
-# ---------------------------------------------------------
-# 1. PAGE CONFIGURATION (Must be the first command)
-# ---------------------------------------------------------
-st.set_page_config(page_title="UIDAI Dashboard", page_icon="🇮🇳", layout="wide")
+# Page configuration
+st.set_page_config(
+    page_title="UIDAI Dashboard - Home",
+    page_icon="🇮🇳",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
 
-# ---------------------------------------------------------
-# 2. PATH FINDER LOGIC (Universal Path Fix) 🛰️
-# ---------------------------------------------------------
-# Determine the absolute path of this script
+# Custom CSS for enhanced styling
+st.markdown("""
+    <style>
+    .metric-card {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        padding: 20px;
+        border-radius: 10px;
+        color: white;
+        text-align: center;
+    }
+    .alert-card {
+        background: #ff6b6b;
+        padding: 15px;
+        border-radius: 8px;
+        color: white;
+        margin: 10px 0;
+    }
+    .success-card {
+        background: #51cf66;
+        padding: 15px;
+        border-radius: 8px;
+        color: white;
+        margin: 10px 0;
+    }
+    .info-banner {
+        background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%);
+        padding: 20px;
+        border-radius: 10px;
+        color: white;
+        text-align: center;
+        font-size: 18px;
+        margin-bottom: 20px;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
+# Load data function
+@st.cache_data
+def load_data():
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    paths = [
+        os.path.join(current_dir, "data", "processed_data.csv"),
+        os.path.join(current_dir, "..", "data", "processed_data.csv"),
+        "data/processed_data.csv"
+    ]
+    
+    for path in paths:
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+            if 'Date' in df.columns:
+                df['Date'] = pd.to_datetime(df['Date'])
+            return df
+    return None
+
+# Logo
 current_dir = os.path.dirname(os.path.abspath(__file__))
-
-# Construct paths for data and assets based on script location
-file_path = os.path.join(current_dir, "data", "processed_data.csv")
 logo_path = os.path.join(current_dir, "assets", "uidai_logo.png")
-
-# ---------------------------------------------------------
-# 3. SIDEBAR & LOGO
-# ---------------------------------------------------------
-# Display logo only if the file exists
 if os.path.exists(logo_path):
     st.logo(logo_path)
-else:
-    # Log to console if logo is missing (prevents crash)
-    print(f"Logo file not found at: {logo_path}")
 
-st.sidebar.title("Navigation")
+# Main title
+st.markdown("""
+    <div class="info-banner">
+        🇮🇳 Aadhaar Enrolment Intelligence System - Real-Time Analytics
+    </div>
+""", unsafe_allow_html=True)
 
-# Dropdown menu (Filter)
-state_filter = st.sidebar.selectbox("Select State:", ["All India", "Delhi", "Maharashtra", "UP"])
-st.sidebar.divider()
-st.sidebar.info("Real-time data simulation active.")
+# Load data
+df = load_data()
 
-# ---------------------------------------------------------
-# 4. MAIN DASHBOARD UI
-# ---------------------------------------------------------
-st.title("🇮🇳 Aadhaar Enrolment Intelligence System")
+if df is None:
+    st.error("🚨 Data file not found! Please run the data processor first.")
+    st.stop()
 
-# Warning message (For Prototype)
-st.warning("⚠️ **Prototype Version:** This dashboard is running on **Real Strategic Data** for demonstration.")
+# ====================== SIDEBAR FILTERS ======================
+st.sidebar.title("🔍 Filters & Controls")
 
-try:
-    # --- DATA LOADING (Using Absolute Path) ---
-    df = pd.read_csv(file_path)
+# Date Range Filter (Calendar)
+st.sidebar.subheader("📅 Select Date Range")
+if 'Date' in df.columns:
+    min_date = df['Date'].min().date()
+    max_date = df['Date'].max().date()
     
-    # =========================================================
-    # 🆕 NEW FEATURE: AI EXECUTIVE SUMMARY & DOWNLOAD
-    # =========================================================
-    st.markdown("### 📢 AI System Insights")
-
-    # 1. Calculate Logic for the Summary
-    total_districts = len(df)
-    
-    # Check if Risk Level exists to generate insights
-    if 'Risk Level' in df.columns:
-        high_risk_count = len(df[df['Risk Level'] == 'High'])
-        
-        # Find the state with the most high-risk districts
-        if 'State' in df.columns:
-            risk_by_state = df[df['Risk Level'] == 'High']['State'].value_counts()
-            
-            if not risk_by_state.empty:
-                top_risk_state = risk_by_state.idxmax()
-                risk_count_state = risk_by_state.max()
-                summary_text = (
-                    f"**System Status:** Analyzing **{total_districts}** districts. "
-                    f"Currently, **{high_risk_count} districts** are flagged as **High Risk**. "
-                    f"⚠️ **Action Required:** The state of **{top_risk_state}** has the highest concentration "
-                    f"of issues ({risk_count_state} districts)."
-                )
-                status_color = "error" # Red box
-            else:
-                summary_text = "✅ **System Status:** All districts are performing within stable parameters. No critical risks detected."
-                status_color = "success" # Green box
-        else:
-            summary_text = f"**System Status:** Found {high_risk_count} High Risk districts."
-            status_color = "warning"
+    # Handle single-day data case gracefully
+    if min_date == max_date:
+        st.sidebar.warning(f"⚠️ Data contains only one date: {min_date}")
+        start_date = min_date
+        end_date = max_date
     else:
-        summary_text = "System is gathering data... (Risk Analysis pending)"
-        status_color = "info"
-
-    # 2. Display the Summary Box
-    if status_color == "error":
-        st.error(summary_text)
-    elif status_color == "success":
-        st.success(summary_text)
-    else:
-        st.info(summary_text)
-
-    # 3. Add Download Button (The "Takeaway")
-    col_d1, col_d2 = st.columns([3, 1])
-    with col_d2:
-        # Filter only the important rows (High Risk) if possible
-        if 'Risk Level' in df.columns:
-            report_df = df[df['Risk Level'] == 'High']
-            csv = report_df.to_csv(index=False).encode('utf-8')
-            
-            st.download_button(
-                label="📥 Download Risk Report",
-                data=csv,
-                file_name="High_Risk_Report_UIDAI.csv",
-                mime="text/csv",
+        col1, col2 = st.sidebar.columns(2)
+        with col1:
+            start_date = st.date_input(
+                "From",
+                value=min_date,
+                min_value=min_date,
+                max_value=max_date
             )
-    st.divider() # Line separator
-    # =========================================================
+        with col2:
+            end_date = st.date_input(
+                "To",
+                value=max_date,
+                min_value=min_date,
+                max_value=max_date
+            )
+    
+    # Filter data by date range
+    df = df[(df['Date'].dt.date >= start_date) & (df['Date'].dt.date <= end_date)]
+    
+    if min_date != max_date:
+        st.sidebar.info(f"📊 Showing data from {start_date} to {end_date}")
 
-    # --- SECTION A: Key Metrics ---
-    st.subheader("Key Metrics")
-    col1, col2, col3 = st.columns(3)
+# State Filter
+if 'State' in df.columns:
+    state_options = ["All India"] + sorted(df['State'].unique().tolist())
+    selected_state = st.sidebar.selectbox("🗺️ Select State", state_options)
     
-    # Safe logic: Displays 0 if column is missing (prevents crash)
-    total_enrolments = df['Enrolments'].sum() if 'Enrolments' in df.columns else 0
-    total_updates = df['Updates'].sum() if 'Updates' in df.columns else 0
+    if selected_state != "All India":
+        df = df[df['State'] == selected_state]
+
+# Risk Level Filter
+if 'Risk_Level' in df.columns:
+    risk_options = ["All Levels"] + sorted(df['Risk_Level'].unique().tolist())
+    selected_risk = st.sidebar.selectbox("⚠️ Risk Level", risk_options)
     
-    # Calculate critical alerts dynamically if Risk Level exists
-    if 'Risk Level' in df.columns:
-        critical_alerts = len(df[df['Risk Level'] == 'High'])
+    if selected_risk != "All Levels":
+        df = df[df['Risk_Level'] == selected_risk]
+
+# Priority Filter
+if 'Priority' in df.columns:
+    priority_options = ["All Priorities"] + sorted(df['Priority'].unique().tolist())
+    selected_priority = st.sidebar.selectbox("🎯 Priority", priority_options)
+    
+    if selected_priority != "All Priorities":
+        df = df[df['Priority'] == selected_priority]
+
+st.sidebar.divider()
+st.sidebar.success(f"✅ {len(df)} records loaded")
+
+# Quick Stats in Sidebar
+if len(df) > 0:
+    st.sidebar.subheader("📈 Quick Stats")
+    st.sidebar.metric("States Covered", df['State'].nunique() if 'State' in df.columns else 0)
+    st.sidebar.metric("Districts", df['District'].nunique() if 'District' in df.columns else 0)
+    if 'Is_Anomaly' in df.columns:
+        anomaly_pct = (df['Is_Anomaly'].sum() / len(df) * 100)
+        st.sidebar.metric("Anomaly Rate", f"{anomaly_pct:.1f}%")
+
+# ====================== MAIN DASHBOARD ======================
+
+# AI Executive Summary
+st.markdown("### 🤖 AI Executive Summary")
+
+if len(df) > 0:
+    total_districts = len(df)
+    high_risk_count = len(df[df['Risk_Level'] == 'High Risk']) if 'Risk_Level' in df.columns else 0
+    anomaly_count = df['Is_Anomaly'].sum() if 'Is_Anomaly' in df.columns else 0
+    
+    # Determine status
+    if high_risk_count > total_districts * 0.2:
+        status = "⚠️ CRITICAL"
+        color = "error"
+    elif high_risk_count > total_districts * 0.1:
+        status = "⚡ ATTENTION NEEDED"
+        color = "warning"
     else:
-        critical_alerts = 0
+        status = "✅ STABLE"
+        color = "success"
+    
+    # Generate summary
+    summary = f"""
+    **System Status: {status}**
+    
+    Monitoring **{total_districts}** districts across the selected period.
+    - **{high_risk_count}** districts flagged as High Risk ({high_risk_count/total_districts*100:.1f}%)
+    - **{anomaly_count}** anomalies detected requiring immediate review
+    """
+    
+    if 'State' in df.columns and high_risk_count > 0:
+        top_risk_state = df[df['Risk_Level'] == 'High Risk']['State'].value_counts().head(1)
+        if not top_risk_state.empty:
+            summary += f"\n- 🎯 **Priority State**: {top_risk_state.index[0]} ({top_risk_state.values[0]} high-risk districts)"
+    
+    if color == "error":
+        st.error(summary)
+    elif color == "warning":
+        st.warning(summary)
+    else:
+        st.success(summary)
+    
+    # Download buttons
+    col_dl1, col_dl2, col_dl3 = st.columns([2, 1, 1])
+    
+    with col_dl2:
+        if 'Risk_Level' in df.columns:
+            risk_report = df[df['Risk_Level'] == 'High Risk']
+            if len(risk_report) > 0:
+                csv = risk_report.to_csv(index=False).encode('utf-8')
+                st.download_button(
+                    label="📥 Download Risk Report",
+                    data=csv,
+                    file_name=f"high_risk_report_{datetime.now().strftime('%Y%m%d')}.csv",
+                    mime="text/csv",
+                )
+    
+    with col_dl3:
+        if 'Is_Anomaly' in df.columns:
+            anomaly_report = df[df['Is_Anomaly'] == True]
+            if len(anomaly_report) > 0:
+                csv = anomaly_report.to_csv(index=False).encode('utf-8')
+                st.download_button(
+                    label="📥 Download Anomalies",
+                    data=csv,
+                    file_name=f"anomalies_{datetime.now().strftime('%Y%m%d')}.csv",
+                    mime="text/csv",
+                )
 
-    col1.metric("Total Enrolments (Est.)", f"{total_enrolments:,}")
-    col2.metric("Updates Pending (Est.)", f"{total_updates:,}")
-    col3.metric("Critical Alerts", f"{critical_alerts}", delta="Live", delta_color="inverse")
-    
-    st.divider() # Line separator
-    
-    # --- SECTION B: Charts ---
-    col_chart1, col_chart2 = st.columns(2)
-    
-    with col_chart1:
-        st.markdown("### State-wise Enrolments")
-        if 'State' in df.columns and 'Enrolments' in df.columns:
-            # Aggregate by State for cleaner chart
-            state_data = df.groupby('State')['Enrolments'].sum().sort_values(ascending=False).head(10)
-            st.bar_chart(state_data, color="#ffaa00") 
-        else:
-            st.error("⚠️ 'State' or 'Enrolments' column missing in data.")
+st.divider()
+
+# ====================== KEY METRICS ======================
+st.subheader("📊 Key Performance Indicators")
+
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    total_enrolments = df['Enrolments'].sum() if 'Enrolments' in df.columns else 0
+    avg_enrolments = df['Enrolments'].mean() if 'Enrolments' in df.columns else 0
+    st.metric(
+        "Total Enrolments",
+        f"{total_enrolments:,}",
+        delta=f"Avg: {avg_enrolments:,.0f}/district"
+    )
+
+with col2:
+    total_updates = df['Updates'].sum() if 'Updates' in df.columns else 0
+    update_rate = (total_updates / total_enrolments * 100) if total_enrolments > 0 else 0
+    st.metric(
+        "Updates Processed",
+        f"{total_updates:,}",
+        delta=f"{update_rate:.1f}% rate"
+    )
+
+with col3:
+    if 'Risk_Level' in df.columns:
+        critical_alerts = len(df[df['Risk_Level'] == 'High Risk'])
+        st.metric(
+            "Critical Alerts",
+            critical_alerts,
+            delta="Needs Action" if critical_alerts > 0 else "All Clear",
+            delta_color="inverse" if critical_alerts > 0 else "normal"
+        )
+    else:
+        st.metric("Critical Alerts", "N/A")
+
+with col4:
+    if 'Confidence_Score' in df.columns:
+        avg_confidence = df['Confidence_Score'].mean()
+        st.metric(
+            "Avg Confidence",
+            f"{avg_confidence:.1f}%",
+            delta="System Health"
+        )
+    else:
+        st.metric("System Health", "N/A")
+
+st.divider()
+
+# ====================== VISUALIZATIONS ======================
+st.subheader("📈 Trend Analysis")
+
+col_chart1, col_chart2 = st.columns(2)
+
+with col_chart1:
+    st.markdown("#### 📅 Daily Enrolment Trends")
+    if 'Date' in df.columns and 'Enrolments' in df.columns:
+        daily_data = df.groupby('Date')[['Enrolments', 'Updates']].sum().reset_index()
         
-    with col_chart2:
-        st.markdown("### Update Trends")
-        if 'Updates' in df.columns:
-            st.line_chart(df['Updates'].head(50)) # Limit to 50 pts for clarity
-        else:
-            st.error("⚠️ 'Updates' column missing in data.")
+        fig = go.Figure()
+        fig.add_trace(go.Scatter(
+            x=daily_data['Date'],
+            y=daily_data['Enrolments'],
+            name='Enrolments',
+            mode='lines+markers',
+            line=dict(color='#4facfe', width=3),
+            fill='tozeroy'
+        ))
+        fig.add_trace(go.Scatter(
+            x=daily_data['Date'],
+            y=daily_data['Updates'],
+            name='Updates',
+            mode='lines+markers',
+            line=dict(color='#f093fb', width=2)
+        ))
+        
+        fig.update_layout(
+            hovermode='x unified',
+            height=350,
+            margin=dict(l=0, r=0, t=30, b=0)
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Date or Enrolments data not available")
 
-    # --- SECTION C: Raw Data ---
-    with st.expander("View Full Data Table"):
-        st.dataframe(df, use_container_width=True)
+with col_chart2:
+    st.markdown("#### 🗺️ State-wise Distribution")
+    if 'State' in df.columns and 'Enrolments' in df.columns:
+        state_data = df.groupby('State')['Enrolments'].sum().sort_values(ascending=False).head(10).reset_index()
+        
+        fig = px.bar(
+            state_data,
+            x='Enrolments',
+            y='State',
+            orientation='h',
+            color='Enrolments',
+            color_continuous_scale='Viridis'
+        )
+        fig.update_layout(
+            showlegend=False,
+            height=350,
+            margin=dict(l=0, r=0, t=30, b=0)
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("State or Enrolments data not available")
+
+st.divider()
+
+# ====================== RISK & PERFORMANCE ======================
+col_risk1, col_risk2 = st.columns(2)
+
+with col_risk1:
+    st.markdown("#### ⚠️ Risk Distribution")
+    if 'Risk_Level' in df.columns:
+        risk_data = df['Risk_Level'].value_counts().reset_index()
+        risk_data.columns = ['Risk Level', 'Count']
+        
+        fig = px.pie(
+            risk_data,
+            values='Count',
+            names='Risk Level',
+            color='Risk Level',
+            color_discrete_map={'High Risk': '#ff6b6b', 'Medium Risk': '#ffd43b', 'Low Risk': '#51cf66'},
+            hole=0.4
+        )
+        fig.update_traces(textposition='inside', textinfo='percent+label')
+        fig.update_layout(height=350, margin=dict(l=0, r=0, t=30, b=0))
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Risk Level data not available")
+
+with col_risk2:
+    st.markdown("#### 🎯 Priority Actions")
+    if 'Priority' in df.columns:
+        priority_data = df['Priority'].value_counts().reset_index()
+        priority_data.columns = ['Priority', 'Count']
+        
+        fig = px.bar(
+            priority_data,
+            x='Priority',
+            y='Count',
+            color='Priority',
+            color_discrete_map={'High': '#ff6b6b', 'Medium': '#ffd43b', 'Low': '#51cf66'}
+        )
+        fig.update_layout(
+            showlegend=False,
+            height=350,
+            margin=dict(l=0, r=0, t=30, b=0)
+        )
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Priority data not available")
+
+st.divider()
+
+# ====================== DATA TABLE ======================
+with st.expander("📋 View Detailed Data Table", expanded=False):
+    display_cols = [col for col in ['State', 'District', 'Date', 'Enrolments', 'Updates', 
+                                     'Risk_Level', 'Priority', 'MEGR', 'Anomaly_Score'] 
+                    if col in df.columns]
     
-except FileNotFoundError:
-    # Detailed error message for debugging paths
-    st.error(f"🚨 File not found! The code searched at: {file_path}")
-    st.info("Please ensure the 'data' folder exists within the 'Uida' directory.")
+    st.dataframe(
+        df[display_cols].sort_values('Date', ascending=False),
+        use_container_width=True,
+        hide_index=True
+    )
 
-except Exception as e:
-    # Generic error catcher
-    st.error(f"An error occurred: {e}")
+# Footer
+st.markdown("---")
+st.caption("🇮🇳 Aadhaar Enrolment Intelligence System | Powered by AI Analytics | Real-time Monitoring")
