@@ -494,7 +494,6 @@ For issues, questions, or suggestions:
 
 ---
 
-**Version**: 2.0 Enhanced
 **Last Updated**: January 27, 2026
 **Maintainer**: UIDAI Hackathon Team
 **Status**: Production Ready ✅
